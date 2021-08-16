@@ -49,24 +49,24 @@ def spot_mutation(rate, spot_type):
 # infection 
 #==============================================================================
 
-def num_infected(inner, outer, Sus_I, Sus_J):
+def num_infected(rate, Sus_I):
 #inner beta, intra beta, arrays of indices for inside and outside group
 #returns: arrays of index numbers for those selected
     I_inf = []
-    J_inf = []
-    num_in = inner*len(Sus_I)
-    num_out = inner*len(Sus_J)
+    
+    num_in = int(np.random.poisson(rate))
+    #print('num in: ' + str(num_in))
+    #print('num out: ' + str(num_out))
+    
     for i in range(num_in):
         I_inf.append(random.choice(Sus_I))
-    for o in range(num_out):
-        I_inf.append(random.choice(Sus_J)
-    return I_inf, J_inf
+    return I_inf
                      
 #==============================================================================
 # recovery 
 #==============================================================================
 
-def recovery_odd(k=1,theta=10):
+def recovery_odds(k=1,theta=10):
 #gamma functoin - time until next event
                      #k is number of events (one)
                      #theta is avg num days to infection (10)
