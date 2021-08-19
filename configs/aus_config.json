@@ -1,0 +1,26 @@
+{
+ "title": "Ground Truth of Simulated Sequences",
+ "maintainers": [
+   {"name": "Naomi Rankin", "url": "https://google.com"}
+ ],
+ "build_url": "https://github.com/nahomiiiie/genomic_sampling",
+ "colorings": [
+  {
+   "key": "num_date",
+   "title": "Date of Infection",
+   "type": "continuous"
+  },
+  {
+    "key": "location",
+    "title": "Community",
+    "type": "categorical"
+  }
+ ],
+ "geo_resolutions": [
+   "location"
+ ],
+ "filters": [
+  "location",
+  "author"
+ ]
+}
