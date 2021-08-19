@@ -1,0 +1,236 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Mac OS X 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    Loaner-Mac-RJJ1WL (AVX2, FMA3, 8 GB RAM)
+Command: iqtree2 -ninit 2 -n 2 -me 0.05 -nt 1 -s results/aligned-delim.fasta -m GTR
+Seed:    796666 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Aug 19 15:40:00 2021
+Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file results/aligned-delim.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 103 sequences with 29903 columns, 81 distinct patterns
+26 parsimony-informative, 118 singleton sites, 29759 constant sites
+           Gap/Ambiguity  Composition  p-value
+   1  base_case    0.00%    passed     99.93%
+   2  G22670       0.00%    passed    100.00%
+   3  G22869       0.00%    passed    100.00%
+   4  G22909       0.00%    passed    100.00%
+   5  G22690       0.00%    passed    100.00%
+   6  G22691       0.00%    passed    100.00%
+   7  G22884       0.00%    passed    100.00%
+   8  G22930       0.00%    passed    100.00%
+   9  G22955       0.00%    passed    100.00%
+  10  G22979       0.00%    passed    100.00%
+  11  G23015       0.00%    passed    100.00%
+  12  G22710       0.00%    passed    100.00%
+  13  G22781       0.00%    passed    100.00%
+  14  G22834       0.00%    passed    100.00%
+  15  G22924       0.00%    passed    100.00%
+  16  G22700       0.00%    passed    100.00%
+  17  G22807       0.00%    passed    100.00%
+  18  G23035       0.00%    passed    100.00%
+  19  G22737       0.00%    passed    100.00%
+  20  G22768       0.00%    passed    100.00%
+  21  G22791       0.00%    passed    100.00%
+  22  G23007       0.00%    passed    100.00%
+  23  G23045       0.00%    passed    100.00%
+  24  G22680       0.00%    passed    100.00%
+  25  G22731       0.00%    passed    100.00%
+  26  G22764       0.00%    passed    100.00%
+  27  G22818       0.00%    passed    100.00%
+  28  G22845       0.00%    passed    100.00%
+  29  G22847       0.00%    passed    100.00%
+  30  G22886       0.00%    passed    100.00%
+  31  G23008       0.00%    passed    100.00%
+  32  G23010       0.00%    passed    100.00%
+  33  G23017       0.00%    passed    100.00%
+  34  G23018       0.00%    passed    100.00%
+  35  G23041       0.00%    passed    100.00%
+  36  G23057       0.00%    passed    100.00%
+  37  G22734       0.00%    passed    100.00%
+  38  G22772       0.00%    passed    100.00%
+  39  G22952       0.00%    passed    100.00%
+  40  G22994       0.00%    passed    100.00%
+  41  G22801       0.00%    passed    100.00%
+  42  G22836       0.00%    passed    100.00%
+  43  G22885       0.00%    passed    100.00%
+  44  G22732       0.00%    passed    100.00%
+  45  G22751       0.00%    passed    100.00%
+  46  G22858       0.00%    passed    100.00%
+  47  G23023       0.00%    passed    100.00%
+  48  G22793       0.00%    passed    100.00%
+  49  G23053       0.00%    passed    100.00%
+  50  G22799       0.00%    passed    100.00%
+  51  G22918       0.00%    passed    100.00%
+  52  G23061       0.00%    passed    100.00%
+  53  G22714       0.00%    passed    100.00%
+  54  G22948       0.00%    passed    100.00%
+  55  G23040       0.00%    passed    100.00%
+  56  G22888       0.00%    passed    100.00%
+  57  G22898       0.00%    passed    100.00%
+  58  G22899       0.00%    passed    100.00%
+  59  G22978       0.00%    passed    100.00%
+  60  G22778       0.00%    passed    100.00%
+  61  G22826       0.00%    passed    100.00%
+  62  G22944       0.00%    passed    100.00%
+  63  G22673       0.00%    passed    100.00%
+  64  G22856       0.00%    passed    100.00%
+  65  G22861       0.00%    passed    100.00%
+  66  G22990       0.00%    passed    100.00%
+  67  G22950       0.00%    passed    100.00%
+  68  G23068       0.00%    passed    100.00%
+  69  G22811       0.00%    passed    100.00%
+  70  G22783       0.00%    passed    100.00%
+  71  G22860       0.00%    passed    100.00%
+  72  G22876       0.00%    passed     99.99%
+  73  G22741       0.00%    passed    100.00%
+  74  G22873       0.00%    passed    100.00%
+  75  G23026       0.00%    passed    100.00%
+  76  G22684       0.00%    passed    100.00%
+  77  G22725       0.00%    passed    100.00%
+  78  G22726       0.00%    passed    100.00%
+  79  G22729       0.00%    passed    100.00%
+  80  G22746       0.00%    passed    100.00%
+  81  G22792       0.00%    passed    100.00%
+  82  G22797       0.00%    passed    100.00%
+  83  G22843       0.00%    passed    100.00%
+  84  G23005       0.00%    passed    100.00%
+  85  G22933       0.00%    passed    100.00%
+  86  G23058       0.00%    passed    100.00%
+  87  G22760       0.00%    passed    100.00%
+  88  G22718       0.00%    passed    100.00%
+  89  G22991       0.00%    passed    100.00%
+  90  G23054       0.00%    passed     99.99%
+  91  G23048       0.00%    passed     99.99%
+  92  G22895       0.00%    passed     99.99%
+  93  G22983       0.00%    passed    100.00%
+  94  G22998       0.00%    passed    100.00%
+  95  G22704       0.00%    passed    100.00%
+  96  G22787       0.00%    passed    100.00%
+  97  G22959       0.00%    passed    100.00%
+  98  G23030       0.00%    passed    100.00%
+  99  G22762       0.00%    passed    100.00%
+ 100  G22755       0.00%    passed    100.00%
+ 101  G22822       0.00%    passed    100.00%
+ 102  G22780       0.00%    passed    100.00%
+ 103  G22902       0.00%    passed     99.99%
+****  TOTAL        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: G22869 is identical to G22670 but kept for subsequent analysis
+NOTE: G22691 is identical to G22690 but kept for subsequent analysis
+NOTE: G22834 is identical to G22781 but kept for subsequent analysis
+NOTE: G22807 is identical to G22700 but kept for subsequent analysis
+NOTE: G22768 is identical to G22737 but kept for subsequent analysis
+NOTE: G22731 is identical to G22680 but kept for subsequent analysis
+NOTE: G22772 is identical to G22734 but kept for subsequent analysis
+NOTE: G22751 is identical to G22732 but kept for subsequent analysis
+NOTE: G23053 is identical to G22793 but kept for subsequent analysis
+NOTE: G22948 is identical to G22714 but kept for subsequent analysis
+NOTE: G22898 is identical to G22888 but kept for subsequent analysis
+NOTE: G22856 is identical to G22673 but kept for subsequent analysis
+NOTE: G22860 is identical to G22783 but kept for subsequent analysis
+NOTE: G22873 is identical to G22741 but kept for subsequent analysis
+NOTE: G22725 is identical to G22684 but kept for subsequent analysis
+NOTE: G22787 is identical to G22704 but kept for subsequent analysis
+NOTE: G22822 is identical to G22755 but kept for subsequent analysis
+NOTE: 38 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: G22909 (identical to G22670) is ignored but added at the end
+NOTE: G22884 (identical to G22690) is ignored but added at the end
+NOTE: G22930 (identical to G22690) is ignored but added at the end
+NOTE: G22955 (identical to G22690) is ignored but added at the end
+NOTE: G22979 (identical to G22690) is ignored but added at the end
+NOTE: G23015 (identical to G22690) is ignored but added at the end
+NOTE: G23035 (identical to G22700) is ignored but added at the end
+NOTE: G22791 (identical to G22737) is ignored but added at the end
+NOTE: G23007 (identical to G22737) is ignored but added at the end
+NOTE: G22764 (identical to G22680) is ignored but added at the end
+NOTE: G22818 (identical to G22680) is ignored but added at the end
+NOTE: G22845 (identical to G22680) is ignored but added at the end
+NOTE: G22847 (identical to G22680) is ignored but added at the end
+NOTE: G22886 (identical to G22680) is ignored but added at the end
+NOTE: G23008 (identical to G22680) is ignored but added at the end
+NOTE: G23010 (identical to G22680) is ignored but added at the end
+NOTE: G23017 (identical to G22680) is ignored but added at the end
+NOTE: G23018 (identical to G22680) is ignored but added at the end
+NOTE: G23041 (identical to G22680) is ignored but added at the end
+NOTE: G23057 (identical to G22680) is ignored but added at the end
+NOTE: G22952 (identical to G22734) is ignored but added at the end
+NOTE: G22994 (identical to G22734) is ignored but added at the end
+NOTE: G22858 (identical to G22732) is ignored but added at the end
+NOTE: G23023 (identical to G22732) is ignored but added at the end
+NOTE: G23040 (identical to G22714) is ignored but added at the end
+NOTE: G22899 (identical to G22888) is ignored but added at the end
+NOTE: G22978 (identical to G22888) is ignored but added at the end
+NOTE: G22861 (identical to G22673) is ignored but added at the end
+NOTE: G22990 (identical to G22673) is ignored but added at the end
+NOTE: G22726 (identical to G22684) is ignored but added at the end
+NOTE: G22729 (identical to G22684) is ignored but added at the end
+NOTE: G22746 (identical to G22684) is ignored but added at the end
+NOTE: G22792 (identical to G22684) is ignored but added at the end
+NOTE: G22797 (identical to G22684) is ignored but added at the end
+NOTE: G22843 (identical to G22684) is ignored but added at the end
+NOTE: G23005 (identical to G22684) is ignored but added at the end
+NOTE: G22959 (identical to G22704) is ignored but added at the end
+NOTE: G23030 (identical to G22704) is ignored but added at the end
+Alignment was printed to results/aligned-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/aligned-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -42000.070
+2. Current log-likelihood: -41996.958
+Optimal log-likelihood: -41996.674
+Rate parameters:  A-C: 0.99626  A-G: 1.54367  A-T: 1.02343  C-G: 1.13186  C-T: 0.93277  G-T: 1.00000
+Base frequencies:  A: 0.299  C: 0.184  G: 0.196  T: 0.321
+Parameters optimization took 2 rounds (0.012 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.040887 sec (of wall-clock time) 0.030360 sec(of CPU time)
+Computing RapidNJ tree took 0.000953 sec (of wall-clock time) 0.001281 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -41999.214
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+BETTER TREE FOUND at iteration 1: -41996.674
+Finish initializing candidate tree set (4)
+Current best tree score: -41996.674 / CPU time: 0.037
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -41996.674
+2. Current log-likelihood: -41996.392
+3. Current log-likelihood: -41996.235
+4. Current log-likelihood: -41996.114
+Optimal log-likelihood: -41996.073
+Rate parameters:  A-C: 1.18108  A-G: 1.85090  A-T: 1.18027  C-G: 1.37282  C-T: 1.09478  G-T: 1.00000
+Base frequencies:  A: 0.299  C: 0.184  G: 0.196  T: 0.321
+Parameters optimization took 4 rounds (0.026 sec)
+BEST SCORE FOUND : -41996.073
+Total tree length: 0.005
+
+Total number of iterations: 2
+CPU time used for tree search: 0.024 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.038 sec (0h:0m:0s)
+Total CPU time used: 0.122 sec (0h:0m:0s)
+Total wall-clock time used: 0.179 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/aligned-delim.fasta.treefile
+  Likelihood distances:          results/aligned-delim.fasta.mldist
+  Screen log file:               results/aligned-delim.fasta.log
+
+Date and Time: Thu Aug 19 15:40:01 2021

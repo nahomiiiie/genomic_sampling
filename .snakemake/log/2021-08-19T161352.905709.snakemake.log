@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 105 of /Users/naomi.rankin/sampling_bias/Snakefile:
+Missing input files for rule export:
+configs/color.tsv
