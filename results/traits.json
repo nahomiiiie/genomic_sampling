@@ -6,22 +6,22 @@
   "models": {
     "location": {
       "alphabet": [
-        "community A",
-        "community B",
+        0,
+        1,
         "?"
       ],
       "equilibrium_probabilities": [
-        0.40290445178277806,
-        0.597095548217222
+        0.4024130737654143,
+        0.5975869262345858
       ],
-      "rate": 205.84983912346988,
+      "rate": 205.72349420765025,
       "transition_matrix": [
         [
           0.0,
-          2.0783759346227253
+          2.0792027213896174
         ],
         [
-          2.0783759346227253,
+          2.0792027213896174,
           0.0
         ]
       ]
@@ -29,562 +29,559 @@
   },
   "nodes": {
     "G22670": {
-      "location": "community A"
+      "location": 0
     },
     "G22673": {
-      "location": "community A"
+      "location": 0
     },
     "G22680": {
-      "location": "community B"
+      "location": 1
     },
     "G22684": {
-      "location": "community B"
+      "location": 1
     },
     "G22690": {
-      "location": "community A"
+      "location": 0
     },
     "G22691": {
-      "location": "community B"
+      "location": 1
     },
     "G22700": {
-      "location": "community B"
+      "location": 1
     },
     "G22704": {
-      "location": "community B"
+      "location": 1
     },
     "G22710": {
-      "location": "community A"
+      "location": 0
     },
     "G22714": {
-      "location": "community B"
+      "location": 1
     },
     "G22718": {
-      "location": "community A"
+      "location": 0
     },
     "G22725": {
-      "location": "community A"
+      "location": 0
     },
     "G22726": {
-      "location": "community A"
+      "location": 0
     },
     "G22729": {
-      "location": "community A"
+      "location": 0
     },
     "G22731": {
-      "location": "community B"
+      "location": 1
     },
     "G22732": {
-      "location": "community B"
+      "location": 1
     },
     "G22734": {
-      "location": "community A"
+      "location": 0
     },
     "G22737": {
-      "location": "community A"
+      "location": 0
     },
     "G22741": {
-      "location": "community B"
+      "location": 1
     },
     "G22746": {
-      "location": "community A"
+      "location": 0
     },
     "G22751": {
-      "location": "community B"
+      "location": 1
     },
     "G22755": {
-      "location": "community A"
+      "location": 0
     },
     "G22760": {
-      "location": "community A"
+      "location": 0
     },
     "G22762": {
-      "location": "community A"
+      "location": 0
     },
     "G22764": {
-      "location": "community B"
+      "location": 1
     },
     "G22768": {
-      "location": "community B"
+      "location": 1
     },
     "G22772": {
-      "location": "community A"
+      "location": 0
     },
     "G22778": {
-      "location": "community B"
+      "location": 1
     },
     "G22780": {
-      "location": "community B"
+      "location": 1
     },
     "G22781": {
-      "location": "community A"
+      "location": 0
     },
     "G22783": {
-      "location": "community A"
+      "location": 0
     },
     "G22787": {
-      "location": "community B"
+      "location": 1
     },
     "G22791": {
-      "location": "community A"
+      "location": 0
     },
     "G22792": {
-      "location": "community B"
+      "location": 1
     },
     "G22793": {
-      "location": "community B"
+      "location": 1
     },
     "G22797": {
-      "location": "community A"
+      "location": 0
     },
     "G22799": {
-      "location": "community B"
+      "location": 1
     },
     "G22801": {
-      "location": "community A"
+      "location": 0
     },
     "G22807": {
-      "location": "community B"
+      "location": 1
     },
     "G22811": {
-      "location": "community A"
+      "location": 0
     },
     "G22818": {
-      "location": "community B"
+      "location": 1
     },
     "G22822": {
-      "location": "community B"
+      "location": 1
     },
     "G22826": {
-      "location": "community B"
+      "location": 1
     },
     "G22834": {
-      "location": "community A"
+      "location": 0
     },
     "G22836": {
-      "location": "community A"
+      "location": 0
     },
     "G22843": {
-      "location": "community B"
+      "location": 1
     },
     "G22845": {
-      "location": "community B"
+      "location": 1
     },
     "G22847": {
-      "location": "community B"
+      "location": 1
     },
     "G22856": {
-      "location": "community A"
+      "location": 0
     },
     "G22858": {
-      "location": "community B"
+      "location": 1
     },
     "G22860": {
-      "location": "community A"
+      "location": 0
     },
     "G22861": {
-      "location": "community B"
+      "location": 1
     },
     "G22869": {
-      "location": "community A"
+      "location": 0
     },
     "G22873": {
-      "location": "community B"
+      "location": 1
     },
     "G22876": {
-      "location": "community A"
+      "location": 0
     },
     "G22884": {
-      "location": "community B"
+      "location": 1
     },
     "G22885": {
-      "location": "community A"
+      "location": 0
     },
     "G22886": {
-      "location": "community A"
+      "location": 0
     },
     "G22888": {
-      "location": "community A"
+      "location": 0
     },
     "G22895": {
-      "location": "community A"
+      "location": 0
     },
     "G22898": {
-      "location": "community B"
+      "location": 1
     },
     "G22899": {
-      "location": "community B"
+      "location": 1
     },
     "G22902": {
-      "location": "community B"
+      "location": 1
     },
     "G22909": {
-      "location": "community B"
+      "location": 1
     },
     "G22918": {
-      "location": "community B"
+      "location": 1
     },
     "G22924": {
-      "location": "community A"
+      "location": 0
     },
     "G22930": {
-      "location": "community A"
+      "location": 0
     },
     "G22933": {
-      "location": "community A"
+      "location": 0
     },
     "G22944": {
-      "location": "community B"
+      "location": 1
     },
     "G22948": {
-      "location": "community B"
+      "location": 1
     },
     "G22950": {
-      "location": "community A"
+      "location": 0
     },
     "G22952": {
-      "location": "community A"
+      "location": 0
     },
     "G22955": {
-      "location": "community A"
+      "location": 0
     },
     "G22959": {
-      "location": "community B"
+      "location": 1
     },
     "G22978": {
-      "location": "community B"
+      "location": 1
     },
     "G22979": {
-      "location": "community B"
+      "location": 1
     },
     "G22983": {
-      "location": "community B"
+      "location": 1
     },
     "G22990": {
-      "location": "community B"
+      "location": 1
     },
     "G22991": {
-      "location": "community B"
+      "location": 1
     },
     "G22994": {
-      "location": "community A"
+      "location": 0
     },
     "G22998": {
-      "location": "community B"
+      "location": 1
     },
     "G23005": {
-      "location": "community B"
+      "location": 1
     },
     "G23007": {
-      "location": "community B"
+      "location": 1
     },
     "G23008": {
-      "location": "community A"
+      "location": 0
     },
     "G23010": {
-      "location": "community B"
+      "location": 1
     },
     "G23015": {
-      "location": "community A"
+      "location": 0
     },
     "G23017": {
-      "location": "community B"
+      "location": 1
     },
     "G23018": {
-      "location": "community B"
+      "location": 1
     },
     "G23023": {
-      "location": "community B"
+      "location": 1
     },
     "G23026": {
-      "location": "community A"
+      "location": 0
     },
     "G23030": {
-      "location": "community A"
+      "location": 0
     },
     "G23035": {
-      "location": "community B"
+      "location": 1
     },
     "G23040": {
-      "location": "community B"
+      "location": 1
     },
     "G23041": {
-      "location": "community B"
+      "location": 1
     },
     "G23045": {
-      "location": "community A"
+      "location": 0
     },
     "G23048": {
-      "location": "community A"
+      "location": 0
     },
     "G23053": {
-      "location": "community B"
+      "location": 1
     },
     "G23054": {
-      "location": "community A"
+      "location": 0
     },
     "G23057": {
-      "location": "community B"
+      "location": 1
     },
     "G23058": {
-      "location": "community B"
+      "location": 1
     },
     "G23061": {
-      "location": "community A"
+      "location": 0
     },
     "G23068": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000000": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000001": {
-      "location": "community B"
-    },
-    "NODE_0000002": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000003": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000004": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000005": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000006": {
-      "location": "community B"
+      "location": 1
+    },
+    "NODE_0000007": {
+      "location": 1
     },
     "NODE_0000008": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000010": {
-      "location": "community A"
-    },
-    "NODE_0000011": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000012": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000013": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000014": {
-      "location": "community A"
+      "location": 0
     },
-    "NODE_0000017": {
-      "location": "community A"
+    "NODE_0000015": {
+      "location": 1
+    },
+    "NODE_0000016": {
+      "location": 1
     },
     "NODE_0000018": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000019": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000020": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000021": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000022": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000023": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000024": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000025": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000026": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000027": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000028": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000029": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000030": {
-      "location": "community B"
-    },
-    "NODE_0000031": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000032": {
-      "location": "community B"
-    },
-    "NODE_0000033": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000034": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000035": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000036": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000037": {
-      "location": "community A"
+      "location": 0
+    },
+    "NODE_0000038": {
+      "location": 0
     },
     "NODE_0000040": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000041": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000042": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000043": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000044": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000045": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000046": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000047": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000048": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000049": {
-      "location": "community B"
+      "location": 0
+    },
+    "NODE_0000050": {
+      "location": 1
+    },
+    "NODE_0000051": {
+      "location": 1
     },
     "NODE_0000052": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000053": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000054": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000055": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000056": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000057": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000058": {
-      "location": "community B"
+      "location": 1
+    },
+    "NODE_0000059": {
+      "location": 1
+    },
+    "NODE_0000060": {
+      "location": 0
     },
     "NODE_0000061": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000062": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000063": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000064": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000065": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000066": {
-      "location": "community B"
+      "location": 1
+    },
+    "NODE_0000067": {
+      "location": 1
     },
     "NODE_0000068": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000069": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000070": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000071": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000072": {
-      "location": "community A"
-    },
-    "NODE_0000073": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000074": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000075": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000076": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000077": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000078": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000079": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000080": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000081": {
-      "location": "community A"
+      "location": 0
     },
     "NODE_0000082": {
-      "location": "community B"
+      "location": 1
     },
     "NODE_0000083": {
-      "location": "community A"
+      "location": 1
     },
     "NODE_0000084": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000085": {
-      "location": "community B"
+      "location": 0
     },
     "NODE_0000086": {
-      "location": "community A"
+      "location": 1
+    },
+    "NODE_0000087": {
+      "location": 1
+    },
+    "NODE_0000088": {
+      "location": 1
     },
     "NODE_0000089": {
-      "location": "community A"
+      "location": 1
     },
-    "NODE_0000092": {
-      "location": "community A"
-    },
-    "NODE_0000093": {
-      "location": "community B"
-    },
-    "NODE_0000094": {
-      "location": "community B"
-    },
-    "NODE_0000095": {
-      "location": "community B"
-    },
-    "NODE_0000097": {
-      "location": "community B"
-    },
-    "NODE_0000100": {
-      "location": "community A"
-    },
-    "base_case": {
-      "location": "community A"
+    "NODE_0000090": {
+      "location": 1
     }
   }
 }

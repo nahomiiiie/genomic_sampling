@@ -1,4 +1,4 @@
-strains	accession	infection_date	region	country	location
+strain	accession	date	region	country	location
 G22670	1000	2020-03-01	North America	USA	0
 G22673	5031	2020-03-26	North America	USA	0
 G22680	9857	2020-03-19	North America	USA	1

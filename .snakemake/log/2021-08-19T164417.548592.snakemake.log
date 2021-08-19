@@ -1,0 +1,60 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job       count    min threads    max threads
+------  -------  -------------  -------------
+align         1              1              1
+all           1              1              1
+export        1              1              1
+refine        1              1              1
+traits        1              1              1
+tree          1              1              1
+total         6              1              1
+
+Select jobs to execute...
+
+[Thu Aug 19 16:44:18 2021]
+Job 4: 
+        Aligning sequences to data/reference.fasta
+          - filling gaps with N
+        
+
+[Thu Aug 19 16:44:59 2021]
+Finished job 4.
+1 of 6 steps (17%) done
+Select jobs to execute...
+
+[Thu Aug 19 16:44:59 2021]
+rule tree:
+    input: results/aligned.fasta, data/reference.fasta
+    output: results/tree_raw.nwk
+    jobid: 3
+    resources: tmpdir=/var/folders/0k/d2dh04j55mbgzhttclt2by640000gp/T
+
+[Thu Aug 19 16:45:01 2021]
+Finished job 3.
+2 of 6 steps (33%) done
+Select jobs to execute...
+
+[Thu Aug 19 16:45:01 2021]
+rule refine:
+    input: results/tree_raw.nwk, results/aligned.fasta, data/background.tsv, data/reference.fasta
+    output: results/tree.nwk, results/branch_lengths.json
+    jobid: 2
+    resources: tmpdir=/var/folders/0k/d2dh04j55mbgzhttclt2by640000gp/T
+
+[Thu Aug 19 16:45:03 2021]
+Error in rule refine:
+    jobid: 2
+    output: results/tree.nwk, results/branch_lengths.json
+    shell:
+        
+        augur refine --tree results/tree_raw.nwk             --alignment results/aligned.fasta             --vcf-reference data/reference.fasta             --metadata data/background.tsv             --timetree             --root min_dev             --coalescent opt             --output-tree results/tree.nwk             --output-node-data results/branch_lengths.json
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: /Users/naomi.rankin/sampling_bias/.snakemake/log/2021-08-19T164417.548592.snakemake.log

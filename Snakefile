@@ -34,7 +34,7 @@ rule align:
         augur align \
             --sequences {input.sequences} \
             --reference-sequence {input.reference} \
-            --output {output.alin} \
+            --output {output.aln} \
             --fill-gaps
         """
 

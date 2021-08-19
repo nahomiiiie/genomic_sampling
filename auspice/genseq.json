@@ -9,16 +9,6 @@
       },
       {
         "key": "location",
-        "scale": [
-          [
-            "community A",
-            "#ed2637"
-          ],
-          [
-            "community B",
-            "#2641ed"
-          ]
-        ],
         "title": "Community",
         "type": "categorical"
       }
@@ -50,9 +40,9 @@
             "name": "G22902",
             "node_attrs": {
               "accession": "332",
-              "div": 0.0002006647952869462,
+              "div": 0.00023412972566215772,
               "location": {
-                "value": "community B"
+                "value": 1
               },
               "num_date": {
                 "value": 2020.233606557377
@@ -64,9 +54,9 @@
             "name": "G22787",
             "node_attrs": {
               "accession": "1899",
-              "div": 0.00010033396400267473,
+              "div": 0.00013379213148085461,
               "location": {
-                "value": "community B"
+                "value": 1
               },
               "num_date": {
                 "value": 2020.2117486338798
@@ -81,9 +71,9 @@
                 "name": "G22755",
                 "node_attrs": {
                   "accession": "3933",
-                  "div": 0.00013377660190246973,
+                  "div": 0.00016723707104357238,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
                     "value": 2020.2418032786886
@@ -95,9 +85,9 @@
                 "name": "G22822",
                 "node_attrs": {
                   "accession": "8040",
-                  "div": 0.00013377660190246973,
+                  "div": 0.00016723707104357238,
                   "location": {
-                    "value": "community B"
+                    "value": 1
                   },
                   "num_date": {
                     "value": 2020.2226775956285
@@ -105,14 +95,14 @@
                 }
               }
             ],
-            "name": "NODE_0000029",
+            "name": "NODE_0000023",
             "node_attrs": {
-              "div": 0.00013377660190246968,
+              "div": 0.00016723707104357232,
               "location": {
-                "value": "community B"
+                "value": 1
               },
               "num_date": {
-                "value": 2020.2226775962547
+                "value": 2020.2226775962358
               }
             }
           },
@@ -124,41 +114,41 @@
                 "children": [
                   {
                     "branch_attrs": {},
-                    "name": "G22762",
-                    "node_attrs": {
-                      "accession": "3006",
-                      "div": 0.0001337762331455154,
-                      "location": {
-                        "value": "community A"
-                      },
-                      "num_date": {
-                        "value": 2020.2472677595629
-                      }
-                    }
-                  },
-                  {
-                    "branch_attrs": {},
                     "name": "G22780",
                     "node_attrs": {
                       "accession": "8104",
-                      "div": 0.0001337764412798621,
+                      "div": 0.00016723711559361634,
                       "location": {
-                        "value": "community B"
+                        "value": 1
                       },
                       "num_date": {
                         "value": 2020.2363387978141
                       }
                     }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "G22762",
+                    "node_attrs": {
+                      "accession": "3006",
+                      "div": 0.0001672366654467724,
+                      "location": {
+                        "value": 0
+                      },
+                      "num_date": {
+                        "value": 2020.2472677595629
+                      }
+                    }
                   }
                 ],
-                "name": "NODE_0000004",
+                "name": "NODE_0000006",
                 "node_attrs": {
-                  "div": 0.00010033396400267478,
+                  "div": 0.00013379213148085467,
                   "location": {
-                    "value": "community B"
+                    "value": 1
                   },
                   "num_date": {
-                    "value": 2020.2306590035764
+                    "value": 2020.231088971295
                   }
                 }
               },
@@ -170,9 +160,9 @@
                     "name": "G22704",
                     "node_attrs": {
                       "accession": "8670",
-                      "div": 0.00010033396400267484,
+                      "div": 0.00013379213148085472,
                       "location": {
-                        "value": "community B"
+                        "value": 1
                       },
                       "num_date": {
                         "value": 2020.217213114754
@@ -187,9 +177,9 @@
                         "name": "G23030",
                         "node_attrs": {
                           "accession": "5050",
-                          "div": 0.00010033396400267489,
+                          "div": 0.00013379213148085478,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
                             "value": 2020.23087431694
@@ -201,9 +191,9 @@
                         "name": "G22959",
                         "node_attrs": {
                           "accession": "9470",
-                          "div": 0.00010033396400267489,
+                          "div": 0.00013379213148085478,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
                             "value": 2020.2254098360656
@@ -211,50 +201,50 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000006",
+                    "name": "NODE_0000008",
                     "node_attrs": {
-                      "div": 0.00010033396400267484,
+                      "div": 0.00013379213148085472,
                       "location": {
-                        "value": "community B"
+                        "value": 1
                       },
                       "num_date": {
-                        "value": 2020.2254098366918
+                        "value": 2020.225409836673
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000005",
+                "name": "NODE_0000007",
                 "node_attrs": {
-                  "div": 0.00010033396400267478,
+                  "div": 0.00013379213148085467,
                   "location": {
-                    "value": "community B"
+                    "value": 1
                   },
                   "num_date": {
-                    "value": 2020.2172131153802
+                    "value": 2020.2172131153613
                   }
                 }
               }
             ],
-            "name": "NODE_0000003",
+            "name": "NODE_0000004",
             "node_attrs": {
-              "div": 0.00010033396400267473,
+              "div": 0.00013379213148085461,
               "location": {
-                "value": "community B"
+                "value": 1
               },
               "num_date": {
-                "value": 2020.216316815906
+                "value": 2020.2066879692302
               }
             }
           }
         ],
-        "name": "NODE_0000022",
+        "name": "NODE_0000021",
         "node_attrs": {
-          "div": 0.00010033396400267467,
+          "div": 0.00013379213148085456,
           "location": {
-            "value": "community B"
+            "value": 1
           },
           "num_date": {
-            "value": 2020.211748634506
+            "value": 2020.2063870419115
           }
         }
       },
@@ -263,28 +253,15 @@
         "children": [
           {
             "branch_attrs": {},
-            "name": "base_case",
-            "node_attrs": {
-              "div": 0.002478897446242854,
-              "location": {
-                "value": "community A"
-              },
-              "num_date": {
-                "value": 2021.5626918422329
-              }
-            }
-          },
-          {
-            "branch_attrs": {},
             "children": [
               {
                 "branch_attrs": {},
                 "name": "G22924",
                 "node_attrs": {
                   "accession": "2397",
-                  "div": 6.688583415402692e-05,
+                  "div": 3.344463794731369e-05,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
                     "value": 2020.1734972677596
@@ -302,9 +279,9 @@
                         "name": "G23007",
                         "node_attrs": {
                           "accession": "4224",
-                          "div": 0.00010032864249825145,
+                          "div": 6.688938077167628e-05,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
                             "value": 2020.1926229508197
@@ -319,9 +296,9 @@
                             "name": "G22737",
                             "node_attrs": {
                               "accession": "7457",
-                              "div": 0.00010032864249825151,
+                              "div": 6.688938077167633e-05,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2062841530055
@@ -336,12 +313,12 @@
                                 "children": [
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22768",
+                                    "name": "G22791",
                                     "node_attrs": {
-                                      "accession": "9115",
-                                      "div": 0.00010032864249825162,
+                                      "accession": "6955",
+                                      "div": 6.688938077167644e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2199453551912
@@ -350,12 +327,12 @@
                                   },
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22791",
+                                    "name": "G22768",
                                     "node_attrs": {
-                                      "accession": "6955",
-                                      "div": 0.00010032864249825162,
+                                      "accession": "9115",
+                                      "div": 6.688938077167644e-05,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.2199453551912
@@ -363,14 +340,14 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000013",
+                                "name": "NODE_0000014",
                                 "node_attrs": {
-                                  "div": 0.00010032864249825156,
+                                  "div": 6.688938077167639e-05,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.2199453558173
+                                    "value": 2020.2199453557985
                                   }
                                 }
                               },
@@ -382,9 +359,9 @@
                                     "name": "G23045",
                                     "node_attrs": {
                                       "accession": "7735",
-                                      "div": 0.00016721486205714602,
+                                      "div": 0.00013377888068008553,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2472677595629
@@ -399,9 +376,9 @@
                                         "name": "G23035",
                                         "node_attrs": {
                                           "accession": "9801",
-                                          "div": 0.00013377144488424978,
+                                          "div": 0.00010033377778419654,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2472677595629
@@ -416,9 +393,9 @@
                                             "name": "G22700",
                                             "node_attrs": {
                                               "accession": "7388",
-                                              "div": 0.00013377144488424983,
+                                              "div": 0.00010033377778419659,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -430,9 +407,9 @@
                                             "name": "G22807",
                                             "node_attrs": {
                                               "accession": "1595",
-                                              "div": 0.00013377144488424983,
+                                              "div": 0.00010033377778419659,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.233606557377
@@ -440,74 +417,74 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000032",
+                                        "name": "NODE_0000016",
                                         "node_attrs": {
-                                          "div": 0.00013377144488424978,
+                                          "div": 0.00010033377778419654,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.2333260654245
+                                            "value": 2020.2336065579843
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000027",
+                                    "name": "NODE_0000015",
                                     "node_attrs": {
-                                      "div": 0.00013377144488424972,
+                                      "div": 0.00010033377778419648,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2320834344794
+                                        "value": 2020.2326129011744
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000053",
+                                "name": "NODE_0000081",
                                 "node_attrs": {
-                                  "div": 0.00013377144488424967,
+                                  "div": 0.00010033377778419643,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.230825786655
+                                    "value": 2020.2313152936117
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000012",
+                            "name": "NODE_0000013",
                             "node_attrs": {
-                              "div": 0.00010032864249825151,
+                              "div": 6.688938077167633e-05,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.2190009414985
+                                "value": 2020.2064071479551
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000010",
+                        "name": "NODE_0000012",
                         "node_attrs": {
-                          "div": 0.00010032864249825145,
+                          "div": 6.688938077167628e-05,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2062841536317
+                            "value": 2020.2062841536128
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000014",
+                    "name": "NODE_0000010",
                     "node_attrs": {
-                      "div": 0.0001003286424982514,
+                      "div": 6.688938077167622e-05,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
-                        "value": 2020.190119374253
+                        "value": 2020.192622951427
                       }
                     }
                   },
@@ -519,9 +496,9 @@
                         "name": "G23058",
                         "node_attrs": {
                           "accession": "7540",
-                          "div": 0.00013377144707395067,
+                          "div": 0.00010033378369669031,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
                             "value": 2020.214480874317
@@ -533,68 +510,12 @@
                         "children": [
                           {
                             "branch_attrs": {},
-                            "name": "G22760",
-                            "node_attrs": {
-                              "accession": "8648",
-                              "div": 0.00023410019164433872,
-                              "location": {
-                                "value": "community A"
-                              },
-                              "num_date": {
-                                "value": 2020.233606557377
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
-                            "name": "G22895",
-                            "node_attrs": {
-                              "accession": "8369",
-                              "div": 0.0002675465374440693,
-                              "location": {
-                                "value": "community A"
-                              },
-                              "num_date": {
-                                "value": 2020.2445355191257
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
-                            "name": "G23054",
-                            "node_attrs": {
-                              "accession": "1704",
-                              "div": 0.00020065665769698673,
-                              "location": {
-                                "value": "community A"
-                              },
-                              "num_date": {
-                                "value": 2020.23087431694
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
                             "name": "G22991",
                             "node_attrs": {
                               "accession": "1123",
-                              "div": 0.00020065649322390384,
+                              "div": 0.00016722180843306133,
                               "location": {
-                                "value": "community B"
-                              },
-                              "num_date": {
-                                "value": 2020.2363387978141
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
-                            "name": "G22933",
-                            "node_attrs": {
-                              "accession": "3329",
-                              "div": 0.00020065630821501217,
-                              "location": {
-                                "value": "community A"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.2363387978141
@@ -606,12 +527,68 @@
                             "name": "G23048",
                             "node_attrs": {
                               "accession": "7124",
-                              "div": 0.00030099233284054227,
+                              "div": 0.00026755986875496185,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2418032786886
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22895",
+                            "node_attrs": {
+                              "accession": "8369",
+                              "div": 0.0002341145733152184,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.2445355191257
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22760",
+                            "node_attrs": {
+                              "accession": "8648",
+                              "div": 0.0002006670242840508,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.233606557377
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G23054",
+                            "node_attrs": {
+                              "accession": "1704",
+                              "div": 0.00016722204647837537,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.23087431694
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22933",
+                            "node_attrs": {
+                              "accession": "3329",
+                              "div": 0.00016722147386733597,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.2363387978141
                               }
                             }
                           },
@@ -626,9 +603,9 @@
                                     "name": "G22718",
                                     "node_attrs": {
                                       "accession": "6700",
-                                      "div": 0.0002006565258193123,
+                                      "div": 0.00016722172963954307,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2445355191257
@@ -643,9 +620,9 @@
                                         "name": "G23005",
                                         "node_attrs": {
                                           "accession": "3669",
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2445355191257
@@ -657,9 +634,9 @@
                                         "name": "G22746",
                                         "node_attrs": {
                                           "accession": "703",
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
                                             "value": 2020.2226775956285
@@ -667,26 +644,26 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000019",
+                                    "name": "NODE_0000020",
                                     "node_attrs": {
-                                      "div": 0.0001672139505705178,
+                                      "div": 0.0001337778786242271,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.2226775962547
+                                        "value": 2020.2226775962358
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000018",
+                                "name": "NODE_0000019",
                                 "node_attrs": {
-                                  "div": 0.00016721395057051774,
+                                  "div": 0.00013377787862422705,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.2217331819359
+                                    "value": 2020.2217899224809
                                   }
                                 }
                               },
@@ -701,9 +678,9 @@
                                         "name": "G22726",
                                         "node_attrs": {
                                           "accession": "3614",
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
                                             "value": 2020.2281420765028
@@ -718,9 +695,9 @@
                                             "name": "G22684",
                                             "node_attrs": {
                                               "accession": "6658",
-                                              "div": 0.0001672139505705179,
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -732,9 +709,9 @@
                                             "name": "G22729",
                                             "node_attrs": {
                                               "accession": "923",
-                                              "div": 0.0001672139505705179,
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community A"
+                                                "value": 0
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -742,26 +719,26 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000023",
+                                        "name": "NODE_0000025",
                                         "node_attrs": {
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
-                                            "value": 2020.2333607876776
+                                            "value": 2020.2401651331566
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000021",
+                                    "name": "NODE_0000024",
                                     "node_attrs": {
-                                      "div": 0.0001672139505705178,
+                                      "div": 0.0001337778786242271,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.228142077129
+                                        "value": 2020.22814207711
                                       }
                                     }
                                   },
@@ -773,12 +750,12 @@
                                         "children": [
                                           {
                                             "branch_attrs": {},
-                                            "name": "G22843",
+                                            "name": "G22792",
                                             "node_attrs": {
-                                              "accession": "7338",
-                                              "div": 0.0001672139505705179,
+                                              "accession": "7086",
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2472677595629
@@ -787,12 +764,12 @@
                                           },
                                           {
                                             "branch_attrs": {},
-                                            "name": "G22792",
+                                            "name": "G22843",
                                             "node_attrs": {
-                                              "accession": "7086",
-                                              "div": 0.0001672139505705179,
+                                              "accession": "7338",
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2472677595629
@@ -800,14 +777,14 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000025",
+                                        "name": "NODE_0000027",
                                         "node_attrs": {
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.2405137668793
+                                            "value": 2020.2407151756122
                                           }
                                         }
                                       },
@@ -819,9 +796,9 @@
                                             "name": "G22797",
                                             "node_attrs": {
                                               "accession": "458",
-                                              "div": 0.0001672139505705179,
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community A"
+                                                "value": 0
                                               },
                                               "num_date": {
                                                 "value": 2020.23087431694
@@ -833,9 +810,9 @@
                                             "name": "G22725",
                                             "node_attrs": {
                                               "accession": "7814",
-                                              "div": 0.0001672139505705179,
+                                              "div": 0.0001337778786242272,
                                               "location": {
-                                                "value": "community A"
+                                                "value": 0
                                               },
                                               "num_date": {
                                                 "value": 2020.233606557377
@@ -843,98 +820,98 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000026",
+                                        "name": "NODE_0000028",
                                         "node_attrs": {
-                                          "div": 0.00016721395057051785,
+                                          "div": 0.00013377787862422716,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
-                                            "value": 2020.230874317566
+                                            "value": 2020.2308743175472
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000024",
+                                    "name": "NODE_0000026",
                                     "node_attrs": {
-                                      "div": 0.0001672139505705178,
+                                      "div": 0.0001337778786242271,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.22998297488
+                                        "value": 2020.229153078913
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000020",
+                                "name": "NODE_0000022",
                                 "node_attrs": {
-                                  "div": 0.00016721395057051774,
+                                  "div": 0.00013377787862422705,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.2272578400507
+                                    "value": 2020.2254400237123
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000017",
+                            "name": "NODE_0000018",
                             "node_attrs": {
-                              "div": 0.00016721395057051768,
+                              "div": 0.000133777878624227,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.2208457943486
+                                "value": 2020.219047682215
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000057",
+                        "name": "NODE_0000085",
                         "node_attrs": {
-                          "div": 0.00016721395057051763,
+                          "div": 0.00013377787862422694,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2199828489188
+                            "value": 2020.2175963161844
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000056",
+                    "name": "NODE_0000084",
                     "node_attrs": {
-                      "div": 0.00013377144707395062,
+                      "div": 0.00010033378369669026,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
-                        "value": 2020.214480874943
+                        "value": 2020.2062901442268
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000048",
+                "name": "NODE_0000076",
                 "node_attrs": {
-                  "div": 0.00010032864249825134,
+                  "div": 6.688938077167617e-05,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
-                    "value": 2020.18954753336
+                    "value": 2020.19162340463
                   }
                 }
               }
             ],
-            "name": "NODE_0000047",
+            "name": "NODE_0000075",
             "node_attrs": {
-              "div": 6.688583415402687e-05,
+              "div": 3.3444637947313635e-05,
               "location": {
-                "value": "community A"
+                "value": 0
               },
               "num_date": {
-                "value": 2020.1734972683857
+                "value": 2020.1734972683669
               }
             }
           },
@@ -943,29 +920,29 @@
             "children": [
               {
                 "branch_attrs": {},
-                "name": "G22710",
+                "name": "G22690",
                 "node_attrs": {
-                  "accession": "4287",
-                  "div": 0.00010032879991855615,
+                  "accession": "3492",
+                  "div": 3.344513776334069e-05,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
-                    "value": 2020.1871584699454
+                    "value": 2020.181693989071
                   }
                 }
               },
               {
                 "branch_attrs": {},
-                "name": "G22690",
+                "name": "G22710",
                 "node_attrs": {
-                  "accession": "3492",
-                  "div": 6.688596071883273e-05,
+                  "accession": "4287",
+                  "div": 6.689028698032094e-05,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
-                    "value": 2020.181693989071
+                    "value": 2020.1871584699454
                   }
                 }
               },
@@ -980,41 +957,41 @@
                         "children": [
                           {
                             "branch_attrs": {},
-                            "name": "G22836",
-                            "node_attrs": {
-                              "accession": "517",
-                              "div": 0.00013377217747404457,
-                              "location": {
-                                "value": "community A"
-                              },
-                              "num_date": {
-                                "value": 2020.2418032786886
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
                             "name": "G22885",
                             "node_attrs": {
                               "accession": "3655",
-                              "div": 0.00010032919480488665,
+                              "div": 6.689121585247192e-05,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2117486338798
                               }
                             }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22836",
+                            "node_attrs": {
+                              "accession": "517",
+                              "div": 0.0001003367896206741,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.2418032786886
+                              }
+                            }
                           }
                         ],
-                        "name": "NODE_0000031",
+                        "name": "NODE_0000032",
                         "node_attrs": {
-                          "div": 0.0001003291948048866,
+                          "div": 6.689121585247186e-05,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2106409774867
+                            "value": 2020.2101104883477
                           }
                         }
                       },
@@ -1026,9 +1003,9 @@
                             "name": "G23026",
                             "node_attrs": {
                               "accession": "8175",
-                              "div": 0.0002006595805771995,
+                              "div": 0.00016723001705680344,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.233606557377
@@ -1040,9 +1017,9 @@
                             "name": "G22734",
                             "node_attrs": {
                               "accession": "4731",
-                              "div": 0.00013377223437405772,
+                              "div": 0.00010033716592382246,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2199453551912
@@ -1057,12 +1034,12 @@
                                 "children": [
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22952",
+                                    "name": "G22994",
                                     "node_attrs": {
-                                      "accession": "7930",
-                                      "div": 0.00013377223437405783,
+                                      "accession": "4881",
+                                      "div": 0.00010033716592382257,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2445355191257
@@ -1071,12 +1048,12 @@
                                   },
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22994",
+                                    "name": "G22952",
                                     "node_attrs": {
-                                      "accession": "4881",
-                                      "div": 0.00013377223437405783,
+                                      "accession": "7930",
+                                      "div": 0.00010033716592382257,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2445355191257
@@ -1086,12 +1063,12 @@
                                 ],
                                 "name": "NODE_0000035",
                                 "node_attrs": {
-                                  "div": 0.00013377223437405778,
+                                  "div": 0.00010033716592382252,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.241158523097
+                                    "value": 2020.241259227454
                                   }
                                 }
                               },
@@ -1100,77 +1077,77 @@
                                 "children": [
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22801",
+                                    "name": "G22772",
                                     "node_attrs": {
-                                      "accession": "8517",
-                                      "div": 0.0001672152324835456,
+                                      "accession": "6989",
+                                      "div": 0.00010033716592382257,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.2418032786886
+                                        "value": 2020.23087431694
                                       }
                                     }
                                   },
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22772",
+                                    "name": "G22801",
                                     "node_attrs": {
-                                      "accession": "6989",
-                                      "div": 0.00013377223437405783,
+                                      "accession": "8517",
+                                      "div": 0.0001337830772051369,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.23087431694
+                                        "value": 2020.2418032786886
                                       }
                                     }
                                   }
                                 ],
                                 "name": "NODE_0000036",
                                 "node_attrs": {
-                                  "div": 0.00013377223437405778,
+                                  "div": 0.00010033716592382252,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.2306197725868
+                                    "value": 2020.2308743175472
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000033",
+                            "name": "NODE_0000034",
                             "node_attrs": {
-                              "div": 0.00013377223437405772,
+                              "div": 0.00010033716592382246,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.22972886516
+                                "value": 2020.2291581394597
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000083",
+                        "name": "NODE_0000040",
                         "node_attrs": {
-                          "div": 0.00013377223437405767,
+                          "div": 0.00010033716592382241,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2199453558173
+                            "value": 2020.2199453557985
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000081",
+                    "name": "NODE_0000038",
                     "node_attrs": {
-                      "div": 0.00010032919480488654,
+                      "div": 6.689121585247181e-05,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
-                        "value": 2020.2106409774867
+                        "value": 2020.2065281829869
                       }
                     }
                   },
@@ -1185,9 +1162,9 @@
                             "name": "G22876",
                             "node_attrs": {
                               "accession": "9683",
-                              "div": 0.00016721734329686733,
+                              "div": 0.0001337849261397169,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2418032786886
@@ -1202,9 +1179,9 @@
                                 "name": "G22918",
                                 "node_attrs": {
                                   "accession": "1537",
-                                  "div": 0.00013377278942093652,
+                                  "div": 0.00010033732380094408,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
                                     "value": 2020.2226775956285
@@ -1216,9 +1193,9 @@
                                 "name": "G23061",
                                 "node_attrs": {
                                   "accession": "4186",
-                                  "div": 0.00016721638942900758,
+                                  "div": 0.00013378406856651165,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.233606557377
@@ -1226,14 +1203,14 @@
                                 }
                               }
                             ],
-                            "name": "NODE_0000092",
+                            "name": "NODE_0000049",
                             "node_attrs": {
-                              "div": 0.00013377278942093646,
+                              "div": 0.00010033732380094402,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.2226775962547
+                                "value": 2020.2226775962358
                               }
                             }
                           },
@@ -1242,53 +1219,53 @@
                             "children": [
                               {
                                 "branch_attrs": {},
-                                "name": "G22781",
-                                "node_attrs": {
-                                  "accession": "4551",
-                                  "div": 0.00010032902132709034,
-                                  "location": {
-                                    "value": "community A"
-                                  },
-                                  "num_date": {
-                                    "value": 2020.2199453551912
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {},
                                 "name": "G22834",
                                 "node_attrs": {
                                   "accession": "5790",
-                                  "div": 0.00010032902132709034,
+                                  "div": 6.689079901544228e-05,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.2363387978141
                                   }
                                 }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G22781",
+                                "node_attrs": {
+                                  "accession": "4551",
+                                  "div": 6.689079901544228e-05,
+                                  "location": {
+                                    "value": 0
+                                  },
+                                  "num_date": {
+                                    "value": 2020.2199453551912
+                                  }
+                                }
                               }
                             ],
-                            "name": "NODE_0000040",
+                            "name": "NODE_0000041",
                             "node_attrs": {
-                              "div": 0.00010032902132709029,
+                              "div": 6.689079901544222e-05,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.2199453558173
+                                "value": 2020.2199453557985
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000089",
+                        "name": "NODE_0000046",
                         "node_attrs": {
-                          "div": 0.00010032902132709023,
+                          "div": 6.689079901544217e-05,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2183713319528
+                            "value": 2020.2062334614077
                           }
                         }
                       },
@@ -1300,41 +1277,41 @@
                             "children": [
                               {
                                 "branch_attrs": {},
-                                "name": "G22691",
-                                "node_attrs": {
-                                  "accession": "6300",
-                                  "div": 6.688596071883295e-05,
-                                  "location": {
-                                    "value": "community B"
-                                  },
-                                  "num_date": {
-                                    "value": 2020.1898907103825
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {},
                                 "name": "G22955",
                                 "node_attrs": {
                                   "accession": "2676",
-                                  "div": 6.688596071883295e-05,
+                                  "div": 3.3445137763340905e-05,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.1926229508197
                                   }
                                 }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G22691",
+                                "node_attrs": {
+                                  "accession": "6300",
+                                  "div": 3.3445137763340905e-05,
+                                  "location": {
+                                    "value": 1
+                                  },
+                                  "num_date": {
+                                    "value": 2020.1898907103825
+                                  }
+                                }
                               }
                             ],
-                            "name": "NODE_0000042",
+                            "name": "NODE_0000043",
                             "node_attrs": {
-                              "div": 6.688596071883289e-05,
+                              "div": 3.344513776334085e-05,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.1898907110087
+                                "value": 2020.1898907109899
                               }
                             }
                           },
@@ -1349,9 +1326,9 @@
                                     "name": "G22884",
                                     "node_attrs": {
                                       "accession": "6220",
-                                      "div": 6.6885960718833e-05,
+                                      "div": 3.344513776334096e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.2062841530055
@@ -1366,9 +1343,9 @@
                                         "name": "G23015",
                                         "node_attrs": {
                                           "accession": "8315",
-                                          "div": 6.688596071883305e-05,
+                                          "div": 3.3445137763341014e-05,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
                                             "value": 2020.2117486338798
@@ -1380,65 +1357,65 @@
                                         "children": [
                                           {
                                             "branch_attrs": {},
-                                            "name": "G22979",
-                                            "node_attrs": {
-                                              "accession": "4892",
-                                              "div": 6.688596071883311e-05,
-                                              "location": {
-                                                "value": "community B"
-                                              },
-                                              "num_date": {
-                                                "value": 2020.2226775956285
-                                              }
-                                            }
-                                          },
-                                          {
-                                            "branch_attrs": {},
                                             "name": "G22930",
                                             "node_attrs": {
                                               "accession": "4757",
-                                              "div": 6.688596071883311e-05,
+                                              "div": 3.344513776334107e-05,
                                               "location": {
-                                                "value": "community A"
+                                                "value": 0
                                               },
                                               "num_date": {
                                                 "value": 2020.233606557377
                                               }
                                             }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22979",
+                                            "node_attrs": {
+                                              "accession": "4892",
+                                              "div": 3.344513776334107e-05,
+                                              "location": {
+                                                "value": 1
+                                              },
+                                              "num_date": {
+                                                "value": 2020.2226775956285
+                                              }
+                                            }
                                           }
                                         ],
-                                        "name": "NODE_0000046",
+                                        "name": "NODE_0000048",
                                         "node_attrs": {
-                                          "div": 6.688596071883305e-05,
+                                          "div": 3.3445137763341014e-05,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
-                                            "value": 2020.2226775962547
+                                            "value": 2020.2226775962358
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000045",
+                                    "name": "NODE_0000047",
                                     "node_attrs": {
-                                      "div": 6.6885960718833e-05,
+                                      "div": 3.344513776334096e-05,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
-                                        "value": 2020.2115302426403
+                                        "value": 2020.2062841536128
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000044",
+                                "name": "NODE_0000045",
                                 "node_attrs": {
-                                  "div": 6.688596071883295e-05,
+                                  "div": 3.3445137763340905e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.2062841536317
+                                    "value": 2020.2062841536128
                                   }
                                 }
                               },
@@ -1453,9 +1430,9 @@
                                         "name": "G23053",
                                         "node_attrs": {
                                           "accession": "8400",
-                                          "div": 0.00010032907937523618,
+                                          "div": 6.68905844320875e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.217213114754
@@ -1467,9 +1444,9 @@
                                         "name": "G22793",
                                         "node_attrs": {
                                           "accession": "5602",
-                                          "div": 0.00010032907937523618,
+                                          "div": 6.68905844320875e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2199453551912
@@ -1477,14 +1454,14 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000049",
+                                    "name": "NODE_0000051",
                                     "node_attrs": {
-                                      "div": 0.00010032907937523613,
+                                      "div": 6.689058443208745e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2172131153802
+                                        "value": 2020.2172131153613
                                       }
                                     }
                                   },
@@ -1496,9 +1473,9 @@
                                         "name": "G22799",
                                         "node_attrs": {
                                           "accession": "9096",
-                                          "div": 0.00020065849596703485,
+                                          "div": 0.00016722624684431395,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2418032786886
@@ -1513,9 +1490,9 @@
                                             "name": "G22741",
                                             "node_attrs": {
                                               "accession": "7784",
-                                              "div": 0.00020066019828578972,
+                                              "div": 0.00016722895247649048,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -1527,9 +1504,9 @@
                                             "name": "G22873",
                                             "node_attrs": {
                                               "accession": "8467",
-                                              "div": 0.00020066019828578972,
+                                              "div": 0.00016722895247649048,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2281420765028
@@ -1537,14 +1514,14 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000097",
+                                        "name": "NODE_0000054",
                                         "node_attrs": {
-                                          "div": 0.00020066019828578966,
+                                          "div": 0.00016722895247649043,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.228142077129
+                                            "value": 2020.22814207711
                                           }
                                         }
                                       },
@@ -1556,9 +1533,9 @@
                                             "name": "G22751",
                                             "node_attrs": {
                                               "accession": "3467",
-                                              "div": 0.00013377189163562487,
+                                              "div": 0.0001003356686411088,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2226775956285
@@ -1573,9 +1550,9 @@
                                                 "name": "G22732",
                                                 "node_attrs": {
                                                   "accession": "7373",
-                                                  "div": 0.00013377189163562493,
+                                                  "div": 0.00010033566864110885,
                                                   "location": {
-                                                    "value": "community B"
+                                                    "value": 1
                                                   },
                                                   "num_date": {
                                                     "value": 2020.2254098360656
@@ -1587,12 +1564,12 @@
                                                 "children": [
                                                   {
                                                     "branch_attrs": {},
-                                                    "name": "G23023",
+                                                    "name": "G22858",
                                                     "node_attrs": {
-                                                      "accession": "2904",
-                                                      "div": 0.00013377189163562498,
+                                                      "accession": "3428",
+                                                      "div": 0.0001003356686411089,
                                                       "location": {
-                                                        "value": "community B"
+                                                        "value": 1
                                                       },
                                                       "num_date": {
                                                         "value": 2020.2281420765028
@@ -1601,12 +1578,12 @@
                                                   },
                                                   {
                                                     "branch_attrs": {},
-                                                    "name": "G22858",
+                                                    "name": "G23023",
                                                     "node_attrs": {
-                                                      "accession": "3428",
-                                                      "div": 0.00013377189163562498,
+                                                      "accession": "2904",
+                                                      "div": 0.0001003356686411089,
                                                       "location": {
-                                                        "value": "community B"
+                                                        "value": 1
                                                       },
                                                       "num_date": {
                                                         "value": 2020.2281420765028
@@ -1614,122 +1591,122 @@
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000055",
+                                                "name": "NODE_0000057",
                                                 "node_attrs": {
-                                                  "div": 0.00013377189163562493,
+                                                  "div": 0.00010033566864110885,
                                                   "location": {
-                                                    "value": "community B"
+                                                    "value": 1
                                                   },
                                                   "num_date": {
-                                                    "value": 2020.228142077129
+                                                    "value": 2020.22814207711
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000054",
+                                            "name": "NODE_0000056",
                                             "node_attrs": {
-                                              "div": 0.00013377189163562487,
+                                              "div": 0.0001003356686411088,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
-                                                "value": 2020.2254098366918
+                                                "value": 2020.2253933234185
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000052",
+                                        "name": "NODE_0000055",
                                         "node_attrs": {
-                                          "div": 0.00013377189163562482,
+                                          "div": 0.00010033566864110874,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.2226775962547
+                                            "value": 2020.2226775962358
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000095",
+                                    "name": "NODE_0000052",
                                     "node_attrs": {
-                                      "div": 0.00013377189163562477,
+                                      "div": 0.00010033566864110869,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2211671634223
+                                        "value": 2020.2215000270016
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000093",
+                                "name": "NODE_0000050",
                                 "node_attrs": {
-                                  "div": 0.00010032907937523607,
+                                  "div": 6.689058443208739e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.2155640597382
+                                    "value": 2020.2143717999581
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000043",
+                            "name": "NODE_0000044",
                             "node_attrs": {
-                              "div": 6.688596071883289e-05,
+                              "div": 3.344513776334085e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
-                                "value": 2020.2036020588698
+                                "value": 2020.205384490957
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000041",
+                        "name": "NODE_0000042",
                         "node_attrs": {
-                          "div": 6.688596071883284e-05,
+                          "div": 3.34451377633408e-05,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.189032152537
+                            "value": 2020.1890300916727
                           }
                         }
                       }
                     ],
                     "name": "NODE_0000037",
                     "node_attrs": {
-                      "div": 6.688596071883278e-05,
+                      "div": 3.344513776334074e-05,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
-                        "value": 2020.1875186075963
+                        "value": 2020.1866115901307
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000028",
+                "name": "NODE_0000030",
                 "node_attrs": {
-                  "div": 6.688596071883273e-05,
+                  "div": 3.344513776334069e-05,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
-                    "value": 2020.1867198832879
+                    "value": 2020.1857191533238
                   }
                 }
               }
             ],
-            "name": "NODE_0000072",
+            "name": "NODE_0000029",
             "node_attrs": {
-              "div": 6.688596071883267e-05,
+              "div": 3.3445137763340634e-05,
               "location": {
-                "value": "community A"
+                "value": 0
               },
               "num_date": {
-                "value": 2020.1800054913697
+                "value": 2020.1735032589809
               }
             }
           },
@@ -1744,9 +1721,9 @@
                     "name": "G22869",
                     "node_attrs": {
                       "accession": "3094",
-                      "div": 3.3443113979250034e-05,
+                      "div": 2.0592147936032226e-19,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
                         "value": 2020.1653005464482
@@ -1758,9 +1735,9 @@
                     "name": "G22670",
                     "node_attrs": {
                       "accession": "1000",
-                      "div": 3.3443113979250034e-05,
+                      "div": 2.0592147936032226e-19,
                       "location": {
-                        "value": "community A"
+                        "value": 0
                       },
                       "num_date": {
                         "value": 2020.1653005464482
@@ -1768,14 +1745,14 @@
                     }
                   }
                 ],
-                "name": "NODE_0000086",
+                "name": "NODE_0000060",
                 "node_attrs": {
-                  "div": 3.3443113979249987e-05,
+                  "div": 1.544411095202417e-19,
                   "location": {
-                    "value": "community A"
+                    "value": 0
                   },
                   "num_date": {
-                    "value": 2020.1653005470744
+                    "value": 2020.1653005470555
                   }
                 }
               },
@@ -1793,9 +1770,9 @@
                             "name": "G22944",
                             "node_attrs": {
                               "accession": "7927",
-                              "div": 0.00016721582050519581,
+                              "div": 0.00013378183929085247,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.2281420765028
@@ -1810,9 +1787,9 @@
                                 "name": "G22714",
                                 "node_attrs": {
                                   "accession": "9484",
-                                  "div": 0.00010032868204191896,
+                                  "div": 6.689031004535075e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
                                     "value": 2020.2226775956285
@@ -1827,9 +1804,9 @@
                                     "name": "G23040",
                                     "node_attrs": {
                                       "accession": "407",
-                                      "div": 0.00010032868204191901,
+                                      "div": 6.689031004535081e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.23087431694
@@ -1841,9 +1818,9 @@
                                     "name": "G22948",
                                     "node_attrs": {
                                       "accession": "1663",
-                                      "div": 0.00010032868204191901,
+                                      "div": 6.689031004535081e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.23087431694
@@ -1853,36 +1830,36 @@
                                 ],
                                 "name": "NODE_0000062",
                                 "node_attrs": {
-                                  "div": 0.00010032868204191896,
+                                  "div": 6.689031004535075e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.230874317566
+                                    "value": 2020.2308743175472
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000061",
                             "node_attrs": {
-                              "div": 0.0001003286820419189,
+                              "div": 6.68903100453507e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
-                                "value": 2020.2226775962547
+                                "value": 2020.2226775962358
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000008",
+                        "name": "NODE_0000065",
                         "node_attrs": {
-                          "div": 0.00010032868204191885,
+                          "div": 6.689031004535065e-05,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
-                            "value": 2020.220369472482
+                            "value": 2020.2206007618952
                           }
                         }
                       },
@@ -1894,9 +1871,9 @@
                             "name": "G22978",
                             "node_attrs": {
                               "accession": "2192",
-                              "div": 6.688589291864824e-05,
+                              "div": 3.344515447332217e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.2062841530055
@@ -1911,12 +1888,12 @@
                                 "children": [
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22888",
+                                    "name": "G22898",
                                     "node_attrs": {
-                                      "accession": "4453",
-                                      "div": 6.688589291864834e-05,
+                                      "accession": "5012",
+                                      "div": 3.344515447332228e-05,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.214480874317
@@ -1925,12 +1902,12 @@
                                   },
                                   {
                                     "branch_attrs": {},
-                                    "name": "G22898",
+                                    "name": "G22888",
                                     "node_attrs": {
-                                      "accession": "5012",
-                                      "div": 6.688589291864834e-05,
+                                      "accession": "4453",
+                                      "div": 3.344515447332228e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.214480874317
@@ -1940,12 +1917,12 @@
                                 ],
                                 "name": "NODE_0000064",
                                 "node_attrs": {
-                                  "div": 6.688589291864829e-05,
+                                  "div": 3.3445154473322225e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.2138226467814
+                                    "value": 2020.2144808749242
                                   }
                                 }
                               },
@@ -1957,9 +1934,9 @@
                                     "name": "G22826",
                                     "node_attrs": {
                                       "accession": "7034",
-                                      "div": 0.00010032869532394284,
+                                      "div": 6.689022886987041e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
                                         "value": 2020.2418032786886
@@ -1971,77 +1948,77 @@
                                     "children": [
                                       {
                                         "branch_attrs": {},
-                                        "name": "G22899",
-                                        "node_attrs": {
-                                          "accession": "9677",
-                                          "div": 6.68858929186484e-05,
-                                          "location": {
-                                            "value": "community B"
-                                          },
-                                          "num_date": {
-                                            "value": 2020.233606557377
-                                          }
-                                        }
-                                      },
-                                      {
-                                        "branch_attrs": {},
                                         "name": "G22778",
                                         "node_attrs": {
                                           "accession": "4531",
-                                          "div": 0.00010032855441959284,
+                                          "div": 6.688998764035176e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2418032786886
                                           }
                                         }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22899",
+                                        "node_attrs": {
+                                          "accession": "9677",
+                                          "div": 3.344515447332233e-05,
+                                          "location": {
+                                            "value": 1
+                                          },
+                                          "num_date": {
+                                            "value": 2020.233606557377
+                                          }
+                                        }
                                       }
                                     ],
-                                    "name": "NODE_0000066",
+                                    "name": "NODE_0000067",
                                     "node_attrs": {
-                                      "div": 6.688589291864834e-05,
+                                      "div": 3.344515447332228e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2314580925377
+                                        "value": 2020.2320622514508
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000065",
+                                "name": "NODE_0000066",
                                 "node_attrs": {
-                                  "div": 6.688589291864829e-05,
+                                  "div": 3.3445154473322225e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.230630416323
+                                    "value": 2020.2318692131341
                                   }
                                 }
                               }
                             ],
                             "name": "NODE_0000063",
                             "node_attrs": {
-                              "div": 6.688589291864824e-05,
+                              "div": 3.344515447332217e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
-                                "value": 2020.2138226467814
+                                "value": 2020.2066418366182
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000094",
+                        "name": "NODE_0000068",
                         "node_attrs": {
-                          "div": 6.688589291864818e-05,
+                          "div": 3.3445154473322116e-05,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
-                            "value": 2020.2062841536317
+                            "value": 2020.2062841536128
                           }
                         }
                       },
@@ -2050,26 +2027,12 @@
                         "children": [
                           {
                             "branch_attrs": {},
-                            "name": "G23068",
-                            "node_attrs": {
-                              "accession": "9866",
-                              "div": 0.0001672142231801465,
-                              "location": {
-                                "value": "community A"
-                              },
-                              "num_date": {
-                                "value": 2020.2472677595629
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {},
                             "name": "G22950",
                             "node_attrs": {
                               "accession": "3005",
-                              "div": 0.00016721396014008215,
+                              "div": 0.00013378092791836135,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2418032786886
@@ -2078,12 +2041,26 @@
                           },
                           {
                             "branch_attrs": {},
+                            "name": "G23068",
+                            "node_attrs": {
+                              "accession": "9866",
+                              "div": 0.00013378099382848105,
+                              "location": {
+                                "value": 0
+                              },
+                              "num_date": {
+                                "value": 2020.2472677595629
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
                             "name": "G22811",
                             "node_attrs": {
                               "accession": "9516",
-                              "div": 0.00020065810153752507,
+                              "div": 0.00016722676487133058,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
                                 "value": 2020.2472677595629
@@ -2098,9 +2075,9 @@
                                 "name": "G22673",
                                 "node_attrs": {
                                   "accession": "5031",
-                                  "div": 0.0001337720519902857,
+                                  "div": 0.00010033628785099454,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.233606557377
@@ -2115,9 +2092,9 @@
                                     "name": "G22856",
                                     "node_attrs": {
                                       "accession": "7951",
-                                      "div": 0.00013377205199028577,
+                                      "div": 0.0001003362878509946,
                                       "location": {
-                                        "value": "community A"
+                                        "value": 0
                                       },
                                       "num_date": {
                                         "value": 2020.2472677595629
@@ -2132,9 +2109,9 @@
                                         "name": "G22990",
                                         "node_attrs": {
                                           "accession": "9499",
-                                          "div": 0.00013377205199028582,
+                                          "div": 0.00010033628785099465,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2445355191257
@@ -2146,9 +2123,9 @@
                                         "name": "G22861",
                                         "node_attrs": {
                                           "accession": "5235",
-                                          "div": 0.00013377205199028582,
+                                          "div": 0.00010033628785099465,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2445355191257
@@ -2156,62 +2133,62 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000069",
+                                    "name": "NODE_0000071",
                                     "node_attrs": {
-                                      "div": 0.00013377205199028577,
+                                      "div": 0.0001003362878509946,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2411963706745
+                                        "value": 2020.2412742118418
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000068",
+                                "name": "NODE_0000070",
                                 "node_attrs": {
-                                  "div": 0.0001337720519902857,
+                                  "div": 0.00010033628785099454,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
-                                    "value": 2020.2395267961358
+                                    "value": 2020.2408665483554
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000100",
+                            "name": "NODE_0000074",
                             "node_attrs": {
-                              "div": 0.00013377205199028566,
+                              "div": 0.00010033628785099449,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.2336065580032
+                                "value": 2020.232156037031
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000011",
+                        "name": "NODE_0000069",
                         "node_attrs": {
-                          "div": 0.0001337720519902856,
+                          "div": 0.00010033628785099443,
                           "location": {
-                            "value": "community A"
+                            "value": 0
                           },
                           "num_date": {
-                            "value": 2020.2306307150836
+                            "value": 2020.2310888880845
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000001",
+                    "name": "NODE_0000059",
                     "node_attrs": {
-                      "div": 6.688589291864813e-05,
+                      "div": 3.344515447332206e-05,
                       "location": {
-                        "value": "community B"
+                        "value": 1
                       },
                       "num_date": {
-                        "value": 2020.2039847101153
+                        "value": 2020.2054749732808
                       }
                     }
                   },
@@ -2223,9 +2200,9 @@
                         "name": "G22909",
                         "node_attrs": {
                           "accession": "9962",
-                          "div": 3.344311397925008e-05,
+                          "div": 2.574018492004028e-19,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
                             "value": 2020.1926229508197
@@ -2240,9 +2217,9 @@
                             "name": "G22998",
                             "node_attrs": {
                               "accession": "2603",
-                              "div": 0.00020066853616804847,
+                              "div": 0.0001672349673591308,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.2363387978141
@@ -2254,9 +2231,9 @@
                             "name": "G22983",
                             "node_attrs": {
                               "accession": "3661",
-                              "div": 0.00020066454899006123,
+                              "div": 0.00016723227640859167,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.2363387978141
@@ -2268,9 +2245,9 @@
                             "name": "G22680",
                             "node_attrs": {
                               "accession": "9857",
-                              "div": 6.688605301743176e-05,
+                              "div": 3.344493689631576e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
                                 "value": 2020.214480874317
@@ -2285,9 +2262,9 @@
                                 "name": "G22783",
                                 "node_attrs": {
                                   "accession": "8047",
-                                  "div": 0.00013377168285619355,
+                                  "div": 0.00010033473207028158,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.233606557377
@@ -2299,9 +2276,9 @@
                                 "name": "G22860",
                                 "node_attrs": {
                                   "accession": "1603",
-                                  "div": 0.00013377168285619355,
+                                  "div": 0.00010033473207028158,
                                   "location": {
-                                    "value": "community A"
+                                    "value": 0
                                   },
                                   "num_date": {
                                     "value": 2020.2281420765028
@@ -2309,14 +2286,14 @@
                                 }
                               }
                             ],
-                            "name": "NODE_0000034",
+                            "name": "NODE_0000005",
                             "node_attrs": {
-                              "div": 0.0001337716828561935,
+                              "div": 0.00010033473207028153,
                               "location": {
-                                "value": "community A"
+                                "value": 0
                               },
                               "num_date": {
-                                "value": 2020.228142077129
+                                "value": 2020.22814207711
                               }
                             }
                           },
@@ -2334,9 +2311,9 @@
                                         "name": "G22886",
                                         "node_attrs": {
                                           "accession": "3947",
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community A"
+                                            "value": 0
                                           },
                                           "num_date": {
                                             "value": 2020.2472677595629
@@ -2351,9 +2328,9 @@
                                             "name": "G22847",
                                             "node_attrs": {
                                               "accession": "7639",
-                                              "div": 6.688605301743198e-05,
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2363387978141
@@ -2362,12 +2339,12 @@
                                           },
                                           {
                                             "branch_attrs": {},
-                                            "name": "G23017",
+                                            "name": "G23010",
                                             "node_attrs": {
-                                              "accession": "7094",
-                                              "div": 6.688605301743198e-05,
+                                              "accession": "2702",
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -2375,26 +2352,26 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000076",
+                                        "name": "NODE_0000080",
                                         "node_attrs": {
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.232999653006
+                                            "value": 2020.2333720790275
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000075",
+                                    "name": "NODE_0000079",
                                     "node_attrs": {
-                                      "div": 6.688605301743187e-05,
+                                      "div": 3.3444936896315866e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2313300802887
+                                        "value": 2020.2325244449148
                                       }
                                     }
                                   },
@@ -2406,9 +2383,9 @@
                                         "name": "G23018",
                                         "node_attrs": {
                                           "accession": "4985",
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2254098360656
@@ -2420,12 +2397,12 @@
                                         "children": [
                                           {
                                             "branch_attrs": {},
-                                            "name": "G23010",
+                                            "name": "G23017",
                                             "node_attrs": {
-                                              "accession": "2702",
-                                              "div": 6.688605301743198e-05,
+                                              "accession": "7094",
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -2437,9 +2414,9 @@
                                             "name": "G23008",
                                             "node_attrs": {
                                               "accession": "2898",
-                                              "div": 6.688605301743198e-05,
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community A"
+                                                "value": 0
                                               },
                                               "num_date": {
                                                 "value": 2020.2418032786886
@@ -2447,38 +2424,38 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000078",
+                                        "name": "NODE_0000083",
                                         "node_attrs": {
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.2333607876776
+                                            "value": 2020.2401651331566
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000077",
+                                    "name": "NODE_0000082",
                                     "node_attrs": {
-                                      "div": 6.688605301743187e-05,
+                                      "div": 3.3444936896315866e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2254098366918
+                                        "value": 2020.225409836673
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000074",
+                                "name": "NODE_0000078",
                                 "node_attrs": {
-                                  "div": 6.688605301743182e-05,
+                                  "div": 3.344493689631581e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.224513164285
+                                    "value": 2020.2239024372927
                                   }
                                 }
                               },
@@ -2490,12 +2467,12 @@
                                     "children": [
                                       {
                                         "branch_attrs": {},
-                                        "name": "G23041",
+                                        "name": "G22845",
                                         "node_attrs": {
-                                          "accession": "9622",
-                                          "div": 6.688605301743193e-05,
+                                          "accession": "1692",
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2226775956285
@@ -2504,12 +2481,12 @@
                                       },
                                       {
                                         "branch_attrs": {},
-                                        "name": "G22845",
+                                        "name": "G23041",
                                         "node_attrs": {
-                                          "accession": "1692",
-                                          "div": 6.688605301743193e-05,
+                                          "accession": "9622",
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
                                             "value": 2020.2226775956285
@@ -2517,14 +2494,14 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000080",
+                                    "name": "NODE_0000087",
                                     "node_attrs": {
-                                      "div": 6.688605301743187e-05,
+                                      "div": 3.3444936896315866e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.2226775962547
+                                        "value": 2020.2226775962358
                                       }
                                     }
                                   },
@@ -2536,12 +2513,12 @@
                                         "children": [
                                           {
                                             "branch_attrs": {},
-                                            "name": "G22764",
+                                            "name": "G23057",
                                             "node_attrs": {
-                                              "accession": "1209",
-                                              "div": 6.688605301743198e-05,
+                                              "accession": "7770",
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2281420765028
@@ -2550,12 +2527,12 @@
                                           },
                                           {
                                             "branch_attrs": {},
-                                            "name": "G23057",
+                                            "name": "G22764",
                                             "node_attrs": {
-                                              "accession": "7770",
-                                              "div": 6.688605301743198e-05,
+                                              "accession": "1209",
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.2281420765028
@@ -2563,14 +2540,14 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000084",
+                                        "name": "NODE_0000089",
                                         "node_attrs": {
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.228142077129
+                                            "value": 2020.22814207711
                                           }
                                         }
                                       },
@@ -2582,9 +2559,9 @@
                                             "name": "G22818",
                                             "node_attrs": {
                                               "accession": "3553",
-                                              "div": 6.688605301743198e-05,
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.233606557377
@@ -2596,9 +2573,9 @@
                                             "name": "G22731",
                                             "node_attrs": {
                                               "accession": "5623",
-                                              "div": 6.688605301743198e-05,
+                                              "div": 3.3444936896315974e-05,
                                               "location": {
-                                                "value": "community B"
+                                                "value": 1
                                               },
                                               "num_date": {
                                                 "value": 2020.233606557377
@@ -2606,122 +2583,122 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000085",
+                                        "name": "NODE_0000090",
                                         "node_attrs": {
-                                          "div": 6.688605301743193e-05,
+                                          "div": 3.344493689631592e-05,
                                           "location": {
-                                            "value": "community B"
+                                            "value": 1
                                           },
                                           "num_date": {
-                                            "value": 2020.2321724825779
+                                            "value": 2020.231968411845
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000082",
+                                    "name": "NODE_0000088",
                                     "node_attrs": {
-                                      "div": 6.688605301743187e-05,
+                                      "div": 3.3444936896315866e-05,
                                       "location": {
-                                        "value": "community B"
+                                        "value": 1
                                       },
                                       "num_date": {
-                                        "value": 2020.22719766281
+                                        "value": 2020.2253933234185
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000079",
+                                "name": "NODE_0000086",
                                 "node_attrs": {
-                                  "div": 6.688605301743182e-05,
+                                  "div": 3.344493689631581e-05,
                                   "location": {
-                                    "value": "community B"
+                                    "value": 1
                                   },
                                   "num_date": {
-                                    "value": 2020.2217331819359
+                                    "value": 2020.2147301960179
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000073",
+                            "name": "NODE_0000077",
                             "node_attrs": {
-                              "div": 6.688605301743176e-05,
+                              "div": 3.344493689631576e-05,
                               "location": {
-                                "value": "community B"
+                                "value": 1
                               },
                               "num_date": {
-                                "value": 2020.2208407731105
+                                "value": 2020.2146356321857
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000030",
+                        "name": "NODE_0000003",
                         "node_attrs": {
-                          "div": 6.688605301743171e-05,
+                          "div": 3.34449368963157e-05,
                           "location": {
-                            "value": "community B"
+                            "value": 1
                           },
                           "num_date": {
-                            "value": 2020.214480874943
+                            "value": 2020.206136314798
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000070",
+                    "name": "NODE_0000072",
                     "node_attrs": {
-                      "div": 3.3443113979250034e-05,
+                      "div": 2.0592147936032226e-19,
                       "location": {
-                        "value": "community B"
+                        "value": 1
                       },
                       "num_date": {
-                        "value": 2020.1895061732755
+                        "value": 2020.1909848052876
                       }
                     }
                   }
                 ],
                 "name": "NODE_0000058",
                 "node_attrs": {
-                  "div": 3.3443113979249987e-05,
+                  "div": 1.544411095202417e-19,
                   "location": {
-                    "value": "community B"
+                    "value": 1
                   },
                   "num_date": {
-                    "value": 2020.1895061732755
+                    "value": 2020.1846547067744
                   }
                 }
               }
             ],
-            "name": "NODE_0000071",
+            "name": "NODE_0000053",
             "node_attrs": {
-              "div": 3.344311397924994e-05,
+              "div": 1.0296073968016113e-19,
               "location": {
-                "value": "community A"
+                "value": 0
               },
               "num_date": {
-                "value": 2020.1631068991421
+                "value": 2020.1644675913915
               }
             }
           }
         ],
         "name": "NODE_0000000",
         "node_attrs": {
-          "div": 3.344311397924989e-05,
+          "div": 5.1480369840080565e-20,
           "location": {
-            "value": "community A"
+            "value": 0
           },
           "num_date": {
-            "value": 2020.1627732164782
+            "value": 2020.1553374984755
           }
         }
       }
     ],
-    "name": "NODE_0000002",
+    "name": "NODE_0000001",
     "node_attrs": {
       "div": 0,
       "location": {
-        "value": "community B"
+        "value": 1
       },
       "num_date": {
-        "value": 2020.1617374355649
+        "value": 2020.1553374984755
       }
     }
   },
