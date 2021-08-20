@@ -1,6 +1,6 @@
 Map from character to field name
-A:	0
-B:	1
+A:	community A
+B:	community B
 C:	?
 
 
