@@ -1,6 +1,6 @@
 rule all:
     input:
-        auspice_json = "auspice/genseq.json",
+        auspice_json = "auspice/genomic_sampling.json",
 
 #Which files to include
 seq_file = "data/allseqs.fasta"              #includes sequences as VCF

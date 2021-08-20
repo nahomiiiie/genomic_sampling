@@ -1,0 +1,2146 @@
+{
+  "meta": {
+    "build_url": "https://github.com/nahomiiiie/genomic_sampling",
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Date of Infection",
+        "type": "continuous"
+      }
+    ],
+    "filters": [
+      "location",
+      "author"
+    ],
+    "maintainers": [
+      {
+        "name": "Naomi Rankin",
+        "url": "https://google.com"
+      }
+    ],
+    "panels": [
+      "tree"
+    ],
+    "title": "Ground Truth of Simulated Sequences",
+    "updated": "2021-08-20"
+  },
+  "tree": {
+    "branch_attrs": {},
+    "children": [
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "name": "G22902",
+            "node_attrs": {
+              "accession": "332",
+              "div": 0.00023412972566215772,
+              "num_date": {
+                "value": 2020.233606557377
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "name": "G22787",
+            "node_attrs": {
+              "accession": "1899",
+              "div": 0.00013379213148085461,
+              "num_date": {
+                "value": 2020.2117486338798
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "G22755",
+                "node_attrs": {
+                  "accession": "3933",
+                  "div": 0.00016723707104357238,
+                  "num_date": {
+                    "value": 2020.2418032786886
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "name": "G22822",
+                "node_attrs": {
+                  "accession": "8040",
+                  "div": 0.00016723707104357238,
+                  "num_date": {
+                    "value": 2020.2226775956285
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000023",
+            "node_attrs": {
+              "div": 0.00016723707104357232,
+              "num_date": {
+                "value": 2020.2226775962356
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "G22780",
+                    "node_attrs": {
+                      "accession": "8104",
+                      "div": 0.00016723711559361634,
+                      "num_date": {
+                        "value": 2020.2363387978141
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "G22762",
+                    "node_attrs": {
+                      "accession": "3006",
+                      "div": 0.0001672366654467724,
+                      "num_date": {
+                        "value": 2020.2472677595629
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000006",
+                "node_attrs": {
+                  "div": 0.00013379213148085467,
+                  "num_date": {
+                    "value": 2020.2315540187149
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "G22704",
+                    "node_attrs": {
+                      "accession": "8670",
+                      "div": 0.00013379213148085472,
+                      "num_date": {
+                        "value": 2020.217213114754
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "G23030",
+                        "node_attrs": {
+                          "accession": "5050",
+                          "div": 0.00013379213148085478,
+                          "num_date": {
+                            "value": 2020.23087431694
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "name": "G22959",
+                        "node_attrs": {
+                          "accession": "9470",
+                          "div": 0.00013379213148085478,
+                          "num_date": {
+                            "value": 2020.2254098360656
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000008",
+                    "node_attrs": {
+                      "div": 0.00013379213148085472,
+                      "num_date": {
+                        "value": 2020.2254098366727
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000007",
+                "node_attrs": {
+                  "div": 0.00013379213148085467,
+                  "num_date": {
+                    "value": 2020.2172131153611
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000004",
+            "node_attrs": {
+              "div": 0.00013379213148085461,
+              "num_date": {
+                "value": 2020.2162972032206
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000021",
+        "node_attrs": {
+          "div": 0.00013379213148085456,
+          "num_date": {
+            "value": 2020.207511588093
+          }
+        }
+      },
+      {
+        "branch_attrs": {},
+        "children": [
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "G22924",
+                "node_attrs": {
+                  "accession": "2397",
+                  "div": 3.344463794731369e-05,
+                  "num_date": {
+                    "value": 2020.1734972677596
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "G23007",
+                        "node_attrs": {
+                          "accession": "4224",
+                          "div": 6.688938077167628e-05,
+                          "num_date": {
+                            "value": 2020.1926229508197
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22737",
+                            "node_attrs": {
+                              "accession": "7457",
+                              "div": 6.688938077167633e-05,
+                              "num_date": {
+                                "value": 2020.2062841530055
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22791",
+                                    "node_attrs": {
+                                      "accession": "6955",
+                                      "div": 6.688938077167644e-05,
+                                      "num_date": {
+                                        "value": 2020.2199453551912
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22768",
+                                    "node_attrs": {
+                                      "accession": "9115",
+                                      "div": 6.688938077167644e-05,
+                                      "num_date": {
+                                        "value": 2020.2199453551912
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000014",
+                                "node_attrs": {
+                                  "div": 6.688938077167639e-05,
+                                  "num_date": {
+                                    "value": 2020.2199453557982
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G23045",
+                                    "node_attrs": {
+                                      "accession": "7735",
+                                      "div": 0.00013377888068008553,
+                                      "num_date": {
+                                        "value": 2020.2472677595629
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23035",
+                                        "node_attrs": {
+                                          "accession": "9801",
+                                          "div": 0.00010033377778419654,
+                                          "num_date": {
+                                            "value": 2020.2472677595629
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22700",
+                                            "node_attrs": {
+                                              "accession": "7388",
+                                              "div": 0.00010033377778419659,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22807",
+                                            "node_attrs": {
+                                              "accession": "1595",
+                                              "div": 0.00010033377778419659,
+                                              "num_date": {
+                                                "value": 2020.233606557377
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000016",
+                                        "node_attrs": {
+                                          "div": 0.00010033377778419654,
+                                          "num_date": {
+                                            "value": 2020.233606557984
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000015",
+                                    "node_attrs": {
+                                      "div": 0.00010033377778419648,
+                                      "num_date": {
+                                        "value": 2020.232691104583
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000081",
+                                "node_attrs": {
+                                  "div": 0.00010033377778419643,
+                                  "num_date": {
+                                    "value": 2020.231553751406
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000013",
+                            "node_attrs": {
+                              "div": 6.688938077167633e-05,
+                              "num_date": {
+                                "value": 2020.2106836333057
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000012",
+                        "node_attrs": {
+                          "div": 6.688938077167628e-05,
+                          "num_date": {
+                            "value": 2020.2062841536126
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000010",
+                    "node_attrs": {
+                      "div": 6.688938077167622e-05,
+                      "num_date": {
+                        "value": 2020.1926229514268
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "G23058",
+                        "node_attrs": {
+                          "accession": "7540",
+                          "div": 0.00010033378369669031,
+                          "num_date": {
+                            "value": 2020.214480874317
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22991",
+                            "node_attrs": {
+                              "accession": "1123",
+                              "div": 0.00016722180843306133,
+                              "num_date": {
+                                "value": 2020.2363387978141
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G23048",
+                            "node_attrs": {
+                              "accession": "7124",
+                              "div": 0.00026755986875496185,
+                              "num_date": {
+                                "value": 2020.2418032786886
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22895",
+                            "node_attrs": {
+                              "accession": "8369",
+                              "div": 0.0002341145733152184,
+                              "num_date": {
+                                "value": 2020.2445355191257
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22760",
+                            "node_attrs": {
+                              "accession": "8648",
+                              "div": 0.0002006670242840508,
+                              "num_date": {
+                                "value": 2020.233606557377
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G23054",
+                            "node_attrs": {
+                              "accession": "1704",
+                              "div": 0.00016722204647837537,
+                              "num_date": {
+                                "value": 2020.23087431694
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22933",
+                            "node_attrs": {
+                              "accession": "3329",
+                              "div": 0.00016722147386733597,
+                              "num_date": {
+                                "value": 2020.2363387978141
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22718",
+                                    "node_attrs": {
+                                      "accession": "6700",
+                                      "div": 0.00016722172963954307,
+                                      "num_date": {
+                                        "value": 2020.2445355191257
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23005",
+                                        "node_attrs": {
+                                          "accession": "3669",
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.2445355191257
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22746",
+                                        "node_attrs": {
+                                          "accession": "703",
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.2226775956285
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000020",
+                                    "node_attrs": {
+                                      "div": 0.0001337778786242271,
+                                      "num_date": {
+                                        "value": 2020.2226775962356
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000019",
+                                "node_attrs": {
+                                  "div": 0.00013377787862422705,
+                                  "num_date": {
+                                    "value": 2020.2217906623132
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22726",
+                                        "node_attrs": {
+                                          "accession": "3614",
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.2281420765028
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22684",
+                                            "node_attrs": {
+                                              "accession": "6658",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22729",
+                                            "node_attrs": {
+                                              "accession": "923",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000025",
+                                        "node_attrs": {
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.2401657394082
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000024",
+                                    "node_attrs": {
+                                      "div": 0.0001337778786242271,
+                                      "num_date": {
+                                        "value": 2020.2281420771099
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22792",
+                                            "node_attrs": {
+                                              "accession": "7086",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.2472677595629
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22843",
+                                            "node_attrs": {
+                                              "accession": "7338",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.2472677595629
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000027",
+                                        "node_attrs": {
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.2407176006193
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22797",
+                                            "node_attrs": {
+                                              "accession": "458",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.23087431694
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22725",
+                                            "node_attrs": {
+                                              "accession": "7814",
+                                              "div": 0.0001337778786242272,
+                                              "num_date": {
+                                                "value": 2020.233606557377
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000028",
+                                        "node_attrs": {
+                                          "div": 0.00013377787862422716,
+                                          "num_date": {
+                                            "value": 2020.230874317547
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000026",
+                                    "node_attrs": {
+                                      "div": 0.0001337778786242271,
+                                      "num_date": {
+                                        "value": 2020.2300140681464
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000022",
+                                "node_attrs": {
+                                  "div": 0.00013377787862422705,
+                                  "num_date": {
+                                    "value": 2020.2272261649694
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000018",
+                            "node_attrs": {
+                              "div": 0.000133777878624227,
+                              "num_date": {
+                                "value": 2020.2208501353762
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000085",
+                        "node_attrs": {
+                          "div": 0.00013377787862422694,
+                          "num_date": {
+                            "value": 2020.219718165487
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000084",
+                    "node_attrs": {
+                      "div": 0.00010033378369669026,
+                      "num_date": {
+                        "value": 2020.2128433350365
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000076",
+                "node_attrs": {
+                  "div": 6.688938077167617e-05,
+                  "num_date": {
+                    "value": 2020.1916367700906
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000075",
+            "node_attrs": {
+              "div": 3.3444637947313635e-05,
+              "num_date": {
+                "value": 2020.1734972683666
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "name": "G22690",
+                "node_attrs": {
+                  "accession": "3492",
+                  "div": 3.344513776334069e-05,
+                  "num_date": {
+                    "value": 2020.181693989071
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "name": "G22710",
+                "node_attrs": {
+                  "accession": "4287",
+                  "div": 6.689028698032094e-05,
+                  "num_date": {
+                    "value": 2020.1871584699454
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22885",
+                            "node_attrs": {
+                              "accession": "3655",
+                              "div": 6.689121585247192e-05,
+                              "num_date": {
+                                "value": 2020.2117486338798
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22836",
+                            "node_attrs": {
+                              "accession": "517",
+                              "div": 0.0001003367896206741,
+                              "num_date": {
+                                "value": 2020.2418032786886
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000032",
+                        "node_attrs": {
+                          "div": 6.689121585247186e-05,
+                          "num_date": {
+                            "value": 2020.2116820313183
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G23026",
+                            "node_attrs": {
+                              "accession": "8175",
+                              "div": 0.00016723001705680344,
+                              "num_date": {
+                                "value": 2020.233606557377
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22734",
+                            "node_attrs": {
+                              "accession": "4731",
+                              "div": 0.00010033716592382246,
+                              "num_date": {
+                                "value": 2020.2199453551912
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22994",
+                                    "node_attrs": {
+                                      "accession": "4881",
+                                      "div": 0.00010033716592382257,
+                                      "num_date": {
+                                        "value": 2020.2445355191257
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22952",
+                                    "node_attrs": {
+                                      "accession": "7930",
+                                      "div": 0.00010033716592382257,
+                                      "num_date": {
+                                        "value": 2020.2445355191257
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000035",
+                                "node_attrs": {
+                                  "div": 0.00010033716592382252,
+                                  "num_date": {
+                                    "value": 2020.2412604399576
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22772",
+                                    "node_attrs": {
+                                      "accession": "6989",
+                                      "div": 0.00010033716592382257,
+                                      "num_date": {
+                                        "value": 2020.23087431694
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22801",
+                                    "node_attrs": {
+                                      "accession": "8517",
+                                      "div": 0.0001337830772051369,
+                                      "num_date": {
+                                        "value": 2020.2418032786886
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000036",
+                                "node_attrs": {
+                                  "div": 0.00010033716592382252,
+                                  "num_date": {
+                                    "value": 2020.230874317547
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000034",
+                            "node_attrs": {
+                              "div": 0.00010033716592382246,
+                              "num_date": {
+                                "value": 2020.2300018552141
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000040",
+                        "node_attrs": {
+                          "div": 0.00010033716592382241,
+                          "num_date": {
+                            "value": 2020.2199453557982
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000038",
+                    "node_attrs": {
+                      "div": 6.689121585247181e-05,
+                      "num_date": {
+                        "value": 2020.2098627491132
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22876",
+                            "node_attrs": {
+                              "accession": "9683",
+                              "div": 0.0001337849261397169,
+                              "num_date": {
+                                "value": 2020.2418032786886
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22918",
+                                "node_attrs": {
+                                  "accession": "1537",
+                                  "div": 0.00010033732380094408,
+                                  "num_date": {
+                                    "value": 2020.2226775956285
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G23061",
+                                "node_attrs": {
+                                  "accession": "4186",
+                                  "div": 0.00013378406856651165,
+                                  "num_date": {
+                                    "value": 2020.233606557377
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000049",
+                            "node_attrs": {
+                              "div": 0.00010033732380094402,
+                              "num_date": {
+                                "value": 2020.2226775962356
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22834",
+                                "node_attrs": {
+                                  "accession": "5790",
+                                  "div": 6.689079901544228e-05,
+                                  "num_date": {
+                                    "value": 2020.2363387978141
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G22781",
+                                "node_attrs": {
+                                  "accession": "4551",
+                                  "div": 6.689079901544228e-05,
+                                  "num_date": {
+                                    "value": 2020.2199453551912
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000041",
+                            "node_attrs": {
+                              "div": 6.689079901544222e-05,
+                              "num_date": {
+                                "value": 2020.2199453557982
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000046",
+                        "node_attrs": {
+                          "div": 6.689079901544217e-05,
+                          "num_date": {
+                            "value": 2020.2181538651716
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22955",
+                                "node_attrs": {
+                                  "accession": "2676",
+                                  "div": 3.3445137763340905e-05,
+                                  "num_date": {
+                                    "value": 2020.1926229508197
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G22691",
+                                "node_attrs": {
+                                  "accession": "6300",
+                                  "div": 3.3445137763340905e-05,
+                                  "num_date": {
+                                    "value": 2020.1898907103825
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000043",
+                            "node_attrs": {
+                              "div": 3.344513776334085e-05,
+                              "num_date": {
+                                "value": 2020.1898907109896
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22884",
+                                    "node_attrs": {
+                                      "accession": "6220",
+                                      "div": 3.344513776334096e-05,
+                                      "num_date": {
+                                        "value": 2020.2062841530055
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23015",
+                                        "node_attrs": {
+                                          "accession": "8315",
+                                          "div": 3.3445137763341014e-05,
+                                          "num_date": {
+                                            "value": 2020.2117486338798
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22930",
+                                            "node_attrs": {
+                                              "accession": "4757",
+                                              "div": 3.344513776334107e-05,
+                                              "num_date": {
+                                                "value": 2020.233606557377
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22979",
+                                            "node_attrs": {
+                                              "accession": "4892",
+                                              "div": 3.344513776334107e-05,
+                                              "num_date": {
+                                                "value": 2020.2226775956285
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000048",
+                                        "node_attrs": {
+                                          "div": 3.3445137763341014e-05,
+                                          "num_date": {
+                                            "value": 2020.2226775962356
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000047",
+                                    "node_attrs": {
+                                      "div": 3.344513776334096e-05,
+                                      "num_date": {
+                                        "value": 2020.2101110945994
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000045",
+                                "node_attrs": {
+                                  "div": 3.3445137763340905e-05,
+                                  "num_date": {
+                                    "value": 2020.2062841536126
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23053",
+                                        "node_attrs": {
+                                          "accession": "8400",
+                                          "div": 6.68905844320875e-05,
+                                          "num_date": {
+                                            "value": 2020.217213114754
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22793",
+                                        "node_attrs": {
+                                          "accession": "5602",
+                                          "div": 6.68905844320875e-05,
+                                          "num_date": {
+                                            "value": 2020.2199453551912
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000051",
+                                    "node_attrs": {
+                                      "div": 6.689058443208745e-05,
+                                      "num_date": {
+                                        "value": 2020.2172131153611
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22799",
+                                        "node_attrs": {
+                                          "accession": "9096",
+                                          "div": 0.00016722624684431395,
+                                          "num_date": {
+                                            "value": 2020.2418032786886
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22741",
+                                            "node_attrs": {
+                                              "accession": "7784",
+                                              "div": 0.00016722895247649048,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22873",
+                                            "node_attrs": {
+                                              "accession": "8467",
+                                              "div": 0.00016722895247649048,
+                                              "num_date": {
+                                                "value": 2020.2281420765028
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000054",
+                                        "node_attrs": {
+                                          "div": 0.00016722895247649043,
+                                          "num_date": {
+                                            "value": 2020.2281420771099
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22751",
+                                            "node_attrs": {
+                                              "accession": "3467",
+                                              "div": 0.0001003356686411088,
+                                              "num_date": {
+                                                "value": 2020.2226775956285
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "children": [
+                                              {
+                                                "branch_attrs": {},
+                                                "name": "G22732",
+                                                "node_attrs": {
+                                                  "accession": "7373",
+                                                  "div": 0.00010033566864110885,
+                                                  "num_date": {
+                                                    "value": 2020.2254098360656
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {},
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "G22858",
+                                                    "node_attrs": {
+                                                      "accession": "3428",
+                                                      "div": 0.0001003356686411089,
+                                                      "num_date": {
+                                                        "value": 2020.2281420765028
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {},
+                                                    "name": "G23023",
+                                                    "node_attrs": {
+                                                      "accession": "2904",
+                                                      "div": 0.0001003356686411089,
+                                                      "num_date": {
+                                                        "value": 2020.2281420765028
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000057",
+                                                "node_attrs": {
+                                                  "div": 0.00010033566864110885,
+                                                  "num_date": {
+                                                    "value": 2020.2281420771099
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000056",
+                                            "node_attrs": {
+                                              "div": 0.0001003356686411088,
+                                              "num_date": {
+                                                "value": 2020.2254098366727
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000055",
+                                        "node_attrs": {
+                                          "div": 0.00010033566864110874,
+                                          "num_date": {
+                                            "value": 2020.2226775962356
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000052",
+                                    "node_attrs": {
+                                      "div": 0.00010033566864110869,
+                                      "num_date": {
+                                        "value": 2020.220812895104
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000050",
+                                "node_attrs": {
+                                  "div": 6.689058443208739e-05,
+                                  "num_date": {
+                                    "value": 2020.210312230206
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000044",
+                            "node_attrs": {
+                              "div": 3.344513776334085e-05,
+                              "num_date": {
+                                "value": 2020.19027307643
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000042",
+                        "node_attrs": {
+                          "div": 3.34451377633408e-05,
+                          "num_date": {
+                            "value": 2020.1890580635893
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000037",
+                    "node_attrs": {
+                      "div": 3.344513776334074e-05,
+                      "num_date": {
+                        "value": 2020.1878894023798
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000030",
+                "node_attrs": {
+                  "div": 3.344513776334069e-05,
+                  "num_date": {
+                    "value": 2020.1866069755872
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000029",
+            "node_attrs": {
+              "div": 3.3445137763340634e-05,
+              "num_date": {
+                "value": 2020.1735062902396
+              }
+            }
+          },
+          {
+            "branch_attrs": {},
+            "children": [
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "name": "G22869",
+                    "node_attrs": {
+                      "accession": "3094",
+                      "div": 2.0592147936032226e-19,
+                      "num_date": {
+                        "value": 2020.1653005464482
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "name": "G22670",
+                    "node_attrs": {
+                      "accession": "1000",
+                      "div": 2.0592147936032226e-19,
+                      "num_date": {
+                        "value": 2020.1653005464482
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000060",
+                "node_attrs": {
+                  "div": 1.544411095202417e-19,
+                  "num_date": {
+                    "value": 2020.1653005470553
+                  }
+                }
+              },
+              {
+                "branch_attrs": {},
+                "children": [
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22944",
+                            "node_attrs": {
+                              "accession": "7927",
+                              "div": 0.00013378183929085247,
+                              "num_date": {
+                                "value": 2020.2281420765028
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22714",
+                                "node_attrs": {
+                                  "accession": "9484",
+                                  "div": 6.689031004535075e-05,
+                                  "num_date": {
+                                    "value": 2020.2226775956285
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G23040",
+                                    "node_attrs": {
+                                      "accession": "407",
+                                      "div": 6.689031004535081e-05,
+                                      "num_date": {
+                                        "value": 2020.23087431694
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22948",
+                                    "node_attrs": {
+                                      "accession": "1663",
+                                      "div": 6.689031004535081e-05,
+                                      "num_date": {
+                                        "value": 2020.23087431694
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000062",
+                                "node_attrs": {
+                                  "div": 6.689031004535075e-05,
+                                  "num_date": {
+                                    "value": 2020.230874317547
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000061",
+                            "node_attrs": {
+                              "div": 6.68903100453507e-05,
+                              "num_date": {
+                                "value": 2020.2226775962356
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000065",
+                        "node_attrs": {
+                          "div": 6.689031004535065e-05,
+                          "num_date": {
+                            "value": 2020.2206035528156
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22978",
+                            "node_attrs": {
+                              "accession": "2192",
+                              "div": 3.344515447332217e-05,
+                              "num_date": {
+                                "value": 2020.2062841530055
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22898",
+                                    "node_attrs": {
+                                      "accession": "5012",
+                                      "div": 3.344515447332228e-05,
+                                      "num_date": {
+                                        "value": 2020.214480874317
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22888",
+                                    "node_attrs": {
+                                      "accession": "4453",
+                                      "div": 3.344515447332228e-05,
+                                      "num_date": {
+                                        "value": 2020.214480874317
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000064",
+                                "node_attrs": {
+                                  "div": 3.3445154473322225e-05,
+                                  "num_date": {
+                                    "value": 2020.214480874924
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22826",
+                                    "node_attrs": {
+                                      "accession": "7034",
+                                      "div": 6.689022886987041e-05,
+                                      "num_date": {
+                                        "value": 2020.2418032786886
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22778",
+                                        "node_attrs": {
+                                          "accession": "4531",
+                                          "div": 6.688998764035176e-05,
+                                          "num_date": {
+                                            "value": 2020.2418032786886
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22899",
+                                        "node_attrs": {
+                                          "accession": "9677",
+                                          "div": 3.344515447332233e-05,
+                                          "num_date": {
+                                            "value": 2020.233606557377
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000067",
+                                    "node_attrs": {
+                                      "div": 3.344515447332228e-05,
+                                      "num_date": {
+                                        "value": 2020.2314994466806
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000066",
+                                "node_attrs": {
+                                  "div": 3.3445154473322225e-05,
+                                  "num_date": {
+                                    "value": 2020.2313081545747
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000063",
+                            "node_attrs": {
+                              "div": 3.344515447332217e-05,
+                              "num_date": {
+                                "value": 2020.2135649627835
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000068",
+                        "node_attrs": {
+                          "div": 3.3445154473322116e-05,
+                          "num_date": {
+                            "value": 2020.2062841536126
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22950",
+                            "node_attrs": {
+                              "accession": "3005",
+                              "div": 0.00013378092791836135,
+                              "num_date": {
+                                "value": 2020.2418032786886
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G23068",
+                            "node_attrs": {
+                              "accession": "9866",
+                              "div": 0.00013378099382848105,
+                              "num_date": {
+                                "value": 2020.2472677595629
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22811",
+                            "node_attrs": {
+                              "accession": "9516",
+                              "div": 0.00016722676487133058,
+                              "num_date": {
+                                "value": 2020.2472677595629
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22673",
+                                "node_attrs": {
+                                  "accession": "5031",
+                                  "div": 0.00010033628785099454,
+                                  "num_date": {
+                                    "value": 2020.233606557377
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "name": "G22856",
+                                    "node_attrs": {
+                                      "accession": "7951",
+                                      "div": 0.0001003362878509946,
+                                      "num_date": {
+                                        "value": 2020.2472677595629
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22990",
+                                        "node_attrs": {
+                                          "accession": "9499",
+                                          "div": 0.00010033628785099465,
+                                          "num_date": {
+                                            "value": 2020.2445355191257
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22861",
+                                        "node_attrs": {
+                                          "accession": "5235",
+                                          "div": 0.00010033628785099465,
+                                          "num_date": {
+                                            "value": 2020.2445355191257
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000071",
+                                    "node_attrs": {
+                                      "div": 0.0001003362878509946,
+                                      "num_date": {
+                                        "value": 2020.241275859354
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000070",
+                                "node_attrs": {
+                                  "div": 0.00010033628785099454,
+                                  "num_date": {
+                                    "value": 2020.240344527817
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000074",
+                            "node_attrs": {
+                              "div": 0.00010033628785099449,
+                              "num_date": {
+                                "value": 2020.2322187103644
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000069",
+                        "node_attrs": {
+                          "div": 0.00010033628785099443,
+                          "num_date": {
+                            "value": 2020.231321386615
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000059",
+                    "node_attrs": {
+                      "div": 3.344515447332206e-05,
+                      "num_date": {
+                        "value": 2020.2051014463616
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {},
+                    "children": [
+                      {
+                        "branch_attrs": {},
+                        "name": "G22909",
+                        "node_attrs": {
+                          "accession": "9962",
+                          "div": 2.574018492004028e-19,
+                          "num_date": {
+                            "value": 2020.1926229508197
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {},
+                        "children": [
+                          {
+                            "branch_attrs": {},
+                            "name": "G22998",
+                            "node_attrs": {
+                              "accession": "2603",
+                              "div": 0.0001672349673591308,
+                              "num_date": {
+                                "value": 2020.2363387978141
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22983",
+                            "node_attrs": {
+                              "accession": "3661",
+                              "div": 0.00016723227640859167,
+                              "num_date": {
+                                "value": 2020.2363387978141
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "name": "G22680",
+                            "node_attrs": {
+                              "accession": "9857",
+                              "div": 3.344493689631576e-05,
+                              "num_date": {
+                                "value": 2020.214480874317
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "name": "G22783",
+                                "node_attrs": {
+                                  "accession": "8047",
+                                  "div": 0.00010033473207028158,
+                                  "num_date": {
+                                    "value": 2020.233606557377
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "name": "G22860",
+                                "node_attrs": {
+                                  "accession": "1603",
+                                  "div": 0.00010033473207028158,
+                                  "num_date": {
+                                    "value": 2020.2281420765028
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000005",
+                            "node_attrs": {
+                              "div": 0.00010033473207028153,
+                              "num_date": {
+                                "value": 2020.2281420771099
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {},
+                            "children": [
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22886",
+                                        "node_attrs": {
+                                          "accession": "3947",
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2472677595629
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22847",
+                                            "node_attrs": {
+                                              "accession": "7639",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2363387978141
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G23010",
+                                            "node_attrs": {
+                                              "accession": "2702",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000080",
+                                        "node_attrs": {
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2341674410684
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000079",
+                                    "node_attrs": {
+                                      "div": 3.3444936896315866e-05,
+                                      "num_date": {
+                                        "value": 2020.2341674410684
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23018",
+                                        "node_attrs": {
+                                          "accession": "4985",
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2254098360656
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G23017",
+                                            "node_attrs": {
+                                              "accession": "7094",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G23008",
+                                            "node_attrs": {
+                                              "accession": "2898",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2418032786886
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000083",
+                                        "node_attrs": {
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2401657394082
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000082",
+                                    "node_attrs": {
+                                      "div": 3.3444936896315866e-05,
+                                      "num_date": {
+                                        "value": 2020.2254098366727
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000078",
+                                "node_attrs": {
+                                  "div": 3.344493689631581e-05,
+                                  "num_date": {
+                                    "value": 2020.2244581490745
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {},
+                                "children": [
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G22845",
+                                        "node_attrs": {
+                                          "accession": "1692",
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2226775956285
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "name": "G23041",
+                                        "node_attrs": {
+                                          "accession": "9622",
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2226775956285
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000087",
+                                    "node_attrs": {
+                                      "div": 3.3444936896315866e-05,
+                                      "num_date": {
+                                        "value": 2020.2226775962356
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {},
+                                    "children": [
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G23057",
+                                            "node_attrs": {
+                                              "accession": "7770",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2281420765028
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22764",
+                                            "node_attrs": {
+                                              "accession": "1209",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.2281420765028
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000089",
+                                        "node_attrs": {
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2281420771099
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {},
+                                        "children": [
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22818",
+                                            "node_attrs": {
+                                              "accession": "3553",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.233606557377
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {},
+                                            "name": "G22731",
+                                            "node_attrs": {
+                                              "accession": "5623",
+                                              "div": 3.3444936896315974e-05,
+                                              "num_date": {
+                                                "value": 2020.233606557377
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000090",
+                                        "node_attrs": {
+                                          "div": 3.344493689631592e-05,
+                                          "num_date": {
+                                            "value": 2020.2319756752825
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000088",
+                                    "node_attrs": {
+                                      "div": 3.3444936896315866e-05,
+                                      "num_date": {
+                                        "value": 2020.2269895187242
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000086",
+                                "node_attrs": {
+                                  "div": 3.344493689631581e-05,
+                                  "num_date": {
+                                    "value": 2020.221761684095
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000077",
+                            "node_attrs": {
+                              "div": 3.344493689631576e-05,
+                              "num_date": {
+                                "value": 2020.2206397270045
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000003",
+                        "node_attrs": {
+                          "div": 3.34449368963157e-05,
+                          "num_date": {
+                            "value": 2020.214480874924
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000072",
+                    "node_attrs": {
+                      "div": 2.0592147936032226e-19,
+                      "num_date": {
+                        "value": 2020.1909854115393
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000058",
+                "node_attrs": {
+                  "div": 1.544411095202417e-19,
+                  "num_date": {
+                    "value": 2020.1842574910618
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000053",
+            "node_attrs": {
+              "div": 1.0296073968016113e-19,
+              "num_date": {
+                "value": 2020.164467899655
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000000",
+        "node_attrs": {
+          "div": 5.1480369840080565e-20,
+          "num_date": {
+            "value": 2020.1564339965691
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000001",
+    "node_attrs": {
+      "div": 0,
+      "num_date": {
+        "value": 2020.1564339965691
+      }
+    }
+  },
+  "version": "v2"
+}
