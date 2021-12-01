@@ -1,0 +1,79 @@
+inputfile = orig
+174 x 29903 - 29903 d
+nthread = 1
+nadd = 0
+inputfile = infile
+thresholdtorev = 0.000000
+reflim = 5000
+mode = a
+generating a scoring matrix for nucleotide (dist=200) ... done
+
+Step 1/2
+1   101   
+
+Step 2/2
+ 1 / 174 (1 threads)    101 / 174 (1 threads)   
+makedirectionlist (nuc) Version 7.487
+alg=m, model=DNA200 (2), 1.53 (4.59), 0.37 (1.11), noshift, amax=0.0
+1 thread(s)
+
+directionfile = _direction
+inputfile = infile
+subalignment = 0
+subalignmentoffset = 0
+174 x 29903 - 29903 d
+directionfile = _direction
+inputfile = orig
+subalignment = 0
+subalignmentoffset = 0
+174 x 29903 - 29903 d
+nthread = 1
+nthreadpair = 1
+nthreadtb = 1
+ppenalty_ex = 0
+stacksize: 8192 kb
+generating a scoring matrix for nucleotide (dist=200) ... done
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 174 (thread    0)  101 / 174 (thread    0)
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 174   10 / 174   20 / 174   30 / 174   40 / 174   50 / 174   60 / 174   70 / 174   80 / 174   90 / 174  100 / 174  110 / 174  120 / 174  130 / 174  140 / 174  150 / 174  160 / 174  170 / 174
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 173 (thread    0) fSTEP     2 / 173 (thread    0) fSTEP     3 / 173 (thread    0) fSTEP     4 / 173 (thread    0) fSTEP     5 / 173 (thread    0) fSTEP     6 / 173 (thread    0) fSTEP     7 / 173 (thread    0) fSTEP     8 / 173 (thread    0) fSTEP     9 / 173 (thread    0) fSTEP    10 / 173 (thread    0) fSTEP    11 / 173 (thread    0) fSTEP    12 / 173 (thread    0) fSTEP    13 / 173 (thread    0) fSTEP    14 / 173 (thread    0) fSTEP    15 / 173 (thread    0) fSTEP    16 / 173 (thread    0) fSTEP    17 / 173 (thread    0) fSTEP    18 / 173 (thread    0) fSTEP    19 / 173 (thread    0) fSTEP    20 / 173 (thread    0) fSTEP    21 / 173 (thread    0) fSTEP    22 / 173 (thread    0) fSTEP    23 / 173 (thread    0) fSTEP    24 / 173 (thread    0) fSTEP    25 / 173 (thread    0) fSTEP    26 / 173 (thread    0) fSTEP    27 / 173 (thread    0) fSTEP    28 / 173 (thread    0) fSTEP    29 / 173 (thread    0) fSTEP    30 / 173 (thread    0) fSTEP    31 / 173 (thread    0) fSTEP    32 / 173 (thread    0) fSTEP    33 / 173 (thread    0) fSTEP    34 / 173 (thread    0) fSTEP    35 / 173 (thread    0) fSTEP    36 / 173 (thread    0) fSTEP    37 / 173 (thread    0) fSTEP    38 / 173 (thread    0) fSTEP    39 / 173 (thread    0) fSTEP    40 / 173 (thread    0) fSTEP    41 / 173 (thread    0) fSTEP    42 / 173 (thread    0) fSTEP    43 / 173 (thread    0) fSTEP    44 / 173 (thread    0) fSTEP    45 / 173 (thread    0) fSTEP    46 / 173 (thread    0) fSTEP    47 / 173 (thread    0) fSTEP    48 / 173 (thread    0) fSTEP    49 / 173 (thread    0) fSTEP    50 / 173 (thread    0) fSTEP    51 / 173 (thread    0) fSTEP    52 / 173 (thread    0) fSTEP    53 / 173 (thread    0) fSTEP    54 / 173 (thread    0) fSTEP    55 / 173 (thread    0) fSTEP    56 / 173 (thread    0) fSTEP    57 / 173 (thread    0) fSTEP    58 / 173 (thread    0) fSTEP    59 / 173 (thread    0) fSTEP    60 / 173 (thread    0) fSTEP    61 / 173 (thread    0) fSTEP    62 / 173 (thread    0) fSTEP    63 / 173 (thread    0) fSTEP    64 / 173 (thread    0) fSTEP    65 / 173 (thread    0) fSTEP    66 / 173 (thread    0) fSTEP    67 / 173 (thread    0) fSTEP    68 / 173 (thread    0) fSTEP    69 / 173 (thread    0) fSTEP    70 / 173 (thread    0) fSTEP    71 / 173 (thread    0) fSTEP    72 / 173 (thread    0) fSTEP    73 / 173 (thread    0) fSTEP    74 / 173 (thread    0) fSTEP    75 / 173 (thread    0) fSTEP    76 / 173 (thread    0) fSTEP    77 / 173 (thread    0) fSTEP    78 / 173 (thread    0) fSTEP    79 / 173 (thread    0) fSTEP    80 / 173 (thread    0) fSTEP    81 / 173 (thread    0) fSTEP    82 / 173 (thread    0) fSTEP    83 / 173 (thread    0) fSTEP    84 / 173 (thread    0) fSTEP    85 / 173 (thread    0) fSTEP    86 / 173 (thread    0) fSTEP    87 / 173 (thread    0) fSTEP    88 / 173 (thread    0) fSTEP    89 / 173 (thread    0) fSTEP    90 / 173 (thread    0) fSTEP    91 / 173 (thread    0) fSTEP    92 / 173 (thread    0) fSTEP    93 / 173 (thread    0) fSTEP    94 / 173 (thread    0) fSTEP    95 / 173 (thread    0) fSTEP    96 / 173 (thread    0) fSTEP    97 / 173 (thread    0) fSTEP    98 / 173 (thread    0) fSTEP    99 / 173 (thread    0) fSTEP   100 / 173 (thread    0) fSTEP   101 / 173 (thread    0) fSTEP   102 / 173 (thread    0) fSTEP   103 / 173 (thread    0) fSTEP   104 / 173 (thread    0) fSTEP   105 / 173 (thread    0) fSTEP   106 / 173 (thread    0) fSTEP   107 / 173 (thread    0) fSTEP   108 / 173 (thread    0) fSTEP   109 / 173 (thread    0) fSTEP   110 / 173 (thread    0) fSTEP   111 / 173 (thread    0) fSTEP   112 / 173 (thread    0) fSTEP   113 / 173 (thread    0) fSTEP   114 / 173 (thread    0) fSTEP   115 / 173 (thread    0) fSTEP   116 / 173 (thread    0) fSTEP   117 / 173 (thread    0) fSTEP   118 / 173 (thread    0) fSTEP   119 / 173 (thread    0) fSTEP   120 / 173 (thread    0) fSTEP   121 / 173 (thread    0) fSTEP   122 / 173 (thread    0) fSTEP   123 / 173 (thread    0) fSTEP   124 / 173 (thread    0) fSTEP   125 / 173 (thread    0) fSTEP   126 / 173 (thread    0) fSTEP   127 / 173 (thread    0) fSTEP   128 / 173 (thread    0) fSTEP   129 / 173 (thread    0) fSTEP   130 / 173 (thread    0) fSTEP   131 / 173 (thread    0) fSTEP   132 / 173 (thread    0) fSTEP   133 / 173 (thread    0) fSTEP   134 / 173 (thread    0) fSTEP   135 / 173 (thread    0) fSTEP   136 / 173 (thread    0) fSTEP   137 / 173 (thread    0) fSTEP   138 / 173 (thread    0) fSTEP   139 / 173 (thread    0) fSTEP   140 / 173 (thread    0) fSTEP   141 / 173 (thread    0) fSTEP   142 / 173 (thread    0) fSTEP   143 / 173 (thread    0) fSTEP   144 / 173 (thread    0) fSTEP   145 / 173 (thread    0) fSTEP   146 / 173 (thread    0) fSTEP   147 / 173 (thread    0) fSTEP   148 / 173 (thread    0) fSTEP   149 / 173 (thread    0) fSTEP   150 / 173 (thread    0) fSTEP   151 / 173 (thread    0) fSTEP   152 / 173 (thread    0) fSTEP   153 / 173 (thread    0) fSTEP   154 / 173 (thread    0) fSTEP   155 / 173 (thread    0) fSTEP   156 / 173 (thread    0) fSTEP   157 / 173 (thread    0) fSTEP   158 / 173 (thread    0) fSTEP   159 / 173 (thread    0) fSTEP   160 / 173 (thread    0) fSTEP   161 / 173 (thread    0) fSTEP   162 / 173 (thread    0) fSTEP   163 / 173 (thread    0) fSTEP   164 / 173 (thread    0) fSTEP   165 / 173 (thread    0) fSTEP   166 / 173 (thread    0) fSTEP   167 / 173 (thread    0) fSTEP   168 / 173 (thread    0) fSTEP   169 / 173 (thread    0) fSTEP   170 / 173 (thread    0) fSTEP   171 / 173 (thread    0) fSTEP   172 / 173 (thread    0) fSTEP   173 / 173 (thread    0) f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 174 (thread    0)  100 / 174 (thread    0)
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 174   10 / 174   20 / 174   30 / 174   40 / 174   50 / 174   60 / 174   70 / 174   80 / 174   90 / 174  100 / 174  110 / 174  120 / 174  130 / 174  140 / 174  150 / 174  160 / 174  170 / 174
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 173 (thread    0) fSTEP     2 / 173 (thread    0) fSTEP     3 / 173 (thread    0) fSTEP     4 / 173 (thread    0) fSTEP     5 / 173 (thread    0) fSTEP     6 / 173 (thread    0) fSTEP     7 / 173 (thread    0) fSTEP     8 / 173 (thread    0) fSTEP     9 / 173 (thread    0) fSTEP    10 / 173 (thread    0) fSTEP    11 / 173 (thread    0) fSTEP    12 / 173 (thread    0) fSTEP    13 / 173 (thread    0) fSTEP    14 / 173 (thread    0) fSTEP    15 / 173 (thread    0) fSTEP    16 / 173 (thread    0) fSTEP    17 / 173 (thread    0) fSTEP    18 / 173 (thread    0) fSTEP    19 / 173 (thread    0) fSTEP    20 / 173 (thread    0) fSTEP    21 / 173 (thread    0) fSTEP    22 / 173 (thread    0) fSTEP    23 / 173 (thread    0) fSTEP    24 / 173 (thread    0) fSTEP    25 / 173 (thread    0) fSTEP    26 / 173 (thread    0) fSTEP    27 / 173 (thread    0) fSTEP    28 / 173 (thread    0) fSTEP    29 / 173 (thread    0) fSTEP    30 / 173 (thread    0) fSTEP    31 / 173 (thread    0) fSTEP    32 / 173 (thread    0) fSTEP    33 / 173 (thread    0) fSTEP    34 / 173 (thread    0) fSTEP    35 / 173 (thread    0) fSTEP    36 / 173 (thread    0) fSTEP    37 / 173 (thread    0) fSTEP    38 / 173 (thread    0) fSTEP    39 / 173 (thread    0) fSTEP    40 / 173 (thread    0) fSTEP    41 / 173 (thread    0) fSTEP    42 / 173 (thread    0) fSTEP    43 / 173 (thread    0) fSTEP    44 / 173 (thread    0) fSTEP    45 / 173 (thread    0) fSTEP    46 / 173 (thread    0) fSTEP    47 / 173 (thread    0) fSTEP    48 / 173 (thread    0) fSTEP    49 / 173 (thread    0) fSTEP    50 / 173 (thread    0) fSTEP    51 / 173 (thread    0) fSTEP    52 / 173 (thread    0) fSTEP    53 / 173 (thread    0) fSTEP    54 / 173 (thread    0) fSTEP    55 / 173 (thread    0) fSTEP    56 / 173 (thread    0) fSTEP    57 / 173 (thread    0) fSTEP    58 / 173 (thread    0) fSTEP    59 / 173 (thread    0) fSTEP    60 / 173 (thread    0) fSTEP    61 / 173 (thread    0) fSTEP    62 / 173 (thread    0) fSTEP    63 / 173 (thread    0) fSTEP    64 / 173 (thread    0) fSTEP    65 / 173 (thread    0) fSTEP    66 / 173 (thread    0) fSTEP    67 / 173 (thread    0) fSTEP    68 / 173 (thread    0) fSTEP    69 / 173 (thread    0) fSTEP    70 / 173 (thread    0) fSTEP    71 / 173 (thread    0) fSTEP    72 / 173 (thread    0) fSTEP    73 / 173 (thread    0) fSTEP    74 / 173 (thread    0) fSTEP    75 / 173 (thread    0) fSTEP    76 / 173 (thread    0) fSTEP    77 / 173 (thread    0) fSTEP    78 / 173 (thread    0) fSTEP    79 / 173 (thread    0) fSTEP    80 / 173 (thread    0) fSTEP    81 / 173 (thread    0) fSTEP    82 / 173 (thread    0) fSTEP    83 / 173 (thread    0) fSTEP    84 / 173 (thread    0) fSTEP    85 / 173 (thread    0) fSTEP    86 / 173 (thread    0) fSTEP    87 / 173 (thread    0) fSTEP    88 / 173 (thread    0) fSTEP    89 / 173 (thread    0) fSTEP    90 / 173 (thread    0) fSTEP    91 / 173 (thread    0) fSTEP    92 / 173 (thread    0) fSTEP    93 / 173 (thread    0) fSTEP    94 / 173 (thread    0) fSTEP    95 / 173 (thread    0) fSTEP    96 / 173 (thread    0) fSTEP    97 / 173 (thread    0) fSTEP    98 / 173 (thread    0) fSTEP    99 / 173 (thread    0) fSTEP   100 / 173 (thread    0) fSTEP   101 / 173 (thread    0) fSTEP   102 / 173 (thread    0) fSTEP   103 / 173 (thread    0) fSTEP   104 / 173 (thread    0) fSTEP   105 / 173 (thread    0) fSTEP   106 / 173 (thread    0) fSTEP   107 / 173 (thread    0) fSTEP   108 / 173 (thread    0) fSTEP   109 / 173 (thread    0) fSTEP   110 / 173 (thread    0) fSTEP   111 / 173 (thread    0) fSTEP   112 / 173 (thread    0) fSTEP   113 / 173 (thread    0) fSTEP   114 / 173 (thread    0) fSTEP   115 / 173 (thread    0) fSTEP   116 / 173 (thread    0) fSTEP   117 / 173 (thread    0) fSTEP   118 / 173 (thread    0) fSTEP   119 / 173 (thread    0) fSTEP   120 / 173 (thread    0) fSTEP   121 / 173 (thread    0) fSTEP   122 / 173 (thread    0) fSTEP   123 / 173 (thread    0) fSTEP   124 / 173 (thread    0) fSTEP   125 / 173 (thread    0) fSTEP   126 / 173 (thread    0) fSTEP   127 / 173 (thread    0) fSTEP   128 / 173 (thread    0) fSTEP   129 / 173 (thread    0) fSTEP   130 / 173 (thread    0) fSTEP   131 / 173 (thread    0) fSTEP   132 / 173 (thread    0) fSTEP   133 / 173 (thread    0) fSTEP   134 / 173 (thread    0) fSTEP   135 / 173 (thread    0) fSTEP   136 / 173 (thread    0) fSTEP   137 / 173 (thread    0) fSTEP   138 / 173 (thread    0) fSTEP   139 / 173 (thread    0) fSTEP   140 / 173 (thread    0) fSTEP   141 / 173 (thread    0) fSTEP   142 / 173 (thread    0) fSTEP   143 / 173 (thread    0) fSTEP   144 / 173 (thread    0) fSTEP   145 / 173 (thread    0) fSTEP   146 / 173 (thread    0) fSTEP   147 / 173 (thread    0) fSTEP   148 / 173 (thread    0) fSTEP   149 / 173 (thread    0) fSTEP   150 / 173 (thread    0) fSTEP   151 / 173 (thread    0) fSTEP   152 / 173 (thread    0) fSTEP   153 / 173 (thread    0) fSTEP   154 / 173 (thread    0) fSTEP   155 / 173 (thread    0) fSTEP   156 / 173 (thread    0) fSTEP   157 / 173 (thread    0) fSTEP   158 / 173 (thread    0) fSTEP   159 / 173 (thread    0) fSTEP   160 / 173 (thread    0) fSTEP   161 / 173 (thread    0) fSTEP   162 / 173 (thread    0) fSTEP   163 / 173 (thread    0) fSTEP   164 / 173 (thread    0) fSTEP   165 / 173 (thread    0) fSTEP   166 / 173 (thread    0) fSTEP   167 / 173 (thread    0) fSTEP   168 / 173 (thread    0) fSTEP   169 / 173 (thread    0) fSTEP   170 / 173 (thread    0) fSTEP   171 / 173 (thread    0) fSTEP   172 / 173 (thread    0) fSTEP   173 / 173 (thread    0) f
+done.
+
+disttbfast (nuc) Version 7.487
+alg=A, model=DNA200 (2), 1.53 (4.59), -0.00 (-0.00), noshift, amax=0.0
+1 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+

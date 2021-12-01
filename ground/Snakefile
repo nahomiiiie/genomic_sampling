@@ -1,0 +1,135 @@
+rule all:
+    input:
+        auspice_json = "../auspice/genseq00.json",
+
+#Which files to include
+seq_file = "data/allseqs.fasta"              #includes sequences as VCF
+meta_file = "data/background.tsv"                    #demographic info samples
+#exclude_file = "config/dropped_strains.txt"    #what strains to drop
+ref_file = "data/reference.fasta"                    #root case
+#sites_file = "config/drm_sites.txt"            #what sites to not analyze
+#mask_file = "config/Locus_to_exclude_Mtb.bed"  #exact bp spots of ^^
+#generef_file = "config/Mtb_H37Rv_NCBI_Annot.gff" #gene info to include
+#genes_file = "config/genes.txt"                #actual gene name
+#clades_file = "config/clades.tsv"              #gene separation of sublineages
+#drms_file = "config/DRMs-AAnuc.tsv"            #sequence traits of drug resistance
+colors_file = "../configs/colors.tsv"               #colors for certain traits
+config_file = "../configs/aus_config.json"             #
+geo_info_file = "../configs/latlong.tsv"         #add latitutde/lognitude
+
+
+rule align:
+    message:
+        """
+        Aligning sequences to {input.reference}
+          - filling gaps with N
+        """
+    input:
+        sequences = seq_file,
+        reference = ref_file
+    output:
+        aln = "results/aligned.fasta"
+    shell:
+        """
+        augur align \
+            --sequences {input.sequences} \
+            --reference-sequence {input.reference} \
+            --output {output.aln} \
+            --fill-gaps
+        """
+
+
+rule tree:
+#creates the tree, looking at what areas in genome to remove, reference strain
+#and sites to exclude (optional)
+    input:
+        aln = rules.align.output.aln,
+        ref = ref_file
+    output:
+        "results/tree_raw.nwk"
+    params:
+        method = 'iqtree'
+    shell:
+        """
+        augur tree --alignment {input.aln} \
+            --vcf-reference {input.ref} \
+            --method {params.method} \
+            --output {output}
+        """
+
+rule refine:
+#includes inferred dates, mutations on tree
+    input:
+        tree = rules.tree.output,
+        aln = rules.align.output.aln,
+        metadata = meta_file,
+        ref = ref_file
+    output:
+        tree = "results/tree.nwk",
+        node_data = "results/branch_lengths.json"
+    params:
+        root = 'min_dev',
+        coal = 'opt'
+    shell:
+        """
+        augur refine --tree {input.tree} \
+            --alignment {input.aln} \
+            --vcf-reference {input.ref} \
+            --metadata {input.metadata} \
+            --timetree \
+            --root {params.root} \
+            --coalescent {params.coal} \
+            --output-tree {output.tree} \
+            --output-node-data {output.node_data}
+        """
+
+
+rule traits:
+#find ancestry of traits (like location)
+    input:
+        tree = rules.refine.output.tree,
+        meta = meta_file
+    output:
+        "results/traits.json"
+    params:
+        traits = 'location'
+    shell:
+        """
+        augur traits --tree {input.tree} \
+            --metadata {input.meta} \
+            --columns {params.traits} \
+            --output-node-data {output}
+        """
+
+
+rule export:
+#package everything into one and send it to all
+    input:
+        tree = rules.refine.output.tree,
+        metadata = meta_file,
+        branch_lengths = rules.refine.output.node_data,
+        traits = rules.traits.output,
+        color_defs = colors_file,
+        auspice_config = config_file,
+        geo_info = geo_info_file,
+    output:
+        auspice_json = rules.all.input.auspice_json,
+    shell:
+        """
+        augur export v2 \
+            --tree {input.tree} \
+            --metadata {input.metadata} \
+            --node-data {input.branch_lengths} {input.traits} \
+            --auspice-config {input.auspice_config} \
+            --colors {input.color_defs} \
+            --lat-longs {input.geo_info} \
+            --output {output.auspice_json} \
+        """
+
+rule clean:
+    message: "Removing directories: {params}"
+    params:
+        "results ",
+        "auspice"
+    shell:
+        "rm -rfv {params}"

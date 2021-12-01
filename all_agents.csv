@@ -1,0 +1,1001 @@
+	accession	location	state	infection_date	index_ID	descendants	recovery	strain	region	country
+0	1000	1	R	2020-03-01		[]	2020-03-24	G22670	North America	USA
+1		1	S			[]		G22671	North America	USA
+2		1	S			[]		G22672	North America	USA
+3		0	S			[]		G22673	North America	USA
+4		1	S			[]		G22674	North America	USA
+5		1	S			[]		G22675	North America	USA
+6		0	S			[]		G22676	North America	USA
+7	2797	1	R	2020-03-14	4464	[]	2020-03-26	G22677	North America	USA
+8		0	S			[]		G22678	North America	USA
+9		1	S			[]		G22679	North America	USA
+10	896	0	R	2020-03-20	685	[]	2020-03-21	G22680	North America	USA
+11		1	S			[]		G22681	North America	USA
+12	8058	1	I	2020-03-31	5895	[]	2020-04-01	G22682	North America	USA
+13		0	S			[]		G22683	North America	USA
+14		1	S			[]		G22684	North America	USA
+15		1	S			[]		G22685	North America	USA
+16		1	S			[]		G22686	North America	USA
+17		1	S			[]		G22687	North America	USA
+18		1	S			[]		G22688	North America	USA
+19		1	S			[]		G22689	North America	USA
+20		0	S			[]		G22690	North America	USA
+21		1	S			[]		G22691	North America	USA
+22		1	S			[]		G22692	North America	USA
+23	1123	0	I	2020-03-18	3582	[]	2020-03-21	G22693	North America	USA
+24		0	S			[]		G22694	North America	USA
+25		1	S			[]		G22695	North America	USA
+26		0	S			[]		G22696	North America	USA
+27		1	S			[]		G22697	North America	USA
+28		1	S			[]		G22698	North America	USA
+29		1	S			[]		G22699	North America	USA
+30		0	S			[]		G22700	North America	USA
+31		0	S			[]		G22701	North America	USA
+32	2240	0	I	2020-03-09	5353	[]	2020-04-09	G22702	North America	USA
+33		0	S			[]		G22703	North America	USA
+34		0	S			[]		G22704	North America	USA
+35		0	S			[]		G22705	North America	USA
+36		0	S			[]		G22706	North America	USA
+37		1	S			[]		G22707	North America	USA
+38	9382	1	R	2020-03-20	6551	[]	2020-03-22	G22708	North America	USA
+39		0	S			[]		G22709	North America	USA
+40		0	S			[]		G22710	North America	USA
+41	1976	0	I	2020-03-30	2306	[]	2020-04-04	G22711	North America	USA
+42	5845	0	I	2020-03-28	9887	[]	2020-04-02	G22712	North America	USA
+43		1	S			[]		G22713	North America	USA
+44		0	S			[]		G22714	North America	USA
+45		1	S			[]		G22715	North America	USA
+46		0	S			[]		G22716	North America	USA
+47		0	S			[]		G22717	North America	USA
+48		0	S			[]		G22718	North America	USA
+49		0	S			[]		G22719	North America	USA
+50		0	S			[]		G22720	North America	USA
+51		1	S			[]		G22721	North America	USA
+52		0	S			[]		G22722	North America	USA
+53		1	S			[]		G22723	North America	USA
+54		0	S			[]		G22724	North America	USA
+55		0	S			[]		G22725	North America	USA
+56		1	S			[]		G22726	North America	USA
+57		0	S			[]		G22727	North America	USA
+58		0	S			[]		G22728	North America	USA
+59		0	S			[]		G22729	North America	USA
+60		0	S			[]		G22730	North America	USA
+61		0	S			[]		G22731	North America	USA
+62		1	S			[]		G22732	North America	USA
+63	5895	0	I	2020-03-20	6551	[]	2020-04-05	G22733	North America	USA
+64	7760	0	R	2020-03-23	2896	[]	2020-03-29	G22734	North America	USA
+65		0	S			[]		G22735	North America	USA
+66		1	S			[]		G22736	North America	USA
+67		1	S			[]		G22737	North America	USA
+68		1	S			[]		G22738	North America	USA
+69		0	S			[]		G22739	North America	USA
+70		1	S			[]		G22740	North America	USA
+71		0	S			[]		G22741	North America	USA
+72	7563	1	I	2020-03-25	1817	[]	2020-04-04	G22742	North America	USA
+73		0	S			[]		G22743	North America	USA
+74		0	S			[]		G22744	North America	USA
+75		1	S			[]		G22745	North America	USA
+76		0	S			[]		G22746	North America	USA
+77		0	S			[]		G22747	North America	USA
+78		1	S			[]		G22748	North America	USA
+79	6470	1	I	2020-03-12	685	[]	2020-04-04	G22749	North America	USA
+80		0	S			[]		G22750	North America	USA
+81		0	S			[]		G22751	North America	USA
+82		0	S			[]		G22752	North America	USA
+83		1	S			[]		G22753	North America	USA
+84		0	S			[]		G22754	North America	USA
+85		1	S			[]		G22755	North America	USA
+86	339	0	R	2020-03-18	7519	[]	2020-03-19	G22756	North America	USA
+87	3765	0	R	2020-03-14	2240	[]	2020-03-16	G22757	North America	USA
+88		1	S			[]		G22758	North America	USA
+89		1	S			[]		G22759	North America	USA
+90		0	S			[]		G22760	North America	USA
+91		1	S			[]		G22761	North America	USA
+92		0	S			[]		G22762	North America	USA
+93	712	1	I	2020-03-25	7546	[]	2020-04-24	G22763	North America	USA
+94		0	S			[]		G22764	North America	USA
+95		1	S			[]		G22765	North America	USA
+96		0	S			[]		G22766	North America	USA
+97		0	S			[]		G22767	North America	USA
+98	2077	0	I	2020-03-20	2997	[]	2020-04-10	G22768	North America	USA
+99		0	S			[]		G22769	North America	USA
+100	2896	0	I	2020-03-11	7519	[]	2020-04-04	G22770	North America	USA
+101		1	S			[]		G22771	North America	USA
+102		1	S			[]		G22772	North America	USA
+103		0	S			[]		G22773	North America	USA
+104		1	S			[]		G22774	North America	USA
+105		0	S			[]		G22775	North America	USA
+106		1	S			[]		G22776	North America	USA
+107		0	S			[]		G22777	North America	USA
+108		1	S			[]		G22778	North America	USA
+109		0	S			[]		G22779	North America	USA
+110		0	S			[]		G22780	North America	USA
+111		0	S			[]		G22781	North America	USA
+112	7519	0	I	2020-03-10	1479	[]	2020-03-24	G22782	North America	USA
+113		1	S			[]		G22783	North America	USA
+114		0	S			[]		G22784	North America	USA
+115		0	S			[]		G22785	North America	USA
+116		0	S			[]		G22786	North America	USA
+117		1	S			[]		G22787	North America	USA
+118		0	S			[]		G22788	North America	USA
+119		0	S			[]		G22789	North America	USA
+120		1	S			[]		G22790	North America	USA
+121		0	S			[]		G22791	North America	USA
+122	6551	1	I	2020-03-20	2797	[]	2020-04-15	G22792	North America	USA
+123		1	S			[]		G22793	North America	USA
+124		0	S			[]		G22794	North America	USA
+125		0	S			[]		G22795	North America	USA
+126	3582	1	R	2020-03-15	2240	[]	2020-03-23	G22796	North America	USA
+127		0	S			[]		G22797	North America	USA
+128		1	S			[]		G22798	North America	USA
+129		1	S			[]		G22799	North America	USA
+130		1	S			[]		G22800	North America	USA
+131		1	S			[]		G22801	North America	USA
+132		1	S			[]		G22802	North America	USA
+133		1	S			[]		G22803	North America	USA
+134		1	S			[]		G22804	North America	USA
+135		1	S			[]		G22805	North America	USA
+136		1	S			[]		G22806	North America	USA
+137		1	S			[]		G22807	North America	USA
+138		1	S			[]		G22808	North America	USA
+139		0	S			[]		G22809	North America	USA
+140		0	S			[]		G22810	North America	USA
+141		0	S			[]		G22811	North America	USA
+142		1	S			[]		G22812	North America	USA
+143		0	S			[]		G22813	North America	USA
+144	184	0	I	2020-03-28	6219	[]	2020-04-01	G22814	North America	USA
+145		1	S			[]		G22815	North America	USA
+146		0	S			[]		G22816	North America	USA
+147		0	S			[]		G22817	North America	USA
+148	9861	1	I	2020-03-28	9046	[]	2020-04-05	G22818	North America	USA
+149		0	S			[]		G22819	North America	USA
+150		1	S			[]		G22820	North America	USA
+151	7942	0	I	2020-03-31	2240	[]	2020-04-01	G22821	North America	USA
+152		0	S			[]		G22822	North America	USA
+153		0	S			[]		G22823	North America	USA
+154	2917	1	I	2020-03-02	1000	[]	2020-03-22	G22824	North America	USA
+155		0	S			[]		G22825	North America	USA
+156		0	S			[]		G22826	North America	USA
+157		0	S			[]		G22827	North America	USA
+158		0	S			[]		G22828	North America	USA
+159		1	S			[]		G22829	North America	USA
+160		1	S			[]		G22830	North America	USA
+161	202	1	R	2020-03-30	6551	[]	2020-03-31	G22831	North America	USA
+162		1	S			[]		G22832	North America	USA
+163		1	S			[]		G22833	North America	USA
+164		0	S			[]		G22834	North America	USA
+165		0	S			[]		G22835	North America	USA
+166		0	S			[]		G22836	North America	USA
+167	9640	1	I	2020-03-27	712	[]	2020-04-08	G22837	North America	USA
+168	4269	1	I	2020-03-28	9046	[]	2020-04-06	G22838	North America	USA
+169		1	S			[]		G22839	North America	USA
+170		0	S			[]		G22840	North America	USA
+171		1	S			[]		G22841	North America	USA
+172		1	S			[]		G22842	North America	USA
+173	9013	0	R	2020-03-14	5757	[]	2020-03-15	G22843	North America	USA
+174		0	S			[]		G22844	North America	USA
+175		1	S			[]		G22845	North America	USA
+176		1	S			[]		G22846	North America	USA
+177		1	S			[]		G22847	North America	USA
+178		0	S			[]		G22848	North America	USA
+179		1	S			[]		G22849	North America	USA
+180	4507	1	I	2020-03-20	2797	[]	2020-03-31	G22850	North America	USA
+181		0	S			[]		G22851	North America	USA
+182		0	S			[]		G22852	North America	USA
+183		0	S			[]		G22853	North America	USA
+184	1586	1	I	2020-03-20	9887	[]	2020-04-02	G22854	North America	USA
+185		0	S			[]		G22855	North America	USA
+186		1	S			[]		G22856	North America	USA
+187		1	S			[]		G22857	North America	USA
+188		1	S			[]		G22858	North America	USA
+189		0	S			[]		G22859	North America	USA
+190		0	S			[]		G22860	North America	USA
+191		1	S			[]		G22861	North America	USA
+192		0	S			[]		G22862	North America	USA
+193		1	S			[]		G22863	North America	USA
+194		0	S			[]		G22864	North America	USA
+195		0	S			[]		G22865	North America	USA
+196	5122	0	I	2020-03-28	2917	[]	2020-04-14	G22866	North America	USA
+197	1838	0	I	2020-03-14	3722	[]	2020-03-15	G22867	North America	USA
+198		1	S			[]		G22868	North America	USA
+199		1	S			[]		G22869	North America	USA
+200	6412	1	I	2020-03-14	1817	[]	2020-03-21	G22870	North America	USA
+201		0	S			[]		G22871	North America	USA
+202	8539	0	R	2020-03-12	4615	[]	2020-03-13	G22872	North America	USA
+203	9607	1	R	2020-03-03	2917	[]	2020-03-04	G22873	North America	USA
+204		1	S			[]		G22874	North America	USA
+205		1	S			[]		G22875	North America	USA
+206		0	S			[]		G22876	North America	USA
+207		0	S			[]		G22877	North America	USA
+208		1	S			[]		G22878	North America	USA
+209		1	S			[]		G22879	North America	USA
+210	5890	0	R	2020-03-09	7922	[]	2020-03-11	G22880	North America	USA
+211		0	S			[]		G22881	North America	USA
+212		1	S			[]		G22882	North America	USA
+213		1	S			[]		G22883	North America	USA
+214		0	S			[]		G22884	North America	USA
+215		0	S			[]		G22885	North America	USA
+216	5532	0	I	2020-03-31	6470	[]	2020-04-30	G22886	North America	USA
+217	2306	0	I	2020-03-28	2854	[]	2020-04-05	G22887	North America	USA
+218		1	S			[]		G22888	North America	USA
+219		1	S			[]		G22889	North America	USA
+220	8235	1	I	2020-03-30	1838	[]	2020-04-02	G22890	North America	USA
+221		1	S			[]		G22891	North America	USA
+222		0	S			[]		G22892	North America	USA
+223	7012	0	R	2020-03-15	1000	[]	2020-03-18	G22893	North America	USA
+224		0	S			[]		G22894	North America	USA
+225		0	S			[]		G22895	North America	USA
+226		1	S			[]		G22896	North America	USA
+227		0	S			[]		G22897	North America	USA
+228		0	S			[]		G22898	North America	USA
+229		0	S			[]		G22899	North America	USA
+230		1	S			[]		G22900	North America	USA
+231		0	S			[]		G22901	North America	USA
+232	7596	0	I	2020-03-31	2896	[]	2020-04-14	G22902	North America	USA
+233		0	S			[]		G22903	North America	USA
+234		1	S			[]		G22904	North America	USA
+235		1	S			[]		G22905	North America	USA
+236		1	S			[]		G22906	North America	USA
+237		0	S			[]		G22907	North America	USA
+238		1	S			[]		G22908	North America	USA
+239		0	S			[]		G22909	North America	USA
+240	5311	1	I	2020-03-20	685	[]	2020-03-22	G22910	North America	USA
+241		0	S			[]		G22911	North America	USA
+242		1	S			[]		G22912	North America	USA
+243		1	S			[]		G22913	North America	USA
+244	1720	0	I	2020-03-17	7519	[]	2020-03-22	G22914	North America	USA
+245		1	S			[]		G22915	North America	USA
+246		1	S			[]		G22916	North America	USA
+247		0	S			[]		G22917	North America	USA
+248		1	S			[]		G22918	North America	USA
+249		0	S			[]		G22919	North America	USA
+250		1	S			[]		G22920	North America	USA
+251	7683	1	I	2020-03-27	2917	[]	2020-04-09	G22921	North America	USA
+252		1	S			[]		G22922	North America	USA
+253		0	S			[]		G22923	North America	USA
+254	9046	1	R	2020-03-20	6551	[]	2020-03-30	G22924	North America	USA
+255		1	S			[]		G22925	North America	USA
+256	3538	0	I	2020-03-28	7519	[]	2020-04-03	G22926	North America	USA
+257		0	S			[]		G22927	North America	USA
+258		1	S			[]		G22928	North America	USA
+259	6551	0	I	2020-03-17	2896	[]	2020-03-22	G22929	North America	USA
+260		1	S			[]		G22930	North America	USA
+261		1	S			[]		G22931	North America	USA
+262		0	S			[]		G22932	North America	USA
+263		1	S			[]		G22933	North America	USA
+264		0	S			[]		G22934	North America	USA
+265		0	S			[]		G22935	North America	USA
+266		1	S			[]		G22936	North America	USA
+267		1	S			[]		G22937	North America	USA
+268		0	S			[]		G22938	North America	USA
+269	4717	1	I	2020-03-28	6412	[]	2020-03-31	G22939	North America	USA
+270		1	S			[]		G22940	North America	USA
+271		1	S			[]		G22941	North America	USA
+272		1	S			[]		G22942	North America	USA
+273		0	S			[]		G22943	North America	USA
+274		0	S			[]		G22944	North America	USA
+275		0	S			[]		G22945	North America	USA
+276		1	S			[]		G22946	North America	USA
+277		1	S			[]		G22947	North America	USA
+278		1	S			[]		G22948	North America	USA
+279		0	S			[]		G22949	North America	USA
+280		0	S			[]		G22950	North America	USA
+281		1	S			[]		G22951	North America	USA
+282		1	S			[]		G22952	North America	USA
+283		0	S			[]		G22953	North America	USA
+284		0	S			[]		G22954	North America	USA
+285		0	S			[]		G22955	North America	USA
+286		1	S			[]		G22956	North America	USA
+287		0	S			[]		G22957	North America	USA
+288	4788	1	I	2020-03-31	5895	[]	2020-04-05	G22958	North America	USA
+289		1	S			[]		G22959	North America	USA
+290		0	S			[]		G22960	North America	USA
+291		1	S			[]		G22961	North America	USA
+292		1	S			[]		G22962	North America	USA
+293	4464	1	R	2020-03-11	2240	[]	2020-03-27	G22963	North America	USA
+294	3849	1	I	2020-03-31	6551	[]	2020-04-15	G22964	North America	USA
+295		1	S			[]		G22965	North America	USA
+296	1817	1	I	2020-03-12	4546	[]	2020-03-15	G22966	North America	USA
+297		0	S			[]		G22967	North America	USA
+298		0	S			[]		G22968	North America	USA
+299		0	S			[]		G22969	North America	USA
+300		1	S			[]		G22970	North America	USA
+301		0	S			[]		G22971	North America	USA
+302		0	S			[]		G22972	North America	USA
+303		1	S			[]		G22973	North America	USA
+304		0	S			[]		G22974	North America	USA
+305	3027	0	I	2020-03-30	5311	[]	2020-03-30	G22975	North America	USA
+306		1	S			[]		G22976	North America	USA
+307		1	S			[]		G22977	North America	USA
+308		0	S			[]		G22978	North America	USA
+309		1	S			[]		G22979	North America	USA
+310		0	S			[]		G22980	North America	USA
+311	9529	0	I	2020-03-25	6219	[]	2020-03-26	G22981	North America	USA
+312		1	S			[]		G22982	North America	USA
+313	675	1	I	2020-03-25	2896	[]	2020-03-30	G22983	North America	USA
+314		1	S			[]		G22984	North America	USA
+315		0	S			[]		G22985	North America	USA
+316		0	S			[]		G22986	North America	USA
+317		0	S			[]		G22987	North America	USA
+318		0	S			[]		G22988	North America	USA
+319		0	S			[]		G22989	North America	USA
+320	5757	1	I	2020-03-09	4676	[]	2020-03-27	G22990	North America	USA
+321	9033	1	I	2020-03-28	9529	[]	2020-04-03	G22991	North America	USA
+322		1	S			[]		G22992	North America	USA
+323		1	S			[]		G22993	North America	USA
+324		0	S			[]		G22994	North America	USA
+325		1	S			[]		G22995	North America	USA
+326		0	S			[]		G22996	North America	USA
+327		1	S			[]		G22997	North America	USA
+328	6219	0	I	2020-03-18	6412	[]	2020-03-23	G22998	North America	USA
+329		1	S			[]		G22999	North America	USA
+330		1	S			[]		G23000	North America	USA
+331		1	S			[]		G23001	North America	USA
+332		0	S			[]		G23002	North America	USA
+333		1	S			[]		G23003	North America	USA
+334		1	S			[]		G23004	North America	USA
+335		0	S			[]		G23005	North America	USA
+336		0	S			[]		G23006	North America	USA
+337		0	S			[]		G23007	North America	USA
+338		1	S			[]		G23008	North America	USA
+339	3804	1	I	2020-03-27	1838	[]	2020-04-09	G23009	North America	USA
+340		1	S			[]		G23010	North America	USA
+341		1	S			[]		G23011	North America	USA
+342		1	S			[]		G23012	North America	USA
+343		1	S			[]		G23013	North America	USA
+344		0	S			[]		G23014	North America	USA
+345		1	S			[]		G23015	North America	USA
+346		1	S			[]		G23016	North America	USA
+347	5610	0	I	2020-03-20	110	[]	2020-03-27	G23017	North America	USA
+348		0	S			[]		G23018	North America	USA
+349		0	S			[]		G23019	North America	USA
+350		0	S			[]		G23020	North America	USA
+351		1	S			[]		G23021	North America	USA
+352		1	S			[]		G23022	North America	USA
+353		1	S			[]		G23023	North America	USA
+354		1	S			[]		G23024	North America	USA
+355		0	S			[]		G23025	North America	USA
+356		1	S			[]		G23026	North America	USA
+357		0	S			[]		G23027	North America	USA
+358		1	S			[]		G23028	North America	USA
+359		0	S			[]		G23029	North America	USA
+360		0	S			[]		G23030	North America	USA
+361		0	S			[]		G23031	North America	USA
+362	7546	1	I	2020-03-20	8676	[]	2020-03-21	G23032	North America	USA
+363		1	S			[]		G23033	North America	USA
+364		0	S			[]		G23034	North America	USA
+365		1	S			[]		G23035	North America	USA
+366		1	S			[]		G23036	North America	USA
+367		1	S			[]		G23037	North America	USA
+368	7798	0	I	2020-03-25	7760	[]	2020-04-02	G23038	North America	USA
+369		0	S			[]		G23039	North America	USA
+370		1	S			[]		G23040	North America	USA
+371	3722	0	R	2020-03-12	5353	[]	2020-03-25	G23041	North America	USA
+372		0	S			[]		G23042	North America	USA
+373		1	S			[]		G23043	North America	USA
+374		0	S			[]		G23044	North America	USA
+375		0	S			[]		G23045	North America	USA
+376		1	S			[]		G23046	North America	USA
+377	8676	1	I	2020-03-19	1000	[]	2020-03-26	G23047	North America	USA
+378		0	S			[]		G23048	North America	USA
+379		0	S			[]		G23049	North America	USA
+380		1	S			[]		G23050	North America	USA
+381		1	S			[]		G23051	North America	USA
+382	3570	1	I	2020-03-14	2240	[]	2020-05-12	G23052	North America	USA
+383		0	S			[]		G23053	North America	USA
+384	8358	0	R	2020-03-14	5757	[]	2020-03-17	G23054	North America	USA
+385		0	S			[]		G23055	North America	USA
+386		0	S			[]		G23056	North America	USA
+387		0	S			[]		G23057	North America	USA
+388	2606	0	I	2020-03-29	5895	[]	2020-04-10	G23058	North America	USA
+389		0	S			[]		G23059	North America	USA
+390		1	S			[]		G23060	North America	USA
+391		1	S			[]		G23061	North America	USA
+392		1	S			[]		G23062	North America	USA
+393		1	S			[]		G23063	North America	USA
+394		0	S			[]		G23064	North America	USA
+395		1	S			[]		G23065	North America	USA
+396		1	S			[]		G23066	North America	USA
+397	165	1	I	2020-03-28	8676	[]	2020-03-29	G23067	North America	USA
+398	7918	1	I	2020-03-25	2917	[]	2020-03-26	G23068	North America	USA
+399		0	S			[]		G23069	North America	USA
+400		0	S			[]		G23070	North America	USA
+401		1	S			[]		G23071	North America	USA
+402		1	S			[]		G23072	North America	USA
+403		1	S			[]		G23073	North America	USA
+404		0	S			[]		G23074	North America	USA
+405	831	0	I	2020-03-28	7519	[]	2020-04-03	G23075	North America	USA
+406		0	S			[]		G23076	North America	USA
+407		0	S			[]		G23077	North America	USA
+408		1	S			[]		G23078	North America	USA
+409		0	S			[]		G23079	North America	USA
+410		0	S			[]		G23080	North America	USA
+411		1	S			[]		G23081	North America	USA
+412		0	S			[]		G23082	North America	USA
+413		0	S			[]		G23083	North America	USA
+414		0	S			[]		G23084	North America	USA
+415		1	S			[]		G23085	North America	USA
+416		1	S			[]		G23086	North America	USA
+417	8069	1	I	2020-03-28	7798	[]	2020-04-15	G23087	North America	USA
+418		0	S			[]		G23088	North America	USA
+419		0	S			[]		G23089	North America	USA
+420		0	S			[]		G23090	North America	USA
+421		0	S			[]		G23091	North America	USA
+422		0	S			[]		G23092	North America	USA
+423		1	S			[]		G23093	North America	USA
+424		1	S			[]		G23094	North America	USA
+425		1	S			[]		G23095	North America	USA
+426	8045	0	I	2020-03-28	6551	[]	2020-03-28	G23096	North America	USA
+427	5897	1	I	2020-03-30	1720	[]	2020-04-21	G23097	North America	USA
+428		1	S			[]		G23098	North America	USA
+429		1	S			[]		G23099	North America	USA
+430		1	S			[]		G23100	North America	USA
+431	2172	1	I	2020-03-17	7519	[]	2020-03-23	G23101	North America	USA
+432	2854	1	I	2020-03-12	5757	[]	2020-04-09	G23102	North America	USA
+433		0	S			[]		G23103	North America	USA
+434		0	S			[]		G23104	North America	USA
+435		0	S			[]		G23105	North America	USA
+436		1	S			[]		G23106	North America	USA
+437		0	S			[]		G23107	North America	USA
+438		1	S			[]		G23108	North America	USA
+439		1	S			[]		G23109	North America	USA
+440		1	S			[]		G23110	North America	USA
+441		0	S			[]		G23111	North America	USA
+442		0	S			[]		G23112	North America	USA
+443		1	S			[]		G23113	North America	USA
+444		0	S			[]		G23114	North America	USA
+445		1	S			[]		G23115	North America	USA
+446	7587	0	I	2020-03-17	3722	[]	2020-03-30	G23116	North America	USA
+447		0	S			[]		G23117	North America	USA
+448		1	S			[]		G23118	North America	USA
+449		1	S			[]		G23119	North America	USA
+450		1	S			[]		G23120	North America	USA
+451		1	S			[]		G23121	North America	USA
+452	9671	1	I	2020-03-27	7563	[]	2020-04-16	G23122	North America	USA
+453	2006	1	I	2020-03-30	5895	[]	2020-04-22	G23123	North America	USA
+454		1	S			[]		G23124	North America	USA
+455		0	S			[]		G23125	North America	USA
+456		1	S			[]		G23126	North America	USA
+457		1	S			[]		G23127	North America	USA
+458	8083	0	I	2020-03-25	2896	[]	2020-03-25	G23128	North America	USA
+459		1	S			[]		G23129	North America	USA
+460		0	S			[]		G23130	North America	USA
+461		1	S			[]		G23131	North America	USA
+462		0	S			[]		G23132	North America	USA
+463		1	S			[]		G23133	North America	USA
+464		1	S			[]		G23134	North America	USA
+465		1	S			[]		G23135	North America	USA
+466		0	S			[]		G23136	North America	USA
+467		1	S			[]		G23137	North America	USA
+468		0	S			[]		G23138	North America	USA
+469		1	S			[]		G23139	North America	USA
+470		1	S			[]		G23140	North America	USA
+471		1	S			[]		G23141	North America	USA
+472	1219	1	I	2020-03-30	1720	[]	2020-04-01	G23142	North America	USA
+473	3441	1	I	2020-03-28	8083	[]	2020-04-11	G23143	North America	USA
+474		0	S			[]		G23144	North America	USA
+475		1	S			[]		G23145	North America	USA
+476		1	S			[]		G23146	North America	USA
+477	5897	0	I	2020-03-25	2797	[]	2020-04-01	G23147	North America	USA
+478		1	S			[]		G23148	North America	USA
+479		1	S			[]		G23149	North America	USA
+480		1	S			[]		G23150	North America	USA
+481		0	S			[]		G23151	North America	USA
+482		0	S			[]		G23152	North America	USA
+483		1	S			[]		G23153	North America	USA
+484		0	S			[]		G23154	North America	USA
+485		0	S			[]		G23155	North America	USA
+486		0	S			[]		G23156	North America	USA
+487	2453	1	I	2020-03-28	8676	[]	2020-05-01	G23157	North America	USA
+488		1	S			[]		G23158	North America	USA
+489		0	S			[]		G23159	North America	USA
+490		0	S			[]		G23160	North America	USA
+491		0	S			[]		G23161	North America	USA
+492		1	S			[]		G23162	North America	USA
+493	1479	0	R	2020-03-09	1000	[]	2020-03-14	G23163	North America	USA
+494		0	S			[]		G23164	North America	USA
+495	3823	1	I	2020-03-12	5353	[]	2020-04-15	G23165	North America	USA
+496		0	S			[]		G23166	North America	USA
+497		1	S			[]		G23167	North America	USA
+498		1	S			[]		G23168	North America	USA
+499		1	S			[]		G23169	North America	USA
+500		0	S			[]		G23170	North America	USA
+501		1	S			[]		G23171	North America	USA
+502	5353	0	I	2020-03-07	6911	[]	2020-03-19	G23172	North America	USA
+503		0	S			[]		G23173	North America	USA
+504		1	S			[]		G23174	North America	USA
+505		0	S			[]		G23175	North America	USA
+506		0	S			[]		G23176	North America	USA
+507		1	S			[]		G23177	North America	USA
+508		0	S			[]		G23178	North America	USA
+509		1	S			[]		G23179	North America	USA
+510		1	S			[]		G23180	North America	USA
+511		1	S			[]		G23181	North America	USA
+512		1	S			[]		G23182	North America	USA
+513		0	S			[]		G23183	North America	USA
+514		0	S			[]		G23184	North America	USA
+515		0	S			[]		G23185	North America	USA
+516		1	S			[]		G23186	North America	USA
+517		1	S			[]		G23187	North America	USA
+518		0	S			[]		G23188	North America	USA
+519	198	1	I	2020-03-04	1000	[]	2020-03-16	G23189	North America	USA
+520		1	S			[]		G23190	North America	USA
+521	3106	1	R	2020-03-05	198	[]	2020-03-06	G23191	North America	USA
+522		0	S			[]		G23192	North America	USA
+523		0	S			[]		G23193	North America	USA
+524		1	S			[]		G23194	North America	USA
+525		1	S			[]		G23195	North America	USA
+526		0	S			[]		G23196	North America	USA
+527		0	S			[]		G23197	North America	USA
+528		0	S			[]		G23198	North America	USA
+529		0	S			[]		G23199	North America	USA
+530		0	S			[]		G23200	North America	USA
+531		1	S			[]		G23201	North America	USA
+532		1	S			[]		G23202	North America	USA
+533		1	S			[]		G23203	North America	USA
+534		1	S			[]		G23204	North America	USA
+535		0	S			[]		G23205	North America	USA
+536		1	S			[]		G23206	North America	USA
+537		1	S			[]		G23207	North America	USA
+538		0	S			[]		G23208	North America	USA
+539	663	1	I	2020-03-28	5757	[]	2020-04-15	G23209	North America	USA
+540		1	S			[]		G23210	North America	USA
+541	3418	1	I	2020-03-28	1586	[]	2020-04-02	G23211	North America	USA
+542		1	S			[]		G23212	North America	USA
+543		0	S			[]		G23213	North America	USA
+544		0	S			[]		G23214	North America	USA
+545		1	S			[]		G23215	North America	USA
+546		0	S			[]		G23216	North America	USA
+547		1	S			[]		G23217	North America	USA
+548		1	S			[]		G23218	North America	USA
+549	4676	1	I	2020-03-07	1000	[]	2020-03-14	G23219	North America	USA
+550		0	S			[]		G23220	North America	USA
+551		1	S			[]		G23221	North America	USA
+552		1	S			[]		G23222	North America	USA
+553		0	S			[]		G23223	North America	USA
+554		0	S			[]		G23224	North America	USA
+555		1	S			[]		G23225	North America	USA
+556	123	0	I	2020-03-28	5353	[]	2020-03-31	G23226	North America	USA
+557		0	S			[]		G23227	North America	USA
+558		1	S			[]		G23228	North America	USA
+559		1	S			[]		G23229	North America	USA
+560		0	S			[]		G23230	North America	USA
+561		1	S			[]		G23231	North America	USA
+562		1	S			[]		G23232	North America	USA
+563		1	S			[]		G23233	North America	USA
+564		1	S			[]		G23234	North America	USA
+565		1	S			[]		G23235	North America	USA
+566	2337	1	I	2020-03-27	2917	[]	2020-04-03	G23236	North America	USA
+567	2147	1	I	2020-03-28	1817	[]	2020-04-08	G23237	North America	USA
+568	2808	1	I	2020-03-12	4676	[]	2020-03-15	G23238	North America	USA
+569		0	S			[]		G23239	North America	USA
+570		1	S			[]		G23240	North America	USA
+571		0	S			[]		G23241	North America	USA
+572		0	S			[]		G23242	North America	USA
+573		0	S			[]		G23243	North America	USA
+574	9887	1	I	2020-03-19	1000	[]	2020-03-27	G23244	North America	USA
+575		0	S			[]		G23245	North America	USA
+576	5989	0	I	2020-03-23	5895	[]	2020-04-25	G23246	North America	USA
+577		1	S			[]		G23247	North America	USA
+578		0	S			[]		G23248	North America	USA
+579		0	S			[]		G23249	North America	USA
+580		1	S			[]		G23250	North America	USA
+581		1	S			[]		G23251	North America	USA
+582		1	S			[]		G23252	North America	USA
+583	685	1	I	2020-03-10	5757	[]	2020-03-13	G23253	North America	USA
+584	2054	0	R	2020-03-27	2240	[]	2020-03-28	G23254	North America	USA
+585		0	S			[]		G23255	North America	USA
+586		0	S			[]		G23256	North America	USA
+587		1	S			[]		G23257	North America	USA
+588		1	S			[]		G23258	North America	USA
+589		0	S			[]		G23259	North America	USA
+590		0	S			[]		G23260	North America	USA
+591		0	S			[]		G23261	North America	USA
+592		0	S			[]		G23262	North America	USA
+593		0	S			[]		G23263	North America	USA
+594		0	S			[]		G23264	North America	USA
+595	8257	1	I	2020-03-17	6412	[]	2020-04-04	G23265	North America	USA
+596		0	S			[]		G23266	North America	USA
+597		0	S			[]		G23267	North America	USA
+598		0	S			[]		G23268	North America	USA
+599		1	S			[]		G23269	North America	USA
+600		0	S			[]		G23270	North America	USA
+601		0	S			[]		G23271	North America	USA
+602		0	S			[]		G23272	North America	USA
+603		0	S			[]		G23273	North America	USA
+604		1	S			[]		G23274	North America	USA
+605		1	S			[]		G23275	North America	USA
+606		1	S			[]		G23276	North America	USA
+607		1	S			[]		G23277	North America	USA
+608		0	S			[]		G23278	North America	USA
+609		0	S			[]		G23279	North America	USA
+610		0	S			[]		G23280	North America	USA
+611		0	S			[]		G23281	North America	USA
+612		1	S			[]		G23282	North America	USA
+613		1	S			[]		G23283	North America	USA
+614	3803	1	I	2020-03-28	3804	[]	2020-03-29	G23284	North America	USA
+615	2997	1	I	2020-03-09	1000	[]	2020-03-11	G23285	North America	USA
+616		1	S			[]		G23286	North America	USA
+617	5469	0	I	2020-03-21	2797	[]	2020-03-24	G23287	North America	USA
+618		0	S			[]		G23288	North America	USA
+619		1	S			[]		G23289	North America	USA
+620		0	S			[]		G23290	North America	USA
+621		0	S			[]		G23291	North America	USA
+622		1	S			[]		G23292	North America	USA
+623		0	S			[]		G23293	North America	USA
+624		0	S			[]		G23294	North America	USA
+625		1	S			[]		G23295	North America	USA
+626	7003	0	I	2020-03-20	6412	[]	2020-03-27	G23296	North America	USA
+627	850	1	I	2020-03-27	2896	[]	2020-04-01	G23297	North America	USA
+628		0	S			[]		G23298	North America	USA
+629		1	S			[]		G23299	North America	USA
+630		1	S			[]		G23300	North America	USA
+631		0	S			[]		G23301	North America	USA
+632		0	S			[]		G23302	North America	USA
+633		1	S			[]		G23303	North America	USA
+634		1	S			[]		G23304	North America	USA
+635		1	S			[]		G23305	North America	USA
+636		1	S			[]		G23306	North America	USA
+637		1	S			[]		G23307	North America	USA
+638		0	S			[]		G23308	North America	USA
+639		0	S			[]		G23309	North America	USA
+640		0	S			[]		G23310	North America	USA
+641		1	S			[]		G23311	North America	USA
+642		1	S			[]		G23312	North America	USA
+643		0	S			[]		G23313	North America	USA
+644	5104	1	I	2020-03-28	5895	[]	2020-03-29	G23314	North America	USA
+645	5143	1	I	2020-03-28	1817	[]	2020-04-04	G23315	North America	USA
+646		0	S			[]		G23316	North America	USA
+647		0	S			[]		G23317	North America	USA
+648		1	S			[]		G23318	North America	USA
+649		0	S			[]		G23319	North America	USA
+650	7036	0	I	2020-03-08	6911	[]	2020-03-13	G23320	North America	USA
+651		0	S			[]		G23321	North America	USA
+652		0	S			[]		G23322	North America	USA
+653		0	S			[]		G23323	North America	USA
+654		0	S			[]		G23324	North America	USA
+655		0	S			[]		G23325	North America	USA
+656		1	S			[]		G23326	North America	USA
+657		0	S			[]		G23327	North America	USA
+658		1	S			[]		G23328	North America	USA
+659		0	S			[]		G23329	North America	USA
+660	1838	0	I	2020-03-18	2896	[]	2020-04-06	G23330	North America	USA
+661		0	S			[]		G23331	North America	USA
+662		1	S			[]		G23332	North America	USA
+663	4615	1	I	2020-03-10	2997	[]	2020-03-23	G23333	North America	USA
+664		0	S			[]		G23334	North America	USA
+665	2215	0	I	2020-03-10	198	[]	2020-03-17	G23335	North America	USA
+666	7922	1	R	2020-03-07	198	[]	2020-03-10	G23336	North America	USA
+667		1	S			[]		G23337	North America	USA
+668		1	S			[]		G23338	North America	USA
+669		1	S			[]		G23339	North America	USA
+670		0	S			[]		G23340	North America	USA
+671		0	S			[]		G23341	North America	USA
+672		0	S			[]		G23342	North America	USA
+673		1	S			[]		G23343	North America	USA
+674	8250	1	I	2020-03-31	1123	[]	2020-04-01	G23344	North America	USA
+675		0	S			[]		G23345	North America	USA
+676	110	1	I	2020-03-12	2896	[]	2020-03-13	G23346	North America	USA
+677		0	S			[]		G23347	North America	USA
+678		0	S			[]		G23348	North America	USA
+679		0	S			[]		G23349	North America	USA
+680		0	S			[]		G23350	North America	USA
+681		0	S			[]		G23351	North America	USA
+682		0	S			[]		G23352	North America	USA
+683	7948	0	I	2020-03-20	1720	[]	2020-03-20	G23353	North America	USA
+684	68	0	R	2020-03-17	6412	[]	2020-03-20	G23354	North America	USA
+685		1	S			[]		G23355	North America	USA
+686	2468	1	I	2020-03-25	5895	[]	2020-04-12	G23356	North America	USA
+687		0	S			[]		G23357	North America	USA
+688		1	S			[]		G23358	North America	USA
+689		0	S			[]		G23359	North America	USA
+690		0	S			[]		G23360	North America	USA
+691		0	S			[]		G23361	North America	USA
+692		1	S			[]		G23362	North America	USA
+693		0	S			[]		G23363	North America	USA
+694		1	S			[]		G23364	North America	USA
+695		1	S			[]		G23365	North America	USA
+696		0	S			[]		G23366	North America	USA
+697		1	S			[]		G23367	North America	USA
+698		1	S			[]		G23368	North America	USA
+699		1	S			[]		G23369	North America	USA
+700		0	S			[]		G23370	North America	USA
+701		1	S			[]		G23371	North America	USA
+702		0	S			[]		G23372	North America	USA
+703		1	S			[]		G23373	North America	USA
+704		1	S			[]		G23374	North America	USA
+705		1	S			[]		G23375	North America	USA
+706		1	S			[]		G23376	North America	USA
+707	3655	1	I	2020-03-15	2797	[]	2020-03-17	G23377	North America	USA
+708		0	S			[]		G23378	North America	USA
+709		1	S			[]		G23379	North America	USA
+710	2363	0	I	2020-03-12	4196	[]	2020-03-28	G23380	North America	USA
+711		1	S			[]		G23381	North America	USA
+712		0	S			[]		G23382	North America	USA
+713	2381	1	I	2020-03-20	9887	[]	2020-03-26	G23383	North America	USA
+714	2603	1	I	2020-03-25	2917	[]	2020-03-29	G23384	North America	USA
+715		1	S			[]		G23385	North America	USA
+716		1	S			[]		G23386	North America	USA
+717	1721	1	I	2020-03-12	1479	[]	2020-03-17	G23387	North America	USA
+718		0	S			[]		G23388	North America	USA
+719		1	S			[]		G23389	North America	USA
+720		1	S			[]		G23390	North America	USA
+721		1	S			[]		G23391	North America	USA
+722		0	S			[]		G23392	North America	USA
+723		0	S			[]		G23393	North America	USA
+724	1153	0	I	2020-03-23	2077	[]	2020-03-23	G23394	North America	USA
+725		1	S			[]		G23395	North America	USA
+726		1	S			[]		G23396	North America	USA
+727		0	S			[]		G23397	North America	USA
+728		0	S			[]		G23398	North America	USA
+729		1	S			[]		G23399	North America	USA
+730		0	S			[]		G23400	North America	USA
+731		0	S			[]		G23401	North America	USA
+732		1	S			[]		G23402	North America	USA
+733		0	S			[]		G23403	North America	USA
+734		1	S			[]		G23404	North America	USA
+735		0	S			[]		G23405	North America	USA
+736		0	S			[]		G23406	North America	USA
+737		1	S			[]		G23407	North America	USA
+738		0	S			[]		G23408	North America	USA
+739		0	S			[]		G23409	North America	USA
+740		1	S			[]		G23410	North America	USA
+741		0	S			[]		G23411	North America	USA
+742	7621	0	I	2020-03-28	6551	[]	2020-04-01	G23412	North America	USA
+743		0	S			[]		G23413	North America	USA
+744	5646	1	I	2020-03-27	5311	[]	2020-03-29	G23414	North America	USA
+745		1	S			[]		G23415	North America	USA
+746		1	S			[]		G23416	North America	USA
+747		1	S			[]		G23417	North America	USA
+748		0	S			[]		G23418	North America	USA
+749		1	S			[]		G23419	North America	USA
+750		1	S			[]		G23420	North America	USA
+751		0	S			[]		G23421	North America	USA
+752		0	S			[]		G23422	North America	USA
+753		0	S			[]		G23423	North America	USA
+754		0	S			[]		G23424	North America	USA
+755		1	S			[]		G23425	North America	USA
+756		1	S			[]		G23426	North America	USA
+757		0	S			[]		G23427	North America	USA
+758		0	S			[]		G23428	North America	USA
+759		0	S			[]		G23429	North America	USA
+760		0	S			[]		G23430	North America	USA
+761		0	S			[]		G23431	North America	USA
+762		0	S			[]		G23432	North America	USA
+763		1	S			[]		G23433	North America	USA
+764		0	S			[]		G23434	North America	USA
+765		0	S			[]		G23435	North America	USA
+766		0	S			[]		G23436	North America	USA
+767		1	S			[]		G23437	North America	USA
+768		1	S			[]		G23438	North America	USA
+769	6422	1	I	2020-03-20	1000	[]	2020-03-23	G23439	North America	USA
+770		1	S			[]		G23440	North America	USA
+771		1	S			[]		G23441	North America	USA
+772	7590	0	I	2020-03-28	7760	[]	2020-03-31	G23442	North America	USA
+773		0	S			[]		G23443	North America	USA
+774		0	S			[]		G23444	North America	USA
+775		0	S			[]		G23445	North America	USA
+776		1	S			[]		G23446	North America	USA
+777		0	S			[]		G23447	North America	USA
+778		0	S			[]		G23448	North America	USA
+779		1	S			[]		G23449	North America	USA
+780		1	S			[]		G23450	North America	USA
+781		1	S			[]		G23451	North America	USA
+782		0	S			[]		G23452	North America	USA
+783		0	S			[]		G23453	North America	USA
+784		1	S			[]		G23454	North America	USA
+785		1	S			[]		G23455	North America	USA
+786		0	S			[]		G23456	North America	USA
+787		0	S			[]		G23457	North America	USA
+788		1	S			[]		G23458	North America	USA
+789	6073	1	I	2020-03-12	2114	[]	2020-03-20	G23459	North America	USA
+790		0	S			[]		G23460	North America	USA
+791	9412	1	I	2020-03-28	9671	[]	2020-04-03	G23461	North America	USA
+792		0	S			[]		G23462	North America	USA
+793		0	S			[]		G23463	North America	USA
+794		1	S			[]		G23464	North America	USA
+795		0	S			[]		G23465	North America	USA
+796		1	S			[]		G23466	North America	USA
+797		0	S			[]		G23467	North America	USA
+798		0	S			[]		G23468	North America	USA
+799		0	S			[]		G23469	North America	USA
+800	4196	1	I	2020-03-10	2997	[]	2020-03-13	G23470	North America	USA
+801	265	1	I	2020-03-28	1720	[]	2020-04-10	G23471	North America	USA
+802		1	S			[]		G23472	North America	USA
+803		0	S			[]		G23473	North America	USA
+804	2823	0	I	2020-03-27	6470	[]	2020-04-06	G23474	North America	USA
+805		0	S			[]		G23475	North America	USA
+806		1	S			[]		G23476	North America	USA
+807		1	S			[]		G23477	North America	USA
+808	6855	1	I	2020-03-21	1000	[]	2020-03-23	G23478	North America	USA
+809	6884	0	I	2020-03-28	7798	[]	2020-03-31	G23479	North America	USA
+810		1	S			[]		G23480	North America	USA
+811		1	S			[]		G23481	North America	USA
+812		1	S			[]		G23482	North America	USA
+813		0	S			[]		G23483	North America	USA
+814		0	S			[]		G23484	North America	USA
+815		0	S			[]		G23485	North America	USA
+816	2126	1	I	2020-03-12	4615	[]	2020-03-22	G23486	North America	USA
+817		0	S			[]		G23487	North America	USA
+818	7828	0	I	2020-03-25	9046	[]	2020-04-01	G23488	North America	USA
+819		1	S			[]		G23489	North America	USA
+820		1	S			[]		G23490	North America	USA
+821		0	S			[]		G23491	North America	USA
+822		1	S			[]		G23492	North America	USA
+823		1	S			[]		G23493	North America	USA
+824		1	S			[]		G23494	North America	USA
+825		0	S			[]		G23495	North America	USA
+826		1	S			[]		G23496	North America	USA
+827	8214	0	I	2020-03-23	6470	[]	2020-04-12	G23497	North America	USA
+828		0	S			[]		G23498	North America	USA
+829	6074	0	I	2020-03-20	1000	[]	2020-03-20	G23499	North America	USA
+830	6608	1	I	2020-03-06	198	[]	2020-03-06	G23500	North America	USA
+831		0	S			[]		G23501	North America	USA
+832		0	S			[]		G23502	North America	USA
+833		0	S			[]		G23503	North America	USA
+834		1	S			[]		G23504	North America	USA
+835		0	S			[]		G23505	North America	USA
+836		1	S			[]		G23506	North America	USA
+837		1	S			[]		G23507	North America	USA
+838		1	S			[]		G23508	North America	USA
+839		1	S			[]		G23509	North America	USA
+840		0	S			[]		G23510	North America	USA
+841	2114	1	I	2020-03-10	4676	[]	2020-03-14	G23511	North America	USA
+842		1	S			[]		G23512	North America	USA
+843		1	S			[]		G23513	North America	USA
+844		1	S			[]		G23514	North America	USA
+845		0	S			[]		G23515	North America	USA
+846		0	S			[]		G23516	North America	USA
+847	5823	1	I	2020-03-25	1817	[]	2020-04-08	G23517	North America	USA
+848		0	S			[]		G23518	North America	USA
+849		1	S			[]		G23519	North America	USA
+850		1	S			[]		G23520	North America	USA
+851		1	S			[]		G23521	North America	USA
+852		0	S			[]		G23522	North America	USA
+853	6822	0	I	2020-03-28	7587	[]	2020-04-04	G23523	North America	USA
+854	6555	1	I	2020-03-31	712	[]	2020-04-20	G23524	North America	USA
+855	5207	0	I	2020-03-10	5757	[]	2020-03-19	G23525	North America	USA
+856		0	S			[]		G23526	North America	USA
+857		0	S			[]		G23527	North America	USA
+858		1	S			[]		G23528	North America	USA
+859		0	S			[]		G23529	North America	USA
+860		1	S			[]		G23530	North America	USA
+861		0	S			[]		G23531	North America	USA
+862		1	S			[]		G23532	North America	USA
+863	5829	0	I	2020-03-15	2797	[]	2020-03-24	G23533	North America	USA
+864		0	S			[]		G23534	North America	USA
+865		1	S			[]		G23535	North America	USA
+866	6911	0	I	2020-03-06	198	[]	2020-03-10	G23536	North America	USA
+867		0	S			[]		G23537	North America	USA
+868		0	S			[]		G23538	North America	USA
+869		0	S			[]		G23539	North America	USA
+870		0	S			[]		G23540	North America	USA
+871		0	S			[]		G23541	North America	USA
+872	7197	1	I	2020-03-28	1586	[]	2020-04-11	G23542	North America	USA
+873		0	S			[]		G23543	North America	USA
+874		0	S			[]		G23544	North America	USA
+875	4154	0	I	2020-03-23	2077	[]	2020-04-01	G23545	North America	USA
+876		0	S			[]		G23546	North America	USA
+877		0	S			[]		G23547	North America	USA
+878		1	S			[]		G23548	North America	USA
+879		0	S			[]		G23549	North America	USA
+880	7514	1	I	2020-03-18	2917	[]	2020-03-23	G23550	North America	USA
+881		0	S			[]		G23551	North America	USA
+882		1	S			[]		G23552	North America	USA
+883		0	S			[]		G23553	North America	USA
+884		1	S			[]		G23554	North America	USA
+885		0	S			[]		G23555	North America	USA
+886	6176	0	I	2020-03-12	5207	[]	2020-03-17	G23556	North America	USA
+887	4620	1	I	2020-03-20	2215	[]	2020-04-03	G23557	North America	USA
+888		0	S			[]		G23558	North America	USA
+889		1	S			[]		G23559	North America	USA
+890		0	S			[]		G23560	North America	USA
+891		1	S			[]		G23561	North America	USA
+892		1	S			[]		G23562	North America	USA
+893		0	S			[]		G23563	North America	USA
+894		1	S			[]		G23564	North America	USA
+895	1823	1	I	2020-03-13	1000	[]	2020-03-30	G23565	North America	USA
+896	1311	1	I	2020-03-30	6551	[]	2020-04-04	G23566	North America	USA
+897		1	S			[]		G23567	North America	USA
+898		1	S			[]		G23568	North America	USA
+899		0	S			[]		G23569	North America	USA
+900		1	S			[]		G23570	North America	USA
+901	2571	1	I	2020-03-30	1586	[]	2020-04-01	G23571	North America	USA
+902		1	S			[]		G23572	North America	USA
+903		0	S			[]		G23573	North America	USA
+904		1	S			[]		G23574	North America	USA
+905	9990	1	I	2020-03-08	5936	[]	2020-03-11	G23575	North America	USA
+906		1	S			[]		G23576	North America	USA
+907		0	S			[]		G23577	North America	USA
+908	4277	1	I	2020-03-31	712	[]	2020-04-13	G23578	North America	USA
+909		1	S			[]		G23579	North America	USA
+910		0	S			[]		G23580	North America	USA
+911		0	S			[]		G23581	North America	USA
+912		0	S			[]		G23582	North America	USA
+913		1	S			[]		G23583	North America	USA
+914		0	S			[]		G23584	North America	USA
+915		0	S			[]		G23585	North America	USA
+916		0	S			[]		G23586	North America	USA
+917		0	S			[]		G23587	North America	USA
+918		0	S			[]		G23588	North America	USA
+919		0	S			[]		G23589	North America	USA
+920		0	S			[]		G23590	North America	USA
+921	7069	1	I	2020-03-09	4546	[]	2020-03-13	G23591	North America	USA
+922		0	S			[]		G23592	North America	USA
+923		1	S			[]		G23593	North America	USA
+924	4546	1	I	2020-03-05	5936	[]	2020-04-07	G23594	North America	USA
+925		1	S			[]		G23595	North America	USA
+926		0	S			[]		G23596	North America	USA
+927		1	S			[]		G23597	North America	USA
+928		1	S			[]		G23598	North America	USA
+929		1	S			[]		G23599	North America	USA
+930		0	S			[]		G23600	North America	USA
+931		0	S			[]		G23601	North America	USA
+932	9201	0	I	2020-03-18	1838	[]	2020-03-29	G23602	North America	USA
+933		0	S			[]		G23603	North America	USA
+934		1	S			[]		G23604	North America	USA
+935		1	S			[]		G23605	North America	USA
+936		0	S			[]		G23606	North America	USA
+937	2193	0	I	2020-03-30	2077	[]	2020-04-05	G23607	North America	USA
+938		0	S			[]		G23608	North America	USA
+939	4653	0	I	2020-03-20	7036	[]	2020-04-17	G23609	North America	USA
+940		1	S			[]		G23610	North America	USA
+941		0	S			[]		G23611	North America	USA
+942		0	S			[]		G23612	North America	USA
+943		0	S			[]		G23613	North America	USA
+944		1	S			[]		G23614	North America	USA
+945		1	S			[]		G23615	North America	USA
+946		1	S			[]		G23616	North America	USA
+947		1	S			[]		G23617	North America	USA
+948		0	S			[]		G23618	North America	USA
+949		1	S			[]		G23619	North America	USA
+950		1	S			[]		G23620	North America	USA
+951		0	S			[]		G23621	North America	USA
+952		1	S			[]		G23622	North America	USA
+953	659	0	I	2020-03-28	2077	[]	2020-03-31	G23623	North America	USA
+954		1	S			[]		G23624	North America	USA
+955	9051	0	I	2020-03-14	4464	[]	2020-03-15	G23625	North America	USA
+956		1	S			[]		G23626	North America	USA
+957		0	S			[]		G23627	North America	USA
+958		0	S			[]		G23628	North America	USA
+959		1	S			[]		G23629	North America	USA
+960	7880	1	I	2020-03-31	2917	[]	2020-04-06	G23630	North America	USA
+961	7695	0	I	2020-03-20	7036	[]	2020-03-22	G23631	North America	USA
+962		1	S			[]		G23632	North America	USA
+963		0	S			[]		G23633	North America	USA
+964		1	S			[]		G23634	North America	USA
+965		0	S			[]		G23635	North America	USA
+966		1	S			[]		G23636	North America	USA
+967		0	S			[]		G23637	North America	USA
+968		0	S			[]		G23638	North America	USA
+969	3390	0	I	2020-03-27	5895	[]	2020-04-20	G23639	North America	USA
+970		1	S			[]		G23640	North America	USA
+971	1198	1	I	2020-03-12	7036	[]	2020-03-23	G23641	North America	USA
+972	941	1	I	2020-03-28	8083	[]	2020-03-30	G23642	North America	USA
+973		0	S			[]		G23643	North America	USA
+974		0	S			[]		G23644	North America	USA
+975		0	S			[]		G23645	North America	USA
+976		1	S			[]		G23646	North America	USA
+977		1	S			[]		G23647	North America	USA
+978		1	S			[]		G23648	North America	USA
+979		0	S			[]		G23649	North America	USA
+980		0	S			[]		G23650	North America	USA
+981	7349	1	I	2020-03-15	3765	[]	2020-04-12	G23651	North America	USA
+982		1	S			[]		G23652	North America	USA
+983	1994	0	I	2020-03-28	8083	[]	2020-03-28	G23653	North America	USA
+984		0	S			[]		G23654	North America	USA
+985		1	S			[]		G23655	North America	USA
+986		1	S			[]		G23656	North America	USA
+987		1	S			[]		G23657	North America	USA
+988		1	S			[]		G23658	North America	USA
+989		1	S			[]		G23659	North America	USA
+990	5936	1	I	2020-03-04	1000	[]	2020-03-06	G23660	North America	USA
+991		0	S			[]		G23661	North America	USA
+992		0	S			[]		G23662	North America	USA
+993		1	S			[]		G23663	North America	USA
+994		1	S			[]		G23664	North America	USA
+995		0	S			[]		G23665	North America	USA
+996		1	S			[]		G23666	North America	USA
+997	6304	0	I	2020-03-18	2896	[]	2020-03-29	G23667	North America	USA
+998		1	S			[]		G23668	North America	USA
+999		1	S			[]		G23669	North America	USA

@@ -1,0 +1,308 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "13.0.0"
+  },
+  "models": {
+    "location": {
+      "alphabet": [
+        "community A",
+        "community B",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.6349395984542158,
+        0.3650604015457842
+      ],
+      "rate": 220.31442424218545,
+      "transition_matrix": [
+        [
+          0.0,
+          2.157112841218357
+        ],
+        [
+          2.157112841218357,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "G22712": {
+      "location": "community A"
+    },
+    "G22734": {
+      "location": "community A"
+    },
+    "G22757": {
+      "location": "community A"
+    },
+    "G22763": {
+      "location": "community B"
+    },
+    "G22768": {
+      "location": "community A"
+    },
+    "G22782": {
+      "location": "community A"
+    },
+    "G22814": {
+      "location": "community A"
+    },
+    "G22818": {
+      "location": "community B"
+    },
+    "G22821": {
+      "location": "community A"
+    },
+    "G22854": {
+      "location": "community B"
+    },
+    "G22867": {
+      "location": "community A"
+    },
+    "G22880": {
+      "location": "community A"
+    },
+    "G22914": {
+      "location": "community A"
+    },
+    "G22929": {
+      "location": "community A"
+    },
+    "G22964": {
+      "location": "community B"
+    },
+    "G22981": {
+      "location": "community A"
+    },
+    "G22998": {
+      "location": "community A"
+    },
+    "G23038": {
+      "location": "community A"
+    },
+    "G23041": {
+      "location": "community A"
+    },
+    "G23054": {
+      "location": "community A"
+    },
+    "G23067": {
+      "location": "community B"
+    },
+    "G23075": {
+      "location": "community A"
+    },
+    "G23096": {
+      "location": "community A"
+    },
+    "G23116": {
+      "location": "community A"
+    },
+    "G23165": {
+      "location": "community B"
+    },
+    "G23254": {
+      "location": "community A"
+    },
+    "G23285": {
+      "location": "community B"
+    },
+    "G23296": {
+      "location": "community A"
+    },
+    "G23335": {
+      "location": "community A"
+    },
+    "G23353": {
+      "location": "community A"
+    },
+    "G23354": {
+      "location": "community A"
+    },
+    "G23394": {
+      "location": "community A"
+    },
+    "G23412": {
+      "location": "community A"
+    },
+    "G23414": {
+      "location": "community B"
+    },
+    "G23474": {
+      "location": "community A"
+    },
+    "G23478": {
+      "location": "community B"
+    },
+    "G23488": {
+      "location": "community A"
+    },
+    "G23517": {
+      "location": "community B"
+    },
+    "G23523": {
+      "location": "community A"
+    },
+    "G23525": {
+      "location": "community A"
+    },
+    "G23536": {
+      "location": "community A"
+    },
+    "G23556": {
+      "location": "community A"
+    },
+    "G23591": {
+      "location": "community B"
+    },
+    "G23602": {
+      "location": "community A"
+    },
+    "G23607": {
+      "location": "community A"
+    },
+    "G23609": {
+      "location": "community A"
+    },
+    "G23623": {
+      "location": "community A"
+    },
+    "G23631": {
+      "location": "community A"
+    },
+    "G23651": {
+      "location": "community B"
+    },
+    "G23653": {
+      "location": "community A"
+    },
+    "NODE_0000000": {
+      "location": "community A"
+    },
+    "NODE_0000001": {
+      "location": "community A"
+    },
+    "NODE_0000002": {
+      "location": "community A"
+    },
+    "NODE_0000003": {
+      "location": "community A"
+    },
+    "NODE_0000006": {
+      "location": "community A"
+    },
+    "NODE_0000007": {
+      "location": "community A"
+    },
+    "NODE_0000010": {
+      "location": "community B"
+    },
+    "NODE_0000013": {
+      "location": "community A"
+    },
+    "NODE_0000014": {
+      "location": "community A"
+    },
+    "NODE_0000015": {
+      "location": "community A"
+    },
+    "NODE_0000018": {
+      "location": "community A"
+    },
+    "NODE_0000019": {
+      "location": "community A"
+    },
+    "NODE_0000020": {
+      "location": "community A"
+    },
+    "NODE_0000021": {
+      "location": "community A"
+    },
+    "NODE_0000022": {
+      "location": "community A"
+    },
+    "NODE_0000023": {
+      "location": "community A"
+    },
+    "NODE_0000025": {
+      "location": "community A"
+    },
+    "NODE_0000026": {
+      "location": "community B"
+    },
+    "NODE_0000027": {
+      "location": "community A"
+    },
+    "NODE_0000028": {
+      "location": "community A"
+    },
+    "NODE_0000029": {
+      "location": "community A"
+    },
+    "NODE_0000030": {
+      "location": "community B"
+    },
+    "NODE_0000031": {
+      "location": "community A"
+    },
+    "NODE_0000032": {
+      "location": "community A"
+    },
+    "NODE_0000033": {
+      "location": "community A"
+    },
+    "NODE_0000034": {
+      "location": "community A"
+    },
+    "NODE_0000035": {
+      "location": "community A"
+    },
+    "NODE_0000036": {
+      "location": "community A"
+    },
+    "NODE_0000037": {
+      "location": "community A"
+    },
+    "NODE_0000038": {
+      "location": "community A"
+    },
+    "NODE_0000039": {
+      "location": "community A"
+    },
+    "NODE_0000040": {
+      "location": "community A"
+    },
+    "NODE_0000041": {
+      "location": "community A"
+    },
+    "NODE_0000042": {
+      "location": "community A"
+    },
+    "NODE_0000043": {
+      "location": "community A"
+    },
+    "NODE_0000044": {
+      "location": "community A"
+    },
+    "NODE_0000045": {
+      "location": "community A"
+    },
+    "NODE_0000046": {
+      "location": "community A"
+    },
+    "NODE_0000047": {
+      "location": "community A"
+    },
+    "NODE_0000048": {
+      "location": "community A"
+    },
+    "NODE_0000049": {
+      "location": "community A"
+    },
+    "base_case": {
+      "location": "community A"
+    }
+  }
+}

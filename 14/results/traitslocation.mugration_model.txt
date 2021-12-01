@@ -1,0 +1,21 @@
+Map from character to field name
+A:	community A
+B:	community B
+C:	?
+
+
+Substitution rate (mu): 220.314424
+
+Equilibrium frequencies (pi_i):
+  A: 0.6349
+  B: 0.3651
+
+Symmetrized rates from j->i (W_ij):
+	A	B
+  A	0	2.1571
+  B	2.1571	0
+
+Actual rates from j->i (Q_ij):
+	A	B
+  A	0	1.3696
+  B	0.7875	0

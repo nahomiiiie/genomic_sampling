@@ -1,0 +1,153 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Mac OS X 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    Stevia.local (AVX2, FMA3, 8 GB RAM)
+Command: iqtree2 -ninit 2 -n 2 -me 0.05 -nt 1 -s results/aligned-delim.fasta -m GTR
+Seed:    127327 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 19 23:01:02 2021
+Kernel:  AVX+FMA - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file results/aligned-delim.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 51 sequences with 29903 columns, 57 distinct patterns
+33 parsimony-informative, 26 singleton sites, 29844 constant sites
+           Gap/Ambiguity  Composition  p-value
+   1  base_case    0.00%    passed    100.00%
+   2  G23335       0.00%    passed    100.00%
+   3  G22914       0.00%    passed    100.00%
+   4  G22782       0.00%    passed    100.00%
+   5  G23536       0.00%    passed    100.00%
+   6  G23353       0.00%    passed    100.00%
+   7  G22880       0.00%    passed    100.00%
+   8  G23631       0.00%    passed    100.00%
+   9  G23478       0.00%    passed    100.00%
+  10  G23285       0.00%    passed    100.00%
+  11  G23354       0.00%    passed    100.00%
+  12  G23591       0.00%    passed    100.00%
+  13  G23296       0.00%    passed    100.00%
+  14  G23067       0.00%    passed    100.00%
+  15  G23075       0.00%    passed    100.00%
+  16  G23054       0.00%    passed    100.00%
+  17  G23525       0.00%    passed    100.00%
+  18  G23556       0.00%    passed    100.00%
+  19  G22712       0.00%    passed    100.00%
+  20  G22854       0.00%    passed    100.00%
+  21  G22814       0.00%    passed    100.00%
+  22  G22981       0.00%    passed    100.00%
+  23  G22998       0.00%    passed    100.00%
+  24  G23517       0.00%    passed    100.00%
+  25  G23474       0.00%    passed    100.00%
+  26  G23414       0.00%    passed    100.00%
+  27  G22763       0.00%    passed    100.00%
+  28  G23041       0.00%    passed    100.00%
+  29  G23116       0.00%    passed    100.00%
+  30  G23523       0.00%    passed    100.00%
+  31  G23165       0.00%    passed    100.00%
+  32  G23623       0.00%    passed    100.00%
+  33  G23607       0.00%    passed    100.00%
+  34  G23394       0.00%    passed    100.00%
+  35  G22768       0.00%    passed    100.00%
+  36  G22867       0.00%    passed    100.00%
+  37  G23653       0.00%    passed    100.00%
+  38  G23602       0.00%    passed    100.00%
+  39  G22734       0.00%    passed    100.00%
+  40  G23038       0.00%    passed    100.00%
+  41  G23609       0.00%    passed    100.00%
+  42  G22757       0.00%    passed    100.00%
+  43  G22821       0.00%    passed    100.00%
+  44  G23254       0.00%    passed    100.00%
+  45  G23651       0.00%    passed     99.99%
+  46  G22929       0.00%    passed    100.00%
+  47  G23412       0.00%    passed    100.00%
+  48  G23096       0.00%    passed    100.00%
+  49  G22964       0.00%    passed    100.00%
+  50  G22818       0.00%    passed    100.00%
+  51  G23488       0.00%    passed     99.99%
+****  TOTAL        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: G23335 is identical to base_case but kept for subsequent analysis
+NOTE: G23591 is identical to G23354 but kept for subsequent analysis
+NOTE: G23556 is identical to G23525 but kept for subsequent analysis
+NOTE: G22981 is identical to G22814 but kept for subsequent analysis
+NOTE: G23523 is identical to G23116 but kept for subsequent analysis
+NOTE: G23607 is identical to G23623 but kept for subsequent analysis
+NOTE: G23653 is identical to G22867 but kept for subsequent analysis
+NOTE: G23038 is identical to G22734 but kept for subsequent analysis
+NOTE: G22821 is identical to G22757 but kept for subsequent analysis
+NOTE: G23412 is identical to G22929 but kept for subsequent analysis
+NOTE: 15 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: G22914 (identical to base_case) is ignored but added at the end
+NOTE: G22782 (identical to base_case) is ignored but added at the end
+NOTE: G23536 (identical to base_case) is ignored but added at the end
+NOTE: G23353 (identical to base_case) is ignored but added at the end
+NOTE: G22880 (identical to base_case) is ignored but added at the end
+NOTE: G23631 (identical to base_case) is ignored but added at the end
+NOTE: G23478 (identical to base_case) is ignored but added at the end
+NOTE: G23285 (identical to base_case) is ignored but added at the end
+NOTE: G22998 (identical to G22814) is ignored but added at the end
+NOTE: G23394 (identical to G23623) is ignored but added at the end
+NOTE: G22768 (identical to G23623) is ignored but added at the end
+NOTE: G23602 (identical to G22867) is ignored but added at the end
+NOTE: G23254 (identical to G22757) is ignored but added at the end
+NOTE: G23096 (identical to G22929) is ignored but added at the end
+NOTE: G22964 (identical to G22929) is ignored but added at the end
+Alignment was printed to results/aligned-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/aligned-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -41245.150
+2. Current log-likelihood: -41243.516
+Optimal log-likelihood: -41243.112
+Rate parameters:  A-C: 1.38982  A-G: 1.11121  A-T: 0.63735  C-G: 1.49627  C-T: 1.57248  G-T: 1.00000
+Base frequencies:  A: 0.299  C: 0.184  G: 0.196  T: 0.321
+Parameters optimization took 2 rounds (0.007 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.004322 sec (of wall-clock time) 0.004296 sec(of CPU time)
+Computing RapidNJ tree took 0.000201 sec (of wall-clock time) 0.000236 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -41244.227
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+BETTER TREE FOUND at iteration 1: -41243.112
+Finish initializing candidate tree set (4)
+Current best tree score: -41243.112 / CPU time: 0.006
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -41243.112
+2. Current log-likelihood: -41242.786
+3. Current log-likelihood: -41242.658
+Optimal log-likelihood: -41242.622
+Rate parameters:  A-C: 1.76846  A-G: 1.55109  A-T: 1.32218  C-G: 1.92335  C-T: 1.90714  G-T: 1.00000
+Base frequencies:  A: 0.299  C: 0.184  G: 0.196  T: 0.321
+Parameters optimization took 3 rounds (0.003 sec)
+BEST SCORE FOUND : -41242.622
+Total tree length: 0.002
+
+Total number of iterations: 2
+CPU time used for tree search: 0.012 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.007 sec (0h:0m:0s)
+Total CPU time used: 0.043 sec (0h:0m:0s)
+Total wall-clock time used: 0.046 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/aligned-delim.fasta.treefile
+  Likelihood distances:          results/aligned-delim.fasta.mldist
+  Screen log file:               results/aligned-delim.fasta.log
+
+Date and Time: Tue Oct 19 23:01:02 2021

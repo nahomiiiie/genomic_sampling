@@ -1,0 +1,383 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "13.0.0"
+  },
+  "models": {
+    "location": {
+      "alphabet": [
+        "community A",
+        "community B",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.5251989930123149,
+        0.4748010069876852
+      ],
+      "rate": 345.72852895475836,
+      "transition_matrix": [
+        [
+          0.0,
+          2.0050928496096696
+        ],
+        [
+          2.0050928496096696,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "G22670": {
+      "location": "community B"
+    },
+    "G22680": {
+      "location": "community A"
+    },
+    "G22682": {
+      "location": "community B"
+    },
+    "G22693": {
+      "location": "community A"
+    },
+    "G22708": {
+      "location": "community B"
+    },
+    "G22757": {
+      "location": "community A"
+    },
+    "G22768": {
+      "location": "community A"
+    },
+    "G22770": {
+      "location": "community A"
+    },
+    "G22782": {
+      "location": "community A"
+    },
+    "G22814": {
+      "location": "community A"
+    },
+    "G22821": {
+      "location": "community A"
+    },
+    "G22831": {
+      "location": "community B"
+    },
+    "G22838": {
+      "location": "community B"
+    },
+    "G22843": {
+      "location": "community A"
+    },
+    "G22850": {
+      "location": "community B"
+    },
+    "G22870": {
+      "location": "community B"
+    },
+    "G22872": {
+      "location": "community A"
+    },
+    "G22880": {
+      "location": "community A"
+    },
+    "G22893": {
+      "location": "community A"
+    },
+    "G22914": {
+      "location": "community A"
+    },
+    "G22924": {
+      "location": "community B"
+    },
+    "G22929": {
+      "location": "community A"
+    },
+    "G22958": {
+      "location": "community B"
+    },
+    "G22964": {
+      "location": "community B"
+    },
+    "G22981": {
+      "location": "community A"
+    },
+    "G22983": {
+      "location": "community B"
+    },
+    "G22990": {
+      "location": "community B"
+    },
+    "G22991": {
+      "location": "community B"
+    },
+    "G22998": {
+      "location": "community A"
+    },
+    "G23009": {
+      "location": "community B"
+    },
+    "G23017": {
+      "location": "community A"
+    },
+    "G23038": {
+      "location": "community A"
+    },
+    "G23054": {
+      "location": "community A"
+    },
+    "G23087": {
+      "location": "community B"
+    },
+    "G23096": {
+      "location": "community A"
+    },
+    "G23116": {
+      "location": "community A"
+    },
+    "G23209": {
+      "location": "community B"
+    },
+    "G23226": {
+      "location": "community A"
+    },
+    "G23253": {
+      "location": "community B"
+    },
+    "G23287": {
+      "location": "community A"
+    },
+    "G23296": {
+      "location": "community A"
+    },
+    "G23314": {
+      "location": "community B"
+    },
+    "G23320": {
+      "location": "community A"
+    },
+    "G23335": {
+      "location": "community A"
+    },
+    "G23354": {
+      "location": "community A"
+    },
+    "G23387": {
+      "location": "community B"
+    },
+    "G23412": {
+      "location": "community A"
+    },
+    "G23478": {
+      "location": "community B"
+    },
+    "G23499": {
+      "location": "community A"
+    },
+    "G23517": {
+      "location": "community B"
+    },
+    "G23525": {
+      "location": "community A"
+    },
+    "G23533": {
+      "location": "community A"
+    },
+    "G23556": {
+      "location": "community A"
+    },
+    "G23566": {
+      "location": "community B"
+    },
+    "G23578": {
+      "location": "community B"
+    },
+    "G23594": {
+      "location": "community B"
+    },
+    "G23602": {
+      "location": "community A"
+    },
+    "G23609": {
+      "location": "community A"
+    },
+    "G23623": {
+      "location": "community A"
+    },
+    "G23631": {
+      "location": "community A"
+    },
+    "G23653": {
+      "location": "community A"
+    },
+    "G23667": {
+      "location": "community A"
+    },
+    "NODE_0000000": {
+      "location": "community A"
+    },
+    "NODE_0000001": {
+      "location": "community A"
+    },
+    "NODE_0000002": {
+      "location": "community A"
+    },
+    "NODE_0000003": {
+      "location": "community A"
+    },
+    "NODE_0000005": {
+      "location": "community B"
+    },
+    "NODE_0000007": {
+      "location": "community B"
+    },
+    "NODE_0000008": {
+      "location": "community A"
+    },
+    "NODE_0000009": {
+      "location": "community A"
+    },
+    "NODE_0000010": {
+      "location": "community A"
+    },
+    "NODE_0000011": {
+      "location": "community A"
+    },
+    "NODE_0000012": {
+      "location": "community A"
+    },
+    "NODE_0000013": {
+      "location": "community A"
+    },
+    "NODE_0000014": {
+      "location": "community B"
+    },
+    "NODE_0000015": {
+      "location": "community B"
+    },
+    "NODE_0000016": {
+      "location": "community B"
+    },
+    "NODE_0000017": {
+      "location": "community A"
+    },
+    "NODE_0000018": {
+      "location": "community B"
+    },
+    "NODE_0000020": {
+      "location": "community B"
+    },
+    "NODE_0000022": {
+      "location": "community B"
+    },
+    "NODE_0000023": {
+      "location": "community B"
+    },
+    "NODE_0000024": {
+      "location": "community B"
+    },
+    "NODE_0000025": {
+      "location": "community A"
+    },
+    "NODE_0000027": {
+      "location": "community A"
+    },
+    "NODE_0000028": {
+      "location": "community A"
+    },
+    "NODE_0000029": {
+      "location": "community A"
+    },
+    "NODE_0000030": {
+      "location": "community A"
+    },
+    "NODE_0000032": {
+      "location": "community A"
+    },
+    "NODE_0000033": {
+      "location": "community A"
+    },
+    "NODE_0000034": {
+      "location": "community A"
+    },
+    "NODE_0000035": {
+      "location": "community A"
+    },
+    "NODE_0000036": {
+      "location": "community A"
+    },
+    "NODE_0000037": {
+      "location": "community B"
+    },
+    "NODE_0000038": {
+      "location": "community B"
+    },
+    "NODE_0000039": {
+      "location": "community A"
+    },
+    "NODE_0000040": {
+      "location": "community A"
+    },
+    "NODE_0000041": {
+      "location": "community A"
+    },
+    "NODE_0000042": {
+      "location": "community A"
+    },
+    "NODE_0000043": {
+      "location": "community A"
+    },
+    "NODE_0000044": {
+      "location": "community A"
+    },
+    "NODE_0000045": {
+      "location": "community A"
+    },
+    "NODE_0000046": {
+      "location": "community A"
+    },
+    "NODE_0000047": {
+      "location": "community A"
+    },
+    "NODE_0000048": {
+      "location": "community A"
+    },
+    "NODE_0000049": {
+      "location": "community B"
+    },
+    "NODE_0000050": {
+      "location": "community A"
+    },
+    "NODE_0000051": {
+      "location": "community A"
+    },
+    "NODE_0000052": {
+      "location": "community B"
+    },
+    "NODE_0000053": {
+      "location": "community B"
+    },
+    "NODE_0000054": {
+      "location": "community A"
+    },
+    "NODE_0000055": {
+      "location": "community A"
+    },
+    "NODE_0000056": {
+      "location": "community A"
+    },
+    "NODE_0000062": {
+      "location": "community A"
+    },
+    "NODE_0000067": {
+      "location": "community A"
+    },
+    "NODE_0000074": {
+      "location": "community A"
+    },
+    "base_case": {
+      "location": "community A"
+    }
+  }
+}
